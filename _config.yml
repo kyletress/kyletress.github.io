@@ -1,8 +1,8 @@
 # Site settings
-title: Skeleton
-email: your-email@domain.com
-description: "The Skeleton Jekyll theme"
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+title: Kyle Tress
+email: kyle@kyletress.com
+description: The website of 2014 Olympian Kyle Tress
+url: "https://kyletress.github.io" 
 locale: "en"
 
 # Build settings
