@@ -1,6 +1,14 @@
 # Skeleton
 
-Skeleton is an intentionally simple base Jekyll theme. Its minimal design is suitable for customization while remaining content-focused.  
+Skeleton is an intentionally simple base Jekyll theme. Its minimal design is suitable for customization while remaining content-focused.
+
+## Quick-Start
+
+### Fork the theme
+Fork the theme and rename the repo to **username.github.io**, replacing *username* with your GitHub username. This will create a [GitHub User Page]() that should be instantly viewable at the url *username.github.io*. If you are hosting more than one site, you will need to use a [GitHub Project Page] instead. Rename the repo and create a `gh-pages` branch off `master`. 
+
+### Customize the site
+Open `_config.yml` and edit the variables to fit your design.  
 
 ## Installation
 

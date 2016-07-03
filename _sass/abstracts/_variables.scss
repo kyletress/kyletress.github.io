@@ -29,6 +29,7 @@ $max-container-width: 700px;
 
 // Branding
 $brand-font: $font-sans;
+$brand-font-size: 1.8rem;
 $brand-color: #fff;
 $brand-text-transform: uppercase;
 $brand-color--hover: darken($brand-color, 15%);
@@ -41,6 +42,7 @@ $avatar-height: 125px;
 
 // Header
 $header-background: $color-primary;
+$header-font: $font-sans;
 $header-padding: 1rem;
 $header-link-color: #fff;
 $header-border-style:"";
