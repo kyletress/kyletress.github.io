@@ -18,7 +18,6 @@ $font-weight--bold: 700;
 $font-weight--ultra: 900;
 
 $body-font: $font-serif;
-$header-font: $font-sans;
 $font-size--normal: 1.6em; // sizing is in rems elsewhere (Chrome bug)
 $font-size--small: 1.3rem;
 $line-height: 1.7;
@@ -44,11 +43,21 @@ $avatar-height: 125px;
 $header-background: $color-primary;
 $header-font: $font-sans;
 $header-padding: 1rem;
-$header-link-color: #fff;
-$header-border-style:"";
+$header-link-color: #fff; // plain header links, outside navs
+$header-link-color--hover: lighten($header-link-color, 15%);
+$header-border-style: ""; // leave empty string if none ""
 $header-border-color: $color-borders;
 $header-border-sides: bottom;
 $header-width: 100%;
+
+// Main Navigation
+$nav-link-color: $header-link-color;
+$nav-link-color--hover: $header-link-color--hover;
+$nav-text-transform: uppercase;
+$nav-letter-spacing: 1px;
+$nav-font-size: 1.3rem;
+$nav-text-decoration: none;
+$nav-text-decoration--hover: none;
 
 // Footer
 $footer-background: #fff;

@@ -1,0 +1,13 @@
+.site-nav {
+  a {
+    color: $nav-link-color;
+    text-transform: $nav-text-transform;
+    letter-spacing: $nav-letter-spacing;
+    font-size: $nav-font-size;
+    text-decoration: $nav-text-decoration;
+    &:hover {
+      color: $nav-link-color--hover;
+      text-decoration: $nav-text-decoration--hover;
+    }
+  }
+}

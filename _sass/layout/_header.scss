@@ -15,8 +15,10 @@
     flex-direction: row;
     width: $header-width;
   }
-
-  nav a {
+  a {
     color: $header-link-color;
+    &:hover {
+      color: $header-link-color--hover;
+    }
   }
 }
