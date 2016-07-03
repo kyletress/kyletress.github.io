@@ -88,9 +88,10 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $color-muted;
+    border: 1px solid #f2f3f3;
     border-radius: 3px;
-    background-color: #f7f7f7;
+    background-color: #fafafa;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125)
 }
 
 code {
@@ -102,6 +103,7 @@ pre {
     overflow-x: auto;
 
     > code {
+        box-shadow: none;
         border: 0;
         padding-right: 0;
         padding-left: 0;

@@ -10,7 +10,7 @@ Location:       Phoenix, AZ, USA
 
 /* SITE */
 
-Last update:   {{ site.time | date: '%Y/%m/%d - %Z' }}
+Last update:    {{ site.time | date: '%Y/%m/%d - %Z' }}
 Language:       English
 Software:       Jekyll {{ jekyll.version }} <http://jekyllrb.com>
                 Atom <http://www.atom.io>
