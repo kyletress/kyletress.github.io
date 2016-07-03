@@ -44,7 +44,7 @@ $header-background: $color-primary;
 $header-font: $font-sans;
 $header-padding: 1rem;
 $header-link-color: #fff; // plain header links, outside navs
-$header-link-color--hover: lighten($header-link-color, 15%);
+$header-link-color--hover: darken($header-link-color, 15%);
 $header-border-style: ""; // leave empty string if none ""
 $header-border-color: $color-borders;
 $header-border-sides: bottom;
