@@ -11,4 +11,7 @@
     {% endfor %}
   </nav>
   {% endif %}
+  {% if site.show-social-links-in-footer %}
+    {% include social-links.html %}
+  {% endif %}
 </footer>

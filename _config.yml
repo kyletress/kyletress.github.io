@@ -9,6 +9,9 @@ locale: "en"
 markdown: kramdown
 permalink: /:title
 
+# Sitewide customizations
+show-social-links-in-footer: true
+
 # Files
 include:
   - _pages
