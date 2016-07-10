@@ -7,7 +7,7 @@ $color-muted: #ccc;
 $color-borders: #eee;
 
 // Fonts
-$font-serif: "Source Serif Pro", Georgia, serif;
+$font-serif: "Georgia", "Source Serif Pro", Georgia, serif;
 $font-sans: "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
 $font-code: "Source Code Pro";
 
@@ -18,7 +18,7 @@ $font-weight--bold: 700;
 $font-weight--ultra: 900;
 
 $body-font: $font-serif;
-$font-size--normal: 1.6em; // sizing is in rems elsewhere (Chrome bug)
+$font-size--normal: 1.8em; // sizing is in rems elsewhere (Chrome bug)
 $font-size--small: 1.3rem;
 $line-height: 1.7;
 
