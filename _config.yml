@@ -10,6 +10,8 @@ markdown: kramdown
 permalink: /:title
 
 # Files
+include:
+  - _pages
 exclude:
   - LICENSE
   - README.md
