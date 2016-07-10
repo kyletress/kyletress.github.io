@@ -3,6 +3,12 @@ header:
     url: /
   - title: About
     url: /about
+  - title: Articles
+    url: /articles
+  - title: Reading List
+    url: /reading
+  - title: Newsletter
+    url: /newsletter
 footer:
   - title: Credits
-    url: / 
+    url: /
