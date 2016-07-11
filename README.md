@@ -9,10 +9,10 @@ Skeleton is an intentionally simple base Jekyll theme. Its minimal design is sui
 ## Quick-Start
 
 ### Fork the theme
-Fork the theme and rename the repo to **username.github.io**, replacing *username* with your GitHub username. This will create a [GitHub User Page](https://help.github.com/categories/github-pages-basics/) that should be instantly viewable at the url *username.github.io*. If you are hosting more than one site, you will need to use a [GitHub Project Page] instead. Rename the repo and create a `gh-pages` branch off `master`. 
+Fork the theme and rename the repo to **username.github.io**, replacing *username* with your GitHub username. This will create a [GitHub User Page](https://help.github.com/categories/github-pages-basics/) that should be instantly viewable at the url *username.github.io*. If you are hosting more than one site, you will need to use a GitHub Project Page instead. Rename the repo and create a `gh-pages` branch off `master`.
 
 ### Customize the site
-Open `_config.yml` and edit the variables to fit your design. Edit your navigation and personal information in the `_data` folder.
+See the tips below for customizing your install. 
 
 ## Installation
 
@@ -39,19 +39,18 @@ jekyll serve --watch
 ~~~
 
 ## Customization
+Skeleton tries to be as customizable as possible, while remaining true to its simple, content-focused design. To begin, edit `_config.yml`. To customize, look at the following files:
 
-Coming soon.
+**_config.yml**: This is your site-wide jekyll configuration file. Use this to set the site title, description, and variables such as whether to show social links in your footer.
+
+**_data**: The data folder contains settings for navigation, individual authors, and social media profiles. *Note:* The `social.yml` should be used for site-wide social media settings, whereas the social media settings under the `author.yml` file should be used for individual author social media profiles. This is an important distinction for multi-author sites.
+
+**sass/_variables.scss**: This is where you customize the style of your site. There are tons of variables here to experiment with and adjust.
 
 ## Updating the theme
 I'll occasionally update the theme with bug fixes, improvements, and new features. To update:
 
-If you forked the repo:
-
-Change into the directory and run `git fetch upstream`. Next check out the master branch and run `git merge upstream/master` to pull in theme updates. Fix merge conflicts (if any) and publish.
-
-If you cloned the repo:
-
-Add an `upstream` branch to your git repo.
+Add a remote that points back to this repo. The convention is to name it `upstream`, but use a name that's meaningful to you.
 ~~~
 git remote add upstream https://github.com/kyletress/skeleton.git
 ~~~
