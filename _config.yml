@@ -1,22 +1,24 @@
-# Site settings
+---
 title: Kyle Tress
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: kyle@kyletress.com
 description: The website of 2014 Olympian Kyle Tress
-url: "https://kyletress.github.io" 
-locale: "en"
-
-# Build settings
+url: https://kyletress.github.io
+locale: en
 markdown: kramdown
-permalink: /:title
-
-# Sitewide customizations
+permalink: "/:title"
 show-social-links-in-footer: true
-
-# Files
 include:
-  - _pages
+- _pages
 exclude:
-  - LICENSE
-  - README.md
-  - Gemfile
-  - Gemfile.lock
+- LICENSE
+- README.md
+- Gemfile
+- Gemfile.lock
