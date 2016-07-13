@@ -6,10 +6,15 @@
     font-size: $nav-font-size;
     font-weight: $nav-link-font-weight;
     text-decoration: $nav-text-decoration;
-    margin-right: 2rem;
+    margin-right: 1rem;
+    padding: 1rem 0;
     &:hover {
       color: $nav-link-color--hover;
       text-decoration: $nav-text-decoration--hover;
     }
+  }
+  .is--active {
+    font-weight: $font-weight--bold;
+    color: $nav-link-color--active;
   }
 }

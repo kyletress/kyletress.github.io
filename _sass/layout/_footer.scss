@@ -11,14 +11,17 @@
   margin: 0 auto;
   font-size: $footer-font-size;
   color: $footer-font-color;
+  text-transform: $footer-text-transform;
 
   p {
     margin: 0;
   }
 
   @media(min-width: $breakpoint) {
-    flex-direction: row;
+    flex-direction: column;
     width: $footer-width;
+    text-align: left;
+    align-items: flex-start;
   }
 
   nav a {

@@ -1,14 +1,15 @@
 // Colors
-$color-primary: #205493;
+$color-primary: #0071bc;
 $background-color: #fff;
-$text-color: #222222;
+$text-color: rgba(0, 0, 0, .9);
 $link-color: $color-primary;
-$color-muted: #ccc;
+$link-color--hover: darken($link-color, 10%);
+$color-muted: #aeb0b5;
 $color-borders: #eee;
 
 // Fonts
 $font-serif: "Georgia", "Source Serif Pro", Georgia, serif;
-$font-sans: "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
+$font-sans: -apple-system, BlinkMacSystemFont, "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
 $font-code: "Source Code Pro";
 
 $font-weight--thin: 100;
@@ -17,14 +18,16 @@ $font-weight--medium: 400;
 $font-weight--bold: 700;
 $font-weight--ultra: 900;
 
-$body-font: $font-serif;
-$font-size--normal: 1.8em; // sizing is in rems elsewhere (Chrome bug)
-$font-size--small: 1.3rem;
-$line-height: 1.6;
+$body-font: $font-sans;
+$base-line-height: 26;
+$font-size--normal: 1.6em; // sizing is in rems elsewhere (Chrome bug)
+$font-size--small: 1.2rem;
+$line-height: 1.625; // optimal is 26 for this width.
 
 // Layout
 $spacing-unit: 30px;
-$max-container-width: 700px;
+$max-container-width: 640px;
+$body-border: 5px solid $color-muted;
 
 // Branding
 $brand-font: $font-sans;
@@ -46,17 +49,18 @@ $masthead-font-size: 1.4rem;
 // Header
 $header-background: #fff;
 $header-font: $font-sans;
-$header-padding: 2rem;
+$header-padding: 2rem 0;
 $header-link-color: #222; // plain header links, outside navs
 $header-link-color--hover: darken($header-link-color, 15%);
 $header-border-style: 1px solid; // leave empty string if none ""
 $header-border-color: $color-borders;
 $header-border-sides: bottom;
-$header-width: 100%;
+$header-width: $max-container-width;
 
 // Main Navigation
 $nav-link-color: $header-link-color;
-$nav-link-color--hover: $header-link-color--hover;
+$nav-link-color--hover: #e31c3d;
+$nav-link-color--active: $nav-link-color--hover;
 $nav-text-transform: uppercase;
 $nav-link-font-weight: $font-weight--medium;
 $nav-letter-spacing: 1px;
@@ -73,7 +77,8 @@ $footer-border-style: 1px solid;
 $footer-border-color: $header-border-color;
 $footer-border-sides: top;
 $footer-font-size: $font-size--small;
-$footer-font-color: #ccc;
+$footer-font-color: $color-muted;
+$footer-text-transform: uppercase;
 
 // footnotes
 $footnote-font-size: 1.4rem;

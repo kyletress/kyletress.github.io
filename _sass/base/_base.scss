@@ -14,6 +14,7 @@ body {
   line-height: $line-height;
   color: $text-color;
   background-color: $background-color;
+  border-top: 5px solid darken($header-background, 10%);
 }
 
 img {
@@ -27,7 +28,7 @@ a {
   color: $link-color;
   text-decoration: none;
   &:hover {
-    color: darken($link-color, 15%);
+    color: $link-color--hover;
     text-decoration: underline;
   }
 }
@@ -87,6 +88,11 @@ blockquote {
     }
 }
 
+time {
+  text-transform: uppercase;
+  color: $color-muted;
+  font-size: $font-size--small;
+}
 
 
 /**
