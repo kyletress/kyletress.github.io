@@ -1,7 +1,7 @@
 // Colors
 $color-primary: #205493;
 $background-color: #fff;
-$text-color: #4a4a4a;
+$text-color: #222222;
 $link-color: $color-primary;
 $color-muted: #ccc;
 $color-borders: #eee;
@@ -20,7 +20,7 @@ $font-weight--ultra: 900;
 $body-font: $font-serif;
 $font-size--normal: 1.8em; // sizing is in rems elsewhere (Chrome bug)
 $font-size--small: 1.3rem;
-$line-height: 1.7;
+$line-height: 1.6;
 
 // Layout
 $spacing-unit: 30px;
@@ -44,12 +44,12 @@ $masthead-text-color: #888;
 $masthead-font-size: 1.4rem;
 
 // Header
-$header-background: $color-primary;
+$header-background: #fff;
 $header-font: $font-sans;
-$header-padding: 1rem;
-$header-link-color: #fff; // plain header links, outside navs
+$header-padding: 2rem;
+$header-link-color: #222; // plain header links, outside navs
 $header-link-color--hover: darken($header-link-color, 15%);
-$header-border-style: ""; // leave empty string if none ""
+$header-border-style: 1px solid; // leave empty string if none ""
 $header-border-color: $color-borders;
 $header-border-sides: bottom;
 $header-width: 100%;
