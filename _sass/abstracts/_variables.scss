@@ -58,6 +58,7 @@ $header-width: 100%;
 $nav-link-color: $header-link-color;
 $nav-link-color--hover: $header-link-color--hover;
 $nav-text-transform: uppercase;
+$nav-link-font-weight: $font-weight--medium;
 $nav-letter-spacing: 1px;
 $nav-font-size: 1.3rem;
 $nav-text-decoration: none;
@@ -76,6 +77,7 @@ $footer-font-color: #ccc;
 
 // Breakpoint
 $breakpoint: 769px;
+$small: 600px;
 
 // Social Colors
 $social-colors: (
@@ -86,5 +88,6 @@ $social-colors: (
   tumblr: #35465c,
   linkedin: #0077b5,
   treehouse: #6fbc6d,
-  github: #4183c4
+  github: #4183c4,
+  email: #ddd
 );

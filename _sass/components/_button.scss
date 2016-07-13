@@ -1,0 +1,10 @@
+.btn {
+  @include bg-colors($social-colors);
+  text-align: center;
+  color: white;
+  padding: 1rem 3rem;
+  &:hover {
+    color: white;
+    text-decoration: none;
+  }
+}
