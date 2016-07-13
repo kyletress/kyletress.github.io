@@ -16,8 +16,6 @@ markdown: kramdown
 permalink: "/:title"
 show-social-links-in-footer: true
 show-share-buttons: true
-
-# Files
 include:
 - _pages
 exclude:
