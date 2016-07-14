@@ -2,6 +2,9 @@
   max-width: $max-container-width;
   margin: 0 auto;
   width: 90%;
+  @media(min-width: $breakpoint--large) {
+    max-width: $max-container-width--large;
+  }
 }
 
 // Sticky Footer styles

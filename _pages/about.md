@@ -1,11 +1,21 @@
 ---
-title: About
+title: About Kyle Tress
 permalink: "/about/"
 layout: page
 ---
 
+![Kyle Tress](/uploads/about.jpg)
 
-Hi I’m Kyle. I’m an Olympic athlete in the sport of skeleton. When I’m not racing headfirst down a mountain of ice at 90 miles per hour, I like to read, write, and code.
+### Quick Links
+
+- **[Olympic athlete](/skeleton)** in the sport of skeleton
+- **Lead software developer** at [Instaviser](http://www.instaviser.com)
+- **Media**: [headshot photo](), [athletic photo](), [resume]()
+- **Contact**: [kyle@kyletress.com](mailto:kyle@kyletress.com?subject=Hi Kyle) or [@kyletress](https://www.twitter.com/kyletress)
+
+### About Kyle Tress
+
+Hi I’m **Kyle Tress**. I’m an Olympic athlete in the sport of skeleton. When I’m not racing headfirst down a mountain of ice at 90 miles per hour, I like to read, write, and code.
 
 I tweet from [@kyletress](http://www.twitter.com/kyletress), share photos on [instagram](http://www.instagram.com/kyletress), and make videos on YouTube. You can email me at [kyle@kyletress.com](mailto:kyle@kyletress.com).
 

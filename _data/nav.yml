@@ -2,14 +2,17 @@ header:
   - title: Home
     url: /
   - title: About
-    url: /about
-  - title: Articles
-    url: /articles
+    url: /about/
+  - title: Posts
+    url: /posts/
   - title: Reading List
-    url: /reading
+    url: /reading/
   - title: Newsletter
-    url: /newsletter
+    url: /newsletter/
 footer:
   - title: Credits
-    url: /
+    url: /credits/
   - title: Disclaimer
+    url: /disclaimer/
+  - title: Now
+    url: /now/

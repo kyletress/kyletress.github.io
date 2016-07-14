@@ -32,3 +32,12 @@ exclude:
 - README.md
 - Gemfile
 - Gemfile.lock
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

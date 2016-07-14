@@ -24,6 +24,10 @@
     align-items: flex-start;
   }
 
+  @media(min-width: $breakpoint--large) {
+    width: $max-container-width--large;
+  }
+
   nav a {
     color: $footer-link-color;
   }

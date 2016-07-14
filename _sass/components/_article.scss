@@ -20,3 +20,10 @@
   text-transform: uppercase;
   font-size: $font-size--small;
 }
+
+.subtitle {
+  color: $subtitle-text-color;
+  font-size: $subtitle-font-size;
+  text-transform: $subtitle-text-transform;
+  letter-spacing: $subtitle-letter-spacing;
+}

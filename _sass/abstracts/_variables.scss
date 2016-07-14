@@ -1,10 +1,12 @@
 // Colors
 $color-primary: #0071bc;
+$color-secondary: #e31c3d;
 $background-color: #fff;
 $text-color: rgba(0, 0, 0, .9);
 $link-color: $color-primary;
 $link-color--hover: darken($link-color, 10%);
 $color-muted: #aeb0b5;
+$color-muted--light: lighten($color-muted, 25%);
 $color-borders: #eee;
 
 // Fonts
@@ -22,12 +24,14 @@ $body-font: $font-sans;
 $base-line-height: 26;
 $font-size--normal: 1.6em; // sizing is in rems elsewhere (Chrome bug)
 $font-size--small: 1.2rem;
+$font-size--large: 1.8rem;
 $line-height: 1.625; // optimal is 26 for this width.
 
 // Layout
 $spacing-unit: 30px;
 $max-container-width: 640px;
-$body-border: 5px solid $color-muted;
+$max-container-width--large: 800px;
+$body-border: 5px solid $color-secondary;
 
 // Branding
 $brand-font: $font-sans;
@@ -55,11 +59,11 @@ $header-link-color--hover: darken($header-link-color, 15%);
 $header-border-style: 1px solid; // leave empty string if none ""
 $header-border-color: $color-borders;
 $header-border-sides: bottom;
-$header-width: $max-container-width;
+$header-width: 100%;
 
 // Main Navigation
 $nav-link-color: $header-link-color;
-$nav-link-color--hover: #e31c3d;
+$nav-link-color--hover: $color-secondary;
 $nav-link-color--active: $nav-link-color--hover;
 $nav-text-transform: uppercase;
 $nav-link-font-weight: $font-weight--medium;
@@ -80,6 +84,12 @@ $footer-font-size: $font-size--small;
 $footer-font-color: $color-muted;
 $footer-text-transform: uppercase;
 
+// subtitles
+$subtitle-text-color: $color-secondary;
+$subtitle-font-size: $font-size--small;
+$subtitle-text-transform: uppercase;
+$subtitle-letter-spacing: 0;
+
 // footnotes
 $footnote-font-size: 1.4rem;
 $footnote-font-style: normal;
@@ -88,7 +98,9 @@ $footnote-font-family: $font-sans;
 
 // Breakpoint
 $breakpoint: 769px;
+$breakpoint--large: 1200px;
 $small: 600px;
+$large: 1200px;
 
 // Social Colors
 $social-colors: (

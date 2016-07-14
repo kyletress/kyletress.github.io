@@ -4,6 +4,6 @@
   </figure>
   <div class="media__body">
     <h3>Hi, I'm {{site.data.author.name}}</h3>
-    <p>{{site.data.author.bio}}</p>
+    {{site.data.author.bio | markdownify }}
   </div>
 </div>

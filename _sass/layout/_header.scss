@@ -7,7 +7,6 @@
   font-family: $header-font;
   background: $header-background;
   text-align: center;
-  padding: $header-padding;
   width: 100%;
   margin: 0 auto;
 
@@ -15,10 +14,14 @@
     flex-direction: row;
     width: $header-width;
   }
+  @media(min-width: $breakpoint--large) {
+    width: $header-width;  //$max-container-width--large;
+  }
   a {
     color: $header-link-color;
     &:hover {
       color: $header-link-color--hover;
+      background: $color-muted--light;
     }
   }
 }

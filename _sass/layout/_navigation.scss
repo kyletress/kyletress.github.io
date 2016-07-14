@@ -1,4 +1,10 @@
 .site-nav {
+  display: flex;
+  width: $max-container-width;
+  margin: 0 auto;
+  @media(min-width: $breakpoint--large) {
+    width: $max-container-width--large;
+  }
   a {
     color: $nav-link-color;
     text-transform: $nav-text-transform;
@@ -6,8 +12,7 @@
     font-size: $nav-font-size;
     font-weight: $nav-link-font-weight;
     text-decoration: $nav-text-decoration;
-    margin-right: 1rem;
-    padding: 1rem 0;
+    padding: 2rem;
     &:hover {
       color: $nav-link-color--hover;
       text-decoration: $nav-text-decoration--hover;
@@ -15,6 +20,11 @@
   }
   .is--active {
     font-weight: $font-weight--bold;
-    color: $nav-link-color--active;
+    color: white;
+    background: $nav-link-color--active;
+    &:hover {
+      background: $nav-link-color--active;
+      color: white;
+    }
   }
 }

@@ -1,0 +1,47 @@
+// extract this out into a form component
+.newsletter {
+  border: 1px dashed #dedede;
+  background: #fafafa;
+  padding: 2rem;
+  margin: 3rem 0;
+  font-size: 1.4rem;
+  h3 {
+    text-align: center;
+    margin: 0 0 1rem 0;
+  }
+  p {
+    margin: 0 0 2rem 0;
+  }
+  form {
+    display: flex;
+    margin-bottom: 1rem;
+  }
+  #tlemail {
+    flex: 1;
+    font-size: 1.6rem;
+    padding: .5rem;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border: 1px solid #dedede;
+    border-right: none;
+    margin: 0;
+  }
+  small {
+    text-align:center;
+    color: $color-muted;
+    display: block;
+  }
+  .button {
+    background: limegreen;
+    color: white;
+    border: none;
+    margin: 0;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    &:hover {
+      background: darken(limegreen, 10%);
+    }
+  }
+}
