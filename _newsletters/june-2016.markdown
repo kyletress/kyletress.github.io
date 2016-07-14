@@ -1,6 +1,7 @@
 ---
 title: 'June 2016: A simple way to get more out of reading'
 date: 2016-07-14 20:50:00 Z
+layout: page
 ---
 
 You’ll notice a new format this month. I’m experimenting with some new ideas. Please take a second to let me know what you think, and if you wouldn’t mind, forward this newsletter to a friend or two. 
