@@ -2,8 +2,14 @@
 title: Kyle Tress
 timezone: UTC
 collections:
+  newsletters:
+    title: Newsletters
+    output: true
   posts:
     title: Posts
+    output: true
+  reading:
+    title: Reading
     output: true
   uploads:
     title: Uploads
@@ -16,8 +22,6 @@ markdown: kramdown
 permalink: "/:title"
 show-social-links-in-footer: true
 show-share-buttons: true
-
-# Files
 include:
 - _pages
 exclude:
