@@ -1,23 +1,42 @@
 .site-nav {
   display: flex;
-  width: $max-container-width;
+  flex-direction: column;
+  //width: $max-container-width;
   margin: 0 auto;
+  width: 100%;
+
+  @media(min-width: $breakpoint--small) {
+    flex-direction: row;
+  }
+
+  @media(min-width: $breakpoint) {
+    width: $max-container-width;
+  }
+
   @media(min-width: $breakpoint--large) {
     width: $max-container-width--large;
   }
+
   a {
+    width: 100%;
     color: $nav-link-color;
     text-transform: $nav-text-transform;
     letter-spacing: $nav-letter-spacing;
     font-size: $nav-font-size;
     font-weight: $nav-link-font-weight;
     text-decoration: $nav-text-decoration;
-    padding: 2rem;
+    padding: 1rem;
+
+    @media(min-width: $breakpoint) {
+      padding: 1rem;
+    }
+
     &:hover {
       color: $nav-link-color--hover;
       text-decoration: $nav-text-decoration--hover;
     }
   }
+
   .is--active {
     font-weight: $font-weight--bold;
     color: white;

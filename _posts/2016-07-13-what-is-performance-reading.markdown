@@ -5,7 +5,48 @@ subtitle: Reading better books to become better leaders and thinkers
 categories: reading performance
 ---
 
-**Performance reading** is reading for *betterment* rather than enjoyment. It's both a concept and a system; a way of thinking about reading paired with a concrete plan for reading more books, better books, and getting more out of those books. Let's dive in.
+In the summer of 1775, George Washington assumed command of the Continental Army, an appointment he called "a trust too great for my capacity". He had never led an army before, and before he could lead this one, he had to build it. As he made preparations to leave Philadelphia, he began buying books on military arts. If Washington was to lead his army to victory against the most powerful military in the world, he'd have to learn how.
+
+From Dr. Adrienne Harrison's book [A Powerful Mind: The Self-Education of George Washington]():
+
+> Washington was a practical reader. He clearly valued useful knowledge that made many of his tasks easier. He was and still is the quintessential American success story because he applied his mind to achieving success. He was relentless in pursuing his goals, and his reading is an applied demonstration of it.
+
+Harrison says Washington approached his task with "a deep apprehension regarding his ability to meet the challenge"[^1], he had a secret weapon. Washington's practical reading is an example of a powerful idea that many have since forgotten: **Reading is a secret weapon**.
+
+## Performance Reading
+
+Considering everything you could do in life to get smarter, you’d be hard pressed to find a better return on your investment than reading.  
+
+I read not just to get smarter, but to become a better thinker and leader, while simultaneously increasing my performance in sport and life. I call this *performance reading* -- reading for betterment rather than enjoyment. Performance reading is a way of thinking about books and a system for reading with purpose. This kind of reading is difficult. You have to treat it like a job and make time every single day, but the benefits are enormous. Regardless of your profession, performance reading will give you an edge in life.
+
+Performance reading consists of:
+
+- Reading relevant books.
+- Ignoring irrelevant ones and reducing information overload.
+- Dedicating time every day for reading.
+- Reading more.
+- Reading challenging books.
+- Active reading.
+- Applying the knowledge to your life and pursuits.
+
+That's it. There aren't many secrets when it comes to performance reading, but the application of the principles aren't always easy. Let's look more closely at each one.
+
+### Reading relevant books
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## The Concept
 
@@ -41,4 +82,4 @@ Performance reading isn't reading for enjoyment. It's reading for *betterment*.
 
 Read more. A lot more. Read like it's your job (it probably is, even if you don't know it yet). Destroy your books. Mark them up with pen, pencil, dogears, post-its, highlighters, whatever -- just do it in a way that is useful to you. I've always resisted marking up my books because I felt some special attachment to them as objects. Fuck that. A book's value derives from the words inside [^1]
 
-[^1]: Here I'm talking about *most* books. If you collect rare books, please don't destroy them. But you already know that!  
+[^1]: A Powerful Mind: The Self-Education of George Washington, page 101 -- Adrienee Harrison.

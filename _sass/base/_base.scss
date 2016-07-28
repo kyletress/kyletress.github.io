@@ -53,7 +53,7 @@ h1,
 h2,
 h3,
 h4 {
-  letter-spacing: -1px;
+  letter-spacing: -.5px;
 }
 
 
@@ -81,11 +81,11 @@ h1, h2, h3, h4, h5, h6 {
  */
 blockquote {
     color: $color-muted;
-    border-left: 4px solid $color-muted;
+    border-left: 1px solid $color-secondary;
     padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
+    font-size: 1.6rem;
     font-style: italic;
+    margin-left: 0;
 
     > :last-child {
         margin-bottom: 0;

@@ -23,7 +23,9 @@ $font-weight--ultra: 900;
 $body-font: $font-sans;
 $base-line-height: 26;
 $font-size--normal: 1.6em; // sizing is in rems elsewhere (Chrome bug)
-$font-size--small: 1.2rem;
+$font-size: 1.6rem;
+$font-size--small: 1.4rem;
+$font-size--xsmall: 1.2rem;
 $font-size--large: 1.8rem;
 $line-height: 1.625; // optimal is 26 for this width.
 
@@ -53,7 +55,7 @@ $masthead-font-size: 1.4rem;
 // Header
 $header-background: #fff;
 $header-font: $font-sans;
-$header-padding: 2rem 0;
+$header-padding: 1rem 0;
 $header-link-color: #222; // plain header links, outside navs
 $header-link-color--hover: darken($header-link-color, 15%);
 $header-border-style: 1px solid; // leave empty string if none ""
@@ -99,6 +101,7 @@ $footnote-font-family: $font-sans;
 // Breakpoint
 $breakpoint: 769px;
 $breakpoint--large: 1200px;
+$breakpoint--small: 480px;
 $small: 600px;
 $large: 1200px;
 

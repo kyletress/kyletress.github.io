@@ -4,9 +4,7 @@ layout: page
 
 {% include masthead.html %}
 
-Hi, I'm **Kyle Tress**. Welcome to my personal website.
-
-I write about performance, reading, and how books can make us better thinkers and leaders. I study world leaders, elite athletes, successful entrepreneurs, and other world-class performers to discover the keys to their success. Then I simplify it and share it here and in my [monthly newsletter](/newsletter).
+Hi, I'm **Kyle Tress**. I write about performance and leadership, and how reading can make us better thinkers and leaders. I study world leaders, elite athletes, successful entrepreneurs, and other world-class performers to discover the keys to their success. Then I distill and share what I learn.
 
 ### Select articles:
 
