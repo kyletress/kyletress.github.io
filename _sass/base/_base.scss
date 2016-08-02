@@ -14,7 +14,6 @@ body {
   line-height: $line-height;
   color: $text-color;
   background-color: $background-color;
-  border-top: 5px solid darken($header-background, 10%);
   border-top: $body-border;
   @media(min-width: $breakpoint--large) {
     font-size: $font-size--large;

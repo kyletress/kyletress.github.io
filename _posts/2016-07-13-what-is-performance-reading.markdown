@@ -3,6 +3,7 @@ title: A Beginner's guide to performance reading
 date:   2016-07-12 18:32:55 -0700
 subtitle: Reading better books to become better leaders and thinkers
 categories: reading performance
+comments: true
 ---
 
 In the summer of 1775, George Washington assumed command of the Continental Army, an appointment he called "a trust too great for my capacity". He had never led an army before, and before he could lead this one, he had to build it. As he made preparations to leave Philadelphia, he began buying books on military arts. If Washington was to lead his army to victory against the most powerful military in the world, he'd have to learn how.

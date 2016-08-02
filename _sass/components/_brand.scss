@@ -8,3 +8,11 @@
     text-decoration: $brand-text-decoration--hover;
   }
 }
+
+.logo {
+  span {
+    font-size:1.3rem;
+    font-style: italic;
+    color: $color-muted;
+  }
+}

@@ -20,26 +20,28 @@ $font-weight--medium: 400;
 $font-weight--bold: 700;
 $font-weight--ultra: 900;
 
-$body-font: $font-sans;
+$body-font: $font-serif;
+$ui-font: $font-sans;
 $base-line-height: 26;
 $font-size--normal: 1.6em; // sizing is in rems elsewhere (Chrome bug)
 $font-size: 1.6rem;
 $font-size--small: 1.4rem;
 $font-size--xsmall: 1.2rem;
-$font-size--large: 1.8rem;
+$font-size--large: 1.6rem;
 $line-height: 1.625; // optimal is 26 for this width.
 
 // Layout
 $spacing-unit: 30px;
 $max-container-width: 640px;
 $max-container-width--large: 800px;
-$body-border: 5px solid $color-secondary;
+//$body-border: 4px solid $color-secondary;
+$body-border: 4px solid $color-secondary;
 
 // Branding
 $brand-font: $font-sans;
-$brand-font-size: 1.8rem;
-$brand-color: #fff;
-$brand-text-transform: uppercase;
+$brand-font-size: 1.6rem;
+$brand-color: #2a2a2a;
+$brand-text-transform: none;
 $brand-color--hover: darken($brand-color, 15%);
 $brand-text-decoration--hover: none;
 
@@ -55,13 +57,13 @@ $masthead-font-size: 1.4rem;
 // Header
 $header-background: #fff;
 $header-font: $font-sans;
-$header-padding: 1rem 0;
+$header-padding: 2rem 0;
 $header-link-color: #222; // plain header links, outside navs
 $header-link-color--hover: darken($header-link-color, 15%);
 $header-border-style: 1px solid; // leave empty string if none ""
 $header-border-color: $color-borders;
 $header-border-sides: bottom;
-$header-width: 100%;
+$header-width: 800px;
 
 // Main Navigation
 $nav-link-color: $header-link-color;
@@ -69,7 +71,7 @@ $nav-link-color--hover: $color-secondary;
 $nav-link-color--active: $nav-link-color--hover;
 $nav-text-transform: uppercase;
 $nav-link-font-weight: $font-weight--medium;
-$nav-letter-spacing: 1px;
+$nav-letter-spacing: 0;
 $nav-font-size: 1.3rem;
 $nav-text-decoration: none;
 $nav-text-decoration--hover: none;
@@ -99,7 +101,7 @@ $footnote-text-color: #999;
 $footnote-font-family: $font-sans;
 
 // Breakpoint
-$breakpoint: 769px;
+$breakpoint: 700px;
 $breakpoint--large: 1200px;
 $breakpoint--small: 480px;
 $small: 600px;

@@ -23,6 +23,7 @@ permalink: "/:title"
 show-social-links-in-footer: true
 show-share-buttons: true
 site-quote: Mens sana in corpore sano
+disqus-shortname: kyletress
 
 # Files
 include:
