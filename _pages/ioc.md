@@ -1,6 +1,6 @@
 ---
 title: Kyle Tress for IOC rep
-permalink: /ioc/
+permalink: "/ioc/"
 layout: page
 ---
 
