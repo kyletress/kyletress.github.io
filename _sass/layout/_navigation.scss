@@ -1,16 +1,9 @@
 .site-nav {
+  margin-top: 2rem;
   a {
-    color: $nav-link-color;
-    text-transform: $nav-text-transform;
-    letter-spacing: $nav-letter-spacing;
-    font-size: $nav-font-size;
-    font-weight: $nav-link-font-weight;
-    text-decoration: $nav-text-decoration;
     margin-right: 2rem;
-    &:hover {
-      color: $nav-link-color--hover;
-      text-decoration: $nav-text-decoration--hover;
+    &:last-child {
+      margin-right: 0;
     }
   }
-
 }

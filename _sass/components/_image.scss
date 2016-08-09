@@ -1,5 +1,18 @@
+.circle {
+  border-radius: 50%;
+}
+
 .avatar {
-  border-radius: $avatar-border-radius;
-  height: $avatar-height;
-  width: $avatar-width;
+  background: $color-primary;
+  height: 101px;
+  width: 101px;
+  display: inline-block;
+  img {
+    opacity: 1;
+    transition: opacity ease-in-out .25s;
+    &:hover {
+      opacity: .9;
+      transition: opacity ease-in-out .25s;
+    }
+  }
 }

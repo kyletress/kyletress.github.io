@@ -1,14 +1,12 @@
 header:
-  - title: Kyle Tress
-    url: /
-  - title: About
-    url: /about
-  - title: Articles
-    url: /articles
-  - title: Reading List
+  - title: Blog
+    url: /posts
+  - title: Reading
     url: /reading
   - title: Newsletter
     url: /newsletter
+  - title: Contact
+    url: /contact
 footer:
   - title: Credits
     url: /

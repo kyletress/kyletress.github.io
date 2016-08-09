@@ -22,6 +22,7 @@ markdown: kramdown
 permalink: "/:title"
 show-social-links-in-footer: true
 show-share-buttons: true
+quote: Mens sana in corpore sano 
 include:
 - _pages
 exclude:

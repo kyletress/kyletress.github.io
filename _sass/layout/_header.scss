@@ -1,12 +1,16 @@
 .site-header {
-  padding: 2rem 0;
-  width: $max-container-width;
+  text-align:center;
+  padding: 4rem 0;
+  max-width: $max-container-width;
   margin: 0 auto;
 
   a {
-    color: $header-link-color;
     &:hover {
       color: $header-link-color--hover;
     }
   }
+}
+
+header {
+  text-align: center;
 }

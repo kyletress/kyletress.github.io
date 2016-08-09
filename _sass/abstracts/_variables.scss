@@ -8,7 +8,7 @@ $color-borders: #eee;
 
 // Fonts
 $font-serif: "Source Serif Pro", Georgia, serif;
-$font-sans: "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
+$font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 $font-code: "Source Code Pro";
 
 $font-weight--thin: 100;
@@ -18,13 +18,13 @@ $font-weight--bold: 700;
 $font-weight--ultra: 900;
 
 $body-font: $font-sans;
-$font-size--normal: 1.6em; // sizing is in rems elsewhere (Chrome bug)
+$font-size--normal: 1.5em; // sizing is in rems elsewhere (Chrome bug)
 $font-size--small: 1.3rem;
 $line-height: 1.6;
 
 // Layout
 $spacing-unit: 30px;
-$max-container-width: 700px;
+$max-container-width: 600px;
 
 // Branding
 $brand-font: $font-sans;
@@ -66,14 +66,15 @@ $nav-text-decoration--hover: none;
 
 // Footer
 $footer-background: #fff;
-$footer-padding: $header-padding;
+$footer-padding: 2rem 0;
 $footer-link-color: $text-color;
 $footer-width: $header-width;
 $footer-border-style: 1px solid;
 $footer-border-color: $header-border-color;
 $footer-border-sides: top;
 $footer-font-size: $font-size--small;
-$footer-font-color: #ccc;
+$footer-text-color: #999;
+$footer-text-align: center;
 
 // footnotes
 $footnote-font-size: 1.4rem;

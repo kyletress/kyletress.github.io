@@ -1,5 +1,5 @@
 <footer class="site-footer">
-  <p>&copy; {{ site.title }}, {{ site.time | date: '%Y' }}. Contact: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+  <p>&copy; {{ site.title }}, {{ site.time | date: '%Y' }}. {{ site.quote }}</p>
   {% if site.data.nav.footer %}
   <nav>
     {% for nav in site.data.nav.footer %}
@@ -8,10 +8,11 @@
         {% assign class = 'is--active' %}
       {% endif %}
       <a href="{{nav.url}}"{% if class %} class="{{class}}"{% endif%}>{{nav.title}}</a>
+      {% if site.show-social-links-in-footer %}
+        {% include social-links.html %}
+      {% endif %}
     {% endfor %}
   </nav>
   {% endif %}
-  {% if site.show-social-links-in-footer %}
-    {% include social-links.html %}
-  {% endif %}
+  <div class="rings"><img src="/uploads/rings.svg" width="45"></div>
 </footer>
