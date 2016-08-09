@@ -1,5 +1,4 @@
 <header class="site-header">
-  <a href="/" class="brand">{{ site.title }}</a>
   <nav class="site-nav">
     {% for nav in site.data.nav.header %}
       {% assign class = nil %}
@@ -9,4 +8,5 @@
       <a href="{{nav.url}}"{% if class %} class="{{class}}"{% endif%}>{{nav.title}}</a>
     {% endfor %}
   </nav>
+  {% include masthead.html %}
 </header>

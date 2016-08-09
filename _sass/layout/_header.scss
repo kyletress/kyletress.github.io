@@ -1,21 +1,8 @@
 .site-header {
-  @include border($header-border-style, $header-border-color, $header-border-sides);
-  border-top: 5px solid darken($header-background, 10%);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-between;
-  font-family: $header-font;
-  background: $header-background;
-  text-align: center;
-  padding: $header-padding;
-  width: 100%;
+  padding: 2rem 0;
+  width: $max-container-width;
   margin: 0 auto;
 
-  @media(min-width: $breakpoint) {
-    flex-direction: row;
-    width: $header-width;
-  }
   a {
     color: $header-link-color;
     &:hover {

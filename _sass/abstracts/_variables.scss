@@ -1,5 +1,5 @@
 // Colors
-$color-primary: #205493;
+$color-primary: #0071bc;
 $background-color: #fff;
 $text-color: #222222;
 $link-color: $color-primary;
@@ -7,7 +7,7 @@ $color-muted: #ccc;
 $color-borders: #eee;
 
 // Fonts
-$font-serif: "Georgia", "Source Serif Pro", Georgia, serif;
+$font-serif: "Source Serif Pro", Georgia, serif;
 $font-sans: "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
 $font-code: "Source Code Pro";
 
@@ -17,8 +17,8 @@ $font-weight--medium: 400;
 $font-weight--bold: 700;
 $font-weight--ultra: 900;
 
-$body-font: $font-serif;
-$font-size--normal: 1.8em; // sizing is in rems elsewhere (Chrome bug)
+$body-font: $font-sans;
+$font-size--normal: 1.6em; // sizing is in rems elsewhere (Chrome bug)
 $font-size--small: 1.3rem;
 $line-height: 1.6;
 
@@ -30,7 +30,7 @@ $max-container-width: 700px;
 $brand-font: $font-sans;
 $brand-font-size: 1.8rem;
 $brand-color: #fff;
-$brand-text-transform: uppercase;
+$brand-text-transform: none;
 $brand-color--hover: darken($brand-color, 15%);
 $brand-text-decoration--hover: none;
 
@@ -57,10 +57,10 @@ $header-width: 100%;
 // Main Navigation
 $nav-link-color: $header-link-color;
 $nav-link-color--hover: $header-link-color--hover;
-$nav-text-transform: uppercase;
+$nav-text-transform: none;
 $nav-link-font-weight: $font-weight--medium;
-$nav-letter-spacing: 1px;
-$nav-font-size: 1.3rem;
+$nav-letter-spacing: 0;;
+$nav-font-size: 1.6rem;
 $nav-text-decoration: none;
 $nav-text-decoration--hover: none;
 
