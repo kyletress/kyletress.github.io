@@ -6,6 +6,8 @@ layout: page
 
 *Are you interested in learning more about skeleton? Check out my [frequently asked questions](/skeleton/faqs)*.
 
+[IMG_0419.JPG](/uploads/IMG_0419.JPG)
+
 I first learned about skeleton in 2002 during the Salt Lake City Winter Olympic Games. I clicked a link on the Yahoo! homepage which led to an article about the success of the U.S. team. I decided immediately that I wanted to be a skeleton athlete. 4 months later I enrolled in a summer recruitment camp and 5 months after that I was in Lake Placid for my first skeleton school. 
 
 Over the next few years I worked my way through the U.S ranks. In 2004 I was awarded the [Randy Price Memorial Award](http://www.rpmfund.org) for excellence in sportsmanship, an honor of which I'm extremely proud. I won my first international medal in 2005 with a 2^nd place finish in the European Cup in Igls, Austria. I competed on the North American Cup for many years, winning the overall title in 2010. 
