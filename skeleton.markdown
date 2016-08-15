@@ -6,7 +6,7 @@ layout: page
 
 *Are you interested in learning more about skeleton? Check out my [frequently asked questions](/skeleton/faqs)*.
 
-[IMG_0419.JPG](/uploads/IMG_0419.JPG)
+![IMG_0419.JPG](/uploads/IMG_0419.JPG)
 
 I first learned about skeleton in 2002 during the Salt Lake City Winter Olympic Games. I clicked a link on the Yahoo! homepage which led to an article about the success of the U.S. team. I decided immediately that I wanted to be a skeleton athlete. 4 months later I enrolled in a summer recruitment camp and 5 months after that I was in Lake Placid for my first skeleton school. 
 
