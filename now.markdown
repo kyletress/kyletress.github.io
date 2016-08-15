@@ -6,7 +6,8 @@ layout: page
 
 After 13 seasons of skeleton, [I took a much-needed break from competition](http://go.teamusa.org/1MRhE2r).  Now I'm back to training and have set my sights on **winning a medal in Korea**.
 
-At the moment, the rest of my time is devoted to:
+At the moment, my time is devoted to:
+
 - Training for the 2018 Winter Olympic Games. 
 - Working for [Instaviser.com](http://www.instaviser.com). 
 - Personal programming projects like [sledsheet.com](http://www.sledsheet.com).
