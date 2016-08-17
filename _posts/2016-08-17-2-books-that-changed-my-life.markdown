@@ -3,6 +3,7 @@ title: 2 books that changed my life
 date: 2016-08-17 00:54:00 Z
 categories:
 - newsletters
+layout: page
 ---
 
 A close friend reached out to me this month asking about life-changing books, those which stick with us long after we finish them. The economist Tyler Cowen calls them *quake books* since they have a way of shaking our worldview. More often than not, quake books are *old*. Their ideas began as patterns of neurological activity in the brain of the author before being shuttled through time and space - thousands of miles and hundreds of years - to our brains, where they generate almost identical patterns. Such is the power of books. 
