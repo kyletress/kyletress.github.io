@@ -11,10 +11,12 @@ A close friend reached out to me this month asking about life-changing books, th
 I did my best to honor my friend's request of "no cheesy self-help books" by recommending some of my personal quake books. I'd like to begin this month by sharing two with you ([see them on Instagram](https://www.instagram.com/p/BIjyVlnhcPI/)).
 
 **[On the Shortness of Life](http://www.amazon.com/dp/0143036327/?tag=tress-20)** by  Seneca
+
 *"Life is long if you know how to use it"*
 This 2000 year old treatise on living well is my most read, loved, and recommended book. I return to it often, and I always come away with a greater appreciation for the time I have left. Seneca is my constant reminder, *”it's not that we have too short a life, but that we waste much of it”*.  
 
 **[Meditations](http://www.amazon.com/dp/0743233832/?tag=tress-20)** by Marcus Aurelius
+
 *"Your soul takes on the color of your thoughts"*
 The fact this book exists at all is remarkable. The Meditations are the private thoughts of the Roman Emperor Marcus Aurelius, the most powerful person of his time. Aurelius is the shining example of Plato's philosopher-king, proof that *"even in a palace, a good life is possible”*.
 
@@ -23,14 +25,17 @@ I'd love to hear about your personal quake books. Which books do you return to y
 ## July 2016 Recommended Reading 
 
 **[The Gene: An Intimate History](http://www.amazon.com/dp/1476733503/?tag=tress-20)** by Siddhartha Mukherjee
+
 A key component of *performance reading* is understanding the big ideas of the world's major fields; history, politics, finance, science, etc. This book is the single best introduction to genetics I have read. It's a mix of history and science, wrapped in an engaging story. Why is an understanding of genetics important? We are on the brink of a weird, wonderful, and potentially dangerous new world of editable DNA thanks to [emerging technologies like CRISPR](http://www.wired.com/2015/07/crispr-dna-editing-2/). The next generation of leaders *must* understand the forces that are shaping the future.
 
 I'm eager to follow up with Mukherjee's previous book, the Pulitzer Prize winner *[Emperor of All Maladies: A Biography of Cancer](http://www.amazon.com/dp/1439170916/?tag=tress-20)*.
 
 **[The Inner Game of Tennis](http://www.amazon.com/dp/0679778314/?tag=tress-20)** by Timothy Gallway
+
 As an athlete, I'm an easy sell when it comes to books on the mental aspect of competition. Unfortunately most of that genre is terrible, but this short book is a rare exception; in fact it might lead the pack. Don't let the title fool you, the wisdom and insight here extend far beyond the realm of tennis. Nor must you be an athlete to learn from it. Whatever profession awaits me after sport, be it politics or something...gentler, this book will be a constant companion.
 
 **[TED Talks: The Official TED Guide to Public Speaking](http://www.amazon.com/dp/0544634497/?tag=tress-20)** by Chris Anderson
+
 [Derek Sivers wrote an excellent post](https://sivers.org/d1r) in which he discusses *multiplying skills*, those abilities which enhance our main pursuit and give us an edge over others in the field. Multiplying skills include things like writing, programming, foreign language fluency, persuasion, and of course public speaking. Consider Mark Vanhoenacker, a 747 pilot who wrote *[Skyfaring](http://www.amazon.com/dp/0804169713/?tag=tress-20)*, my favorite book of 2015. Or Paul Kalanithi, the neuroscientist/neurosurgeon who penned the brilliant memoir [When Breath Becomes Air](http://www.amazon.com/dp/081298840X/?tag=tress-20).
 
 I’m not a good public speaker, but it’s a skill I'm eager to improve. This book is an excellent place to begin learning the lost art of rhetoric. 
@@ -38,9 +43,11 @@ I’m not a good public speaker, but it’s a skill I'm eager to improve. This b
 ## Articles I enjoyed this month 
 
 **[With Obama, the Personal Is Presidential](http://www.nytimes.com/2016/07/15/opinion/with-obama-the-personal-is-presidential.html)** via NYTimes
+
 I have a profound respect for President Obama which transcends politics. Forget the partisanship for a moment and consider the man: free of scandal, consummate family man, calm and stoic in the face of adversity and uncertainty. All while the unrelenting eyes of the world watch. Say what you will of his politics, but no one can doubt his [personal character](http://www.amazon.com/dp/081299325X/?tag=tress-20).
 
 **[Solitude and Leadership](https://theamericanscholar.org/solitude-and-leadership/)** by William Deresiewicz
+
 This lecture delivered to the freshman class at West Point in 2009 absolutely floored me. I've read it over and over this month, so much so it has become an unofficial manifesto of my newsletter. It speaks volumes about the state of thinking and leadership in the world, and in the bureaucracies we encounter daily. I recognize these kinds of "leaders" even in my own little realm of Olympic sport - those with a talent for maneuvering rather than creative, courageous thinking. One only has to look at the decision of the IOC in regard to the Russian doping scandal to see this kind of leadership in action. 
 
 One particular passage stands out to me, relevant to our earlier discussion on quake books:
@@ -48,6 +55,7 @@ One particular passage stands out to me, relevant to our earlier discussion on q
 *"Most books are old. This is not a disadvantage: this is precisely what makes them valuable. They stand against the conventional wisdom of today simply because they’re not from today"*. 
 
 **[Donald Trump doesn’t read much. Being president probably wouldn’t change that.](https://www.washingtonpost.com/politics/donald-trump-doesnt-read-much-being-president-probably-wouldnt-change-that/2016/07/17/d2ddf2bc-4932-11e6-90a8-fb84201e0645_story.html) ** via Washington Post
+
 I've tried to avoid talking about the state of politics in America, but with the conventions over and the general election approaching, I can no longer ignore it. I found this WaPo article on Donald Trump's reading habits fascinating. Must our leaders be readers? Given the nature of my newsletter, I think it's pretty clear where I land on that question. Just in case, here's my favorite Harry S Truman quote: *"Not all readers are leaders, but all leaders are readers."*
 
 ## Books I bought this month
