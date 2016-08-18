@@ -1,8 +1,9 @@
 ---
+title: Home
 layout: page
 ---
 
-Hi I'm **Kyle Tress**. I'm a US Olympian in the sport of skeleton. When I'm not racing headfirst down a mountain of ice or coding, I write about *performance*, *reading*, and *leadership*. Once a month I publish a [recommended reading newsletter]().
+Hi I'm **Kyle Tress**. I'm a US Olympian in the [sport of skeleton](/skeleton). When I'm not racing headfirst down a mountain of ice or coding, I write about *performance*, *reading*, and *leadership*. Once a month I publish a [recommended reading newsletter]().
 
 Outside of sport I'm a technologist. I'm the lead software developer at [Instaviser](http://www.instaviser.com), and I'm building a data science/analytics startup for amateur and Olympic sport. I build web apps in Rails and mobile apps in swift.
 
