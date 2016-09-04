@@ -2,14 +2,14 @@
 title: Kyle Tress
 timezone: UTC
 collections:
+  books:
+    title: Books
+    output: true
   newsletters:
     title: Newsletters
     output: true
   posts:
     title: Posts
-    output: true
-  books:
-    title: Books
     output: true
   uploads:
     title: Uploads
