@@ -20,13 +20,22 @@ url: https://kyletress.github.io
 locale: en
 markdown: kramdown
 permalink: "/:title"
-show-social-links-in-footer: true
-show-share-buttons: true
 quote: Mens sana in corpore sano
-include:
-- _pages
 exclude:
 - LICENSE
 - README.md
 - Gemfile
 - Gemfile.lock
+defaults:
+  -
+    scope:
+      path: "" # all files
+      type: "posts"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"

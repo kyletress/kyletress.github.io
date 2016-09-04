@@ -1,7 +1,6 @@
 ---
 title: Reading
 permalink: "/reading/"
-layout: page
 ---
 
 <ul class="post-list">

@@ -1,6 +1,0 @@
-// social colors
-@each $provider, $color in $social-colors {
-  .link--#{$provider}:hover {
-    color: $color;
-  }
-}

@@ -3,10 +3,9 @@ title: 2 books that changed my life
 date: 2016-08-17 00:54:00 Z
 categories:
 - newsletters
-layout: post
 ---
 
-A close friend reached out to me this month asking about life-changing books, those which stick with us long after we finish them. The economist Tyler Cowen calls them *quake books* since they have a way of shaking our worldview. More often than not, quake books are *old*. Their ideas began as patterns of neurological activity in the brain of the author before being shuttled through time and space - thousands of miles and hundreds of years - to our brains, where they generate almost identical patterns. Such is the power of books. 
+A close friend reached out to me this month asking about life-changing books, those which stick with us long after we finish them. The economist Tyler Cowen calls them *quake books* since they have a way of shaking our worldview. More often than not, quake books are *old*. Their ideas began as patterns of neurological activity in the brain of the author before being shuttled through time and space - thousands of miles and hundreds of years - to our brains, where they generate almost identical patterns. Such is the power of books.
 
 I did my best to honor my friend's request of "no cheesy self-help books" by recommending some of my personal quake books. I'd like to begin this month by sharing two with you ([see them on Instagram](https://www.instagram.com/p/BIjyVlnhcPI/)).
 
@@ -22,7 +21,7 @@ The fact this book exists at all is remarkable. The Meditations are the private 
 
 I'd love to hear about your personal quake books. Which books do you return to year after year?
 
-## July 2016 Recommended Reading 
+## July 2016 Recommended Reading
 
 **[The Gene: An Intimate History](http://www.amazon.com/dp/1476733503/?tag=tress-20)** by Siddhartha Mukherjee
 
@@ -38,9 +37,9 @@ As an athlete, I'm an easy sell when it comes to books on the mental aspect of c
 
 [Derek Sivers wrote an excellent post](https://sivers.org/d1r) in which he discusses *multiplying skills*, those abilities which enhance our main pursuit and give us an edge over others in the field. Multiplying skills include things like writing, programming, foreign language fluency, persuasion, and of course public speaking. Consider Mark Vanhoenacker, a 747 pilot who wrote *[Skyfaring](http://www.amazon.com/dp/0804169713/?tag=tress-20)*, my favorite book of 2015. Or Paul Kalanithi, the neuroscientist/neurosurgeon who penned the brilliant memoir [When Breath Becomes Air](http://www.amazon.com/dp/081298840X/?tag=tress-20).
 
-I’m not a good public speaker, but it’s a skill I'm eager to improve. This book is an excellent place to begin learning the lost art of rhetoric. 
+I’m not a good public speaker, but it’s a skill I'm eager to improve. This book is an excellent place to begin learning the lost art of rhetoric.
 
-## Articles I enjoyed this month 
+## Articles I enjoyed this month
 
 **[With Obama, the Personal Is Presidential](http://www.nytimes.com/2016/07/15/opinion/with-obama-the-personal-is-presidential.html)** via NYTimes
 
@@ -48,11 +47,11 @@ I have a profound respect for President Obama which transcends politics. Forget 
 
 **[Solitude and Leadership](https://theamericanscholar.org/solitude-and-leadership/)** by William Deresiewicz
 
-This lecture delivered to the freshman class at West Point in 2009 absolutely floored me. I've read it over and over this month, so much so it has become an unofficial manifesto of my newsletter. It speaks volumes about the state of thinking and leadership in the world, and in the bureaucracies we encounter daily. I recognize these kinds of "leaders" even in my own little realm of Olympic sport - those with a talent for maneuvering rather than creative, courageous thinking. One only has to look at the decision of the IOC in regard to the Russian doping scandal to see this kind of leadership in action. 
+This lecture delivered to the freshman class at West Point in 2009 absolutely floored me. I've read it over and over this month, so much so it has become an unofficial manifesto of my newsletter. It speaks volumes about the state of thinking and leadership in the world, and in the bureaucracies we encounter daily. I recognize these kinds of "leaders" even in my own little realm of Olympic sport - those with a talent for maneuvering rather than creative, courageous thinking. One only has to look at the decision of the IOC in regard to the Russian doping scandal to see this kind of leadership in action.
 
 One particular passage stands out to me, relevant to our earlier discussion on quake books:
 
-*"Most books are old. This is not a disadvantage: this is precisely what makes them valuable. They stand against the conventional wisdom of today simply because they’re not from today"*. 
+*"Most books are old. This is not a disadvantage: this is precisely what makes them valuable. They stand against the conventional wisdom of today simply because they’re not from today"*.
 
 **[Donald Trump doesn’t read much. Being president probably wouldn’t change that.](https://www.washingtonpost.com/politics/donald-trump-doesnt-read-much-being-president-probably-wouldnt-change-that/2016/07/17/d2ddf2bc-4932-11e6-90a8-fb84201e0645_story.html) ** via Washington Post
 
@@ -65,4 +64,4 @@ I've tried to avoid talking about the state of politics in America, but with the
 - [What It Takes: The Way to the White House](http://www.amazon.com/dp/0679746498/?tag=tress-20) by Richard Ben Cramer
 - [Excellent Sheep: The Miseducation of the American Elite](http://www.amazon.com/dp/1476702721/?tag=tress-20) by William Deresiewicz
 
-Thank you for reading. 
+Thank you for reading.

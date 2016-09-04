@@ -3,7 +3,6 @@ title: A simple way to get more out of reading
 date: 2016-07-31 00:00:00 Z
 categories:
 - newsletters
-layout: page
 ---
 
 You’ll notice a new format this month. I’m experimenting with some new ideas. Please take a second to let me know what you think, and if you wouldn’t mind, forward this newsletter to a friend or two.
