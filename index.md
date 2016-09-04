@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-Hi I'm **Kyle Tress**. I'm an Olympian in the [sport of skeleton](/skeleton). When I'm not racing headfirst down a mountain of ice, I create software and read and review books. Once a month I publish a [recommended reading newsletter]().
+Hi I'm **Kyle Tress**. I'm an Olympian in the [sport of skeleton](/skeleton). When I'm not racing headfirst down an ice track at 85mph, I create software and read and review books. Once a month I publish a [recommended reading newsletter]().
 
 I'm currently the lead software developer at [Instaviser](http://www.instaviser.com), and I'm building a data science/analytics startup for amateur and Olympic sport. I build web apps in Rails and iOS apps in swift.
 
