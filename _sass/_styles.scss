@@ -94,6 +94,9 @@ blockquote {
     font-size: 1.6rem;
   }
   input[type="submit"] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
     background: limegreen;
     color: white;
     text-transform: uppercase;
