@@ -19,6 +19,8 @@ description: The website of 2014 Olympian Kyle Tress
 url: https://kyletress.github.io
 locale: en
 markdown: kramdown
+kramdown:
+  auto_ids: false
 permalink: "/:title"
 quote: Mens sana in corpore sano
 exclude:
