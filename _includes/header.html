@@ -4,8 +4,9 @@
   </a>
   <p class="subtle">Meditations on performance and leadership by <strong>Kyle Tress</strong></p>
   <nav>
+    {% assign url = page.url | remove: "/index.html" %}
     {% for nav in site.data.nav %}
-      <a href="{{nav.url}}"{% if nav.class %} class="{{nav.class}}"{% endif%}>{{nav.title}}</a>
+      <a href="{{nav.url}}"{% if url == nav.url %}class="current"{% endif %}>{{nav.title}}</a>
     {% endfor %}
   </nav>
 </header>

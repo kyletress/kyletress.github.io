@@ -8,8 +8,8 @@ collections:
   posts:
     title: Posts
     output: true
-  reading:
-    title: Reading
+  books:
+    title: Books
     output: true
   uploads:
     title: Uploads
@@ -23,6 +23,11 @@ defaults:
 - scope:
     path: ''
     type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: books
   values:
     layout: page
 email: kyle@kyletress.com

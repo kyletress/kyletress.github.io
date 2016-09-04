@@ -115,9 +115,17 @@ blockquote {
 .site-header {
   margin-bottom: 4rem;
   nav a {
+    color: gray;
     margin-right: 2rem;
+    &:hover {
+      color: $link-color;
+    }
     &:last-child {
       margin-right: 0;
+    }
+    &.current {
+      color: $link-color;
+      border-bottom: 1px solid $link-color;
     }
   }
 }
