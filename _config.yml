@@ -14,6 +14,17 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
 email: kyle@kyletress.com
 description: The website of 2014 Olympian Kyle Tress
 url: https://kyletress.github.io
@@ -28,16 +39,3 @@ exclude:
 - README.md
 - Gemfile
 - Gemfile.lock
-defaults:
-  -
-    scope:
-      path: "" # all files
-      type: "posts"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
