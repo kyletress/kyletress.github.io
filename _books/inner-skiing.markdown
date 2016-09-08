@@ -30,3 +30,7 @@ image: "/uploads/inner-skiing.jpeg"
 > I have begun to pay more attention to the quality of what I am doing rather than to the quantity. 
 
 > Hence, skiing can teach us something that is often overlooked in our goal-oriented daily activities: *the importance of enjoying the process*. From it we can learn the without appreciating the path, reaching the goal is often meaningless. Moreover, we discover that games of all kinds are more often won when first they are enjoyed. 
+
+The remarkable thing about Inner Skiing by W. Timothy Gallwey and Robert Kriegel is how beautifully the book translates to skeleton. For many years I've searched for a sports psychology book that takes into account the uniqueness of sliding. This is the first to do it well, not just by virtue of the similarities between skiing and skeleton -- Gallwey's first book The Inner Game of Tennis is equally helpful -- but because the authors discuss many fundamental and universal truths about performance. 
+
+### 2. Self 1 and Self 2    
