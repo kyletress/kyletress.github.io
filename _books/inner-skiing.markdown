@@ -20,3 +20,13 @@ image: "/uploads/inner-skiing.jpeg"
 > Skiing, too, can be effortless when we cooperate with gravity's forces instead of fighting them. 
 
 > In most sports we rely on our own power to run or jump, throw a ball, or swing a racket. But in skiing, gravity provides the power and pulls us down the slope. The only exertion necessary is to play with the pull -- checking, turning, slowing, and directing our movement.  
+
+> Blending, a basic principle in the martial arts, can also be used in skiing, teaching us when to flow with the force of gravity and when to resist it. 
+
+> Skiing is a sport of changes; no two runs are ever the same. 
+
+> When you have preconceived notions about a slope, you won't truly experience it. You see the slope as you think it is, or as it was before, rather than as it is now. When you hit something, it comes as a surprise. This is the mountain's way of saying *pay attention*. 
+
+> I have begun to pay more attention to the quality of what I am doing rather than to the quantity. 
+
+> Hence, skiing can teach us something that is often overlooked in our goal-oriented daily activities: *the importance of enjoying the process*. From it we can learn the without appreciating th path, reaching the goal is often meaningless. Moreover, we discover that games of all kinds are more often won when first they are enjoyed. 
