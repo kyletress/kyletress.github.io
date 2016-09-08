@@ -9,6 +9,11 @@ layout: default
     </header>
   {% endunless %}
   <div>
+    {% if page.image %}
+      <div class="book-cover">
+        <img class="book" src="{{page.image}}" alt="">
+      </div>
+    {% endif %}
     {{ content }}
   </div>
 </article>
