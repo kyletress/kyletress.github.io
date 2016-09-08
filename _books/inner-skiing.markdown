@@ -4,6 +4,6 @@ date: 2016-09-08 06:10:00 Z
 authors:
 - W. Timothy Gallwey
 - Robert Kriegel
-image: 
+image: "/uploads/inner-skiing.jpeg"
 ---
 
