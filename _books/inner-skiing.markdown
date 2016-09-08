@@ -29,4 +29,4 @@ image: "/uploads/inner-skiing.jpeg"
 
 > I have begun to pay more attention to the quality of what I am doing rather than to the quantity. 
 
-> Hence, skiing can teach us something that is often overlooked in our goal-oriented daily activities: *the importance of enjoying the process*. From it we can learn the without appreciating th path, reaching the goal is often meaningless. Moreover, we discover that games of all kinds are more often won when first they are enjoyed. 
+> Hence, skiing can teach us something that is often overlooked in our goal-oriented daily activities: *the importance of enjoying the process*. From it we can learn the without appreciating the path, reaching the goal is often meaningless. Moreover, we discover that games of all kinds are more often won when first they are enjoyed. 
