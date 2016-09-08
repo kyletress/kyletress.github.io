@@ -9,7 +9,7 @@ image: "/uploads/inner-skiing.jpeg"
 
 ### 1. Skiing is more than a parallel turn
 
-> There is a magic in skiing when all is going well that transcends anything I have experienced in other sports. As I soar down a mountainside letting my body find its won balance in turn after turn, my mind as clear as the cold air against my face, my heart feels as warm as the sun, and I attain a level of experience which compels me to return to the snow for more and more of the same. 
+> There is a magic in skiing when all is going well that transcends anything I have experienced in other sports. As I soar down a mountainside letting my body find its own balance in turn after turn, my mind as clear as the cold air against my face, my heart feels as warm as the sun, and I attain a level of experience which compels me to return to the snow for more and more of the same. 
 
 > The Inner Skier comes to recognize that his greatest challenge, and consequently his greatest possibilities, lies in overcoming the self-imposed mental limitations that prevent the full expression of his physical potential. 
 
