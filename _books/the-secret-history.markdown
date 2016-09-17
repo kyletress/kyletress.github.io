@@ -3,6 +3,7 @@ title: The Secret History
 date: 2016-09-17 02:02:00 Z
 authors:
 - Donna Tart
+image: "/uploads/the-secret-history.jpg"
 ---
 
 > "All my classes with you?" I said. 
