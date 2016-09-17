@@ -8,7 +8,7 @@ Outside of sport, I’m the lead software developer at [Instaviser](http://www.i
 
 Here I write about my main interests: reading, performance, and leadership. Once a month [I recommend a few great books](/newsletter). 
 
-I can be found around the web as *@kyletress*: on [Twitter](https://www.twitter.com/kyletress), [Instagram](https://www.instagram.com/kyletress), [Facebook](https://www.facebook.com/kyletressskeleton) and [GitHub](https://www.github.com/kyletress), among others. 
+I can be found around the web as *@kyletress*: on [Twitter](https://www.twitter.com/kyletress), [Instagram](https://www.instagram.com/kyletress), [Facebook](https://www.facebook.com/kyletressskeleton) and [GitHub](https://www.github.com/kyletress). 
 
 Here's [what I'm doing now](/now). 
 
