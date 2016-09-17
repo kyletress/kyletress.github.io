@@ -2,13 +2,15 @@
 title: Home
 ---
 
-I'm **Kyle Tress**, an Olympian in the [sport of skeleton](/skeleton). When I'm not racing headfirst down an ice track at 85mph, I create software and read and review books. Once a month I publish a [recommended reading newsletter](/newsletter).
+I’m **Kyle Tress**, an Olympian in the [sport of skeleton](/skeleton). I competed in Sochi 2014 and I’m training for Korea 2018. Skeleton is the one that goes headfirst. 
 
-I'm currently the lead software developer at [Instaviser](http://www.instaviser.com), and I'm building a data science/analytics startup for amateur and Olympic sport. I build web apps in Rails and iOS apps in swift.
+Outside of sport, I’m the lead software developer at [Instaviser](http://www.instaviser.com). I build things in Ruby and Swift.
 
-I tweet from [@kyletress](https://www.twitter.com/kyletress), post photos on [instagram](https://www.instagram.com/kyletress), and share code on [GitHub](https://www.github.com/kyletress).
+Here I write about my main interests: reading, performance, and leadership. Once a month [I recommend a few great books](/newsletter). 
 
-Here's [what I'm doing now](/now).
+I can be found around the web as *@kyletress*: on [Twitter](https://www.twitter.com/kyletress), [Instagram](https://www.instagram.com/kyletress), [Facebook](https://www.facebook.com/kyletressskeleton) and [GitHub](https://www.github.com/kyletress), among others. 
+
+Here's [what I'm doing now](/now). 
 
   <h2>Recent</h2>
   <table>
