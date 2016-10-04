@@ -1,23 +1,16 @@
 ---
 title: Home
+layout: default
 ---
 
-I’m **Kyle Tress**, an Olympian in the [sport of skeleton](/skeleton). I competed in Sochi 2014 and I’m training for Korea 2018. Skeleton is the one that goes headfirst. 
+Hi I’m **Kyle Tress**, an Olympic athlete in the sport of skeleton.  
 
-Outside of sport, I’m the lead software developer at [Instaviser](http://www.instaviser.com). I build things in Ruby and Swift.
+I competed in the 2014 Winter Olympic Games in Sochi. I’m currently training for the 2018 Games in Korea. Outside of sport, I’m the lead software developer at [Instaviser](http://www.instaviser.com), a platform which connects mentors to learners via video and phone. I write code in Ruby, though I’m learning Swift so I can build a few personal iOS apps.
 
-Here I write about my main interests: reading, performance, and leadership. Once a month [I recommend a few great books](/newsletter). 
+I occasionally write essays on topics like performance, reading, and leadership. Speaking of reading, once a month I recommend a few favorite books in [my reading list email](http://www.tinyletter.com/kyletress).
 
-I can be found around the web as *@kyletress*: on [Twitter](https://www.twitter.com/kyletress), [Instagram](https://www.instagram.com/kyletress), [Facebook](https://www.facebook.com/kyletressskeleton) and [GitHub](https://www.github.com/kyletress). 
+I post on [Instagram](https://www.instagram.com/kyletress) and [Twitter](https://www.twitter.com/kyletress), share code on [GitHub](https://www.github.com/kyletress), and publish long form content on [Medium](https://medium.com/@kyletress). If you’d like to follow my skeleton career, you can do so on [my Facebook page](https://www.facebook.com/kyletressskeleton) or on [Sledsheet](https://www.sledsheet.com).
 
-Here's [what I'm doing now](/now). 
+The best way to contact me is to [send me an email](mailto:kyle@kyletress.com). I don’t have voicemail and I rarely answer calls.
 
-  <h2>Recent</h2>
-  <table>
-    {% for post in site.posts %}
-      <tr>
-        <td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
-        <td class="subtle">{{ post.date | date: "%b %Y" }}</td>
-      </tr>
-    {% endfor %}
-  </table>
+If you’re curious, here’s [what I’m doing now](/now).

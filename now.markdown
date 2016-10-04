@@ -1,6 +1,7 @@
 ---
 title: What I'm doing now
 date: 2016-08-15 06:33:00 Z
+layout: default
 ---
 
 After 13 seasons of skeleton, [I took a much-needed break from competition](http://go.teamusa.org/1MRhE2r).  Now I'm back to training and have set my sights on **winning a medal in Korea**.

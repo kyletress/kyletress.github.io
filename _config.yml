@@ -1,35 +1,6 @@
 ---
 title: Kyle Tress
 timezone: UTC
-collections:
-  books:
-    title: Books
-    output: true
-  newsletters:
-    title: Newsletters
-    output: true
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: page
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-- scope:
-    path: ''
-    type: books
-  values:
-    layout: page
 email: kyle@kyletress.com
 description: The website of 2014 Olympian Kyle Tress
 url: https://kyletress.github.io
@@ -38,7 +9,6 @@ markdown: kramdown
 kramdown:
   auto_ids: false
 permalink: "/:title"
-quote: Mens sana in corpore sano
 exclude:
 - LICENSE
 - README.md
