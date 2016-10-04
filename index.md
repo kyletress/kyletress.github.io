@@ -5,7 +5,7 @@ layout: default
 
 Hi I’m **Kyle Tress**, an Olympic athlete in the sport of skeleton.  
 
-I competed in the 2014 Winter Olympic Games in Sochi. I’m currently training for the 2018 Games in Korea. Outside of sport, I’m the lead software developer at [Instaviser](http://www.instaviser.com), a platform which connects mentors to learners via video and phone. I write code in Ruby, though I’m learning Swift so I can build a few personal iOS apps.
+I competed in the 2014 Winter Olympic Games in Sochi. I’m currently training for the 2018 Games in Korea. Outside of sport, I’m the lead software developer at [Instaviser](http://www.instaviser.com), a platform which connects mentors to learners via video and phone. I write code in Ruby, but I’m learning Swift so I can build some personal iOS apps.
 
 I occasionally write essays on topics like performance, reading, and leadership. Speaking of reading, once a month I recommend a few favorite books in [my reading list email](http://www.tinyletter.com/kyletress).
 
