@@ -14,3 +14,7 @@ I post on [Instagram](https://www.instagram.com/kyletress) and [Twitter](https:/
 The best way to contact me is to [send me an email](mailto:kyle@kyletress.com). I don’t have voicemail and I rarely answer calls.
 
 If you’re curious, here’s [what I’m doing now](/now).
+
+### Recent
+
+- [Why I'm Running for USOC AAC Representative](https://medium.com/@kyletress/fellow-us-bobsled-skeleton-athletes-6f81d5bd9716?source=linkShare-2eefa9966355-1477108991)
