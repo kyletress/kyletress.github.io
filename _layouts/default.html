@@ -5,14 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Kyle Tress">
     <title>Kyle Tress - {{ page.title }}</title>
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   </head>
   <body>
     <main>
+      <img src="uploads/headshot.jpg" alt="" width="125">
       {{content}}
     </main>
     <footer>
-      <img src="uploads/headshot.jpg" alt="" width="48">&copy; 2003 - {{ site.time | date: '%Y' }}, Kyle Tress · <a href="mailto:kyle@kyletress.com">kyle@kyletress.com</a>
+      <img src="uploads/footer-headshot.jpg" alt="" width="32">&copy; 2003 - {{ site.time | date: '%Y' }}, Kyle Tress · <a href="mailto:kyle@kyletress.com">kyle@kyletress.com</a>
     </footer>
   </body>
 </html>
