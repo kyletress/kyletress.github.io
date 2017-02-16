@@ -3,18 +3,9 @@ header:
     url: /
   - title: About
     url: /about/
-  - title: Writing
-    url: /posts/
-  - title: Reading
+  - title: Essays
+    url: /writing/
+  - title: Library
     url: /reading/
-  - title: Projects
-    url: /projects/
   - title: Newsletter
     url: /newsletter/
-footer:
-  - title: Credits
-    url: /credits/
-  - title: Disclaimer
-    url: /disclaimer/
-  - title: Now
-    url: /now/

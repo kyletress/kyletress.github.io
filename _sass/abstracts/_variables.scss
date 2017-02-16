@@ -10,7 +10,7 @@ $color-muted--light: lighten($color-muted, 25%);
 $color-borders: #eee;
 
 // Fonts
-$font-serif: "Georgia", "Source Serif Pro", Georgia, serif;
+$font-serif: "Tiempos", "Georgia", "Source Serif Pro", Georgia, serif;
 $font-sans: -apple-system, BlinkMacSystemFont, "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
 $font-code: "Source Code Pro";
 
@@ -23,12 +23,12 @@ $font-weight--ultra: 900;
 $body-font: $font-serif;
 $ui-font: $font-sans;
 $base-line-height: 26;
-$font-size--normal: 1.6em; // sizing is in rems elsewhere (Chrome bug)
-$font-size: 1.6rem;
-$font-size--small: 1.4rem;
+$font-size--normal: 1.4em; // sizing is in rems elsewhere (Chrome bug)
+$font-size: 1.4rem;
+$font-size--small: 1.2rem;
 $font-size--xsmall: 1.2rem;
-$font-size--large: 1.6rem;
-$line-height: 1.625; // optimal is 26 for this width.
+$font-size--large: 1.4rem;
+$line-height: 1.8; // optimal is 26 for this width.
 
 // Layout
 $spacing-unit: 30px;
@@ -47,12 +47,14 @@ $brand-text-decoration--hover: none;
 
 // Avatar
 $avatar-border-radius: 50%;
-$avatar-width: 125px;
-$avatar-height: 125px;
+$avatar-width: 135px;
+$avatar-height: 135px;
 
 // Masthead
-$masthead-text-color: #888;
-$masthead-font-size: 1.4rem;
+$masthead-text-color: #2a2a2a;
+$masthead-font-size: 1.1rem;
+$masthead-font-weight: $font-weight--medium;
+$masthead-text-transform: uppercase;
 
 // Header
 $header-background: #fff;
@@ -95,10 +97,10 @@ $subtitle-text-transform: uppercase;
 $subtitle-letter-spacing: 0;
 
 // footnotes
-$footnote-font-size: 1.4rem;
+$footnote-font-size: 1.2rem;
 $footnote-font-style: normal;
 $footnote-text-color: #999;
-$footnote-font-family: $font-sans;
+$footnote-font-family: $font-serif;
 
 // Breakpoint
 $breakpoint: 700px;

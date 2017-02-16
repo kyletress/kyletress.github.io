@@ -1,3 +1,32 @@
+@font-face {
+  font-family: 'Tiempos';
+  src:  url('/fonts/tiempos_regular.woff2') format('woff2');
+  font-size: 400;
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Tiempos';
+  src:  url('/fonts/tiempos_regular_italic.woff2') format('woff2');
+  font-size: 400;
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Tiempos';
+  src:  url('/fonts/tiempos_semibold_italic.woff2') format('woff2');
+  font-size: 400;
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Tiempos';
+  src:  url('/fonts/tiempos_semibold.woff2') format('woff2');
+  font-size: 400;
+  font-weight: bold;
+  font-style: normal;
+}
+
 html {
   box-sizing: border-box;
   font-size: 62.5%;
@@ -82,7 +111,7 @@ blockquote {
     color: $color-muted;
     border-left: 1px solid $color-secondary;
     padding-left: $spacing-unit / 2;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     font-style: italic;
     margin-left: 0;
 

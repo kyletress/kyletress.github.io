@@ -4,10 +4,13 @@ layout: page
 
 {% include masthead.html %}
 
-Hi, I'm **Kyle Tress**. I write about performance and leadership, and how reading can make us better thinkers and leaders. I study world leaders, elite athletes, successful entrepreneurs, and other world-class performers to discover the keys to their success. Then I distill and share what I learn.
+**Welcome**. I am an Olympic athlete and writer with a focus on strategy, performance, and leadership. I study successful athletes, I share what I learn here on my website, and in my occasional (usually monthly) newsletter. How reading can make us better thinkers and leaders. I study world leaders, elite athletes, successful entrepreneurs, and other world-class performers to discover the keys to their success. Then I distill and share what I learn.
 
-### Select articles:
+I try to take a broad approach, drawing from history, philosophy, sport, politics, and war.
 
+### Select essays:
+
+- [The Boomerang](/the-boomerang)
 - [What is Performance Reading?](/what-is-performance-reading)
 - [How to read 100 books this year]()
 - [The 20 principles of excellence]()
