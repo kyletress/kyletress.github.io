@@ -4,7 +4,7 @@
   //font-family: $ui-font;
   font-weight: $masthead-font-weight;
   p {
-    color: $masthead-text-color;
+    color: lighten($masthead-text-color, 13%);
     font-size: $masthead-font-size;
     text-transform: $masthead-text-transform;
     span {

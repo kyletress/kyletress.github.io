@@ -16,6 +16,16 @@ I try to take a broad approach, drawing from history, philosophy, sport, politic
 - [The 20 principles of excellence]()
 - [Read like it's your job]()
 
+### Current Reading List
+
+<div class="currently-reading" markdown="1">
+- ![/uploads/spqr.jpeg](/uploads/sqpr.jpg){: .book-cover}
+- ![/uploads/spqr.jpeg](/uploads/33-strategies-of-war.jpg){: .book-cover}
+- ![/uploads/spqr.jpeg](/uploads/michelangelo-and-the-popes-ceiling.jpg){: .book-cover}
+- ![/uploads/spqr.jpeg](/uploads/history-of-the-peloponessian-war.jpg){: .book-cover}
+
+</div>
+
 ### Book reviews
 
 Much of my website is devoted to reading and sharing book reviews. Check out a few of my recent favorites:

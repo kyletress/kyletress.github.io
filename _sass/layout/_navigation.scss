@@ -29,6 +29,7 @@ nav {
 
   .is--active {
     font-weight: $font-weight--bold;
-    color: $nav-link-color--hover;
+    //color: $nav-link-color--hover;
+    border-bottom: 1px solid $nav-link-color--hover;
   }
 }
