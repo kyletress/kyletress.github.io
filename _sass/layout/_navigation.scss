@@ -1,35 +1,30 @@
 nav {
-  display: flex;
-  flex-direction: column;
-  margin: 0 auto;
-  width: 100%;
   font-family: $ui-font;
 
   @media(min-width: $breakpoint) {
     flex-direction: row;
     justify-content: space-between;
-    width: $max-container-width;
   }
 
   a {
-    color: $nav-link-color;
+    color: #aaa;
     //color: white;
-    text-transform: $nav-text-transform;
+    text-transform: none;
     letter-spacing: $nav-letter-spacing;
-    font-size: $nav-font-size;
+    font-size: 1.2rem;
     font-weight: $nav-link-font-weight;
     text-decoration: $nav-text-decoration;
-    padding: 1.5rem 0;
+    padding: 1.7rem 1rem;
 
     &:hover {
-      color: $nav-link-color--hover;
+      color: black;
       text-decoration: $nav-text-decoration--hover;
     }
   }
 
   .is--active {
-    font-weight: $font-weight--bold;
-    //color: $nav-link-color--hover;
+    font-weight: 600;
+    color: black;
     border-bottom: 1px solid $nav-link-color--hover;
   }
 }

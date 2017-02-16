@@ -1,5 +1,11 @@
 .site-header {
-  //background:#112e51;
-  font-family: $ui-font;
   border-bottom: 1px solid $color-muted--light;
+  padding: 1rem;
+  margin-bottom:4rem;
+  .container {
+    font-family: $ui-font;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
 }

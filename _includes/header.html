@@ -1,11 +1,14 @@
 <header class="site-header">
-  <nav class="site-nav">
-    {% for nav in site.data.nav.header %}
-      {% assign class = nil %}
-      {% if page.url == nav.url %}
-        {% assign class = 'is--active' %}
-      {% endif %}
-      <a href="{{nav.url}}"{% if class %} class="{{class}}"{% endif%}>{{nav.title}}</a>
-    {% endfor %}
-  </nav>
+  <div class="container">
+    <img src="{{ site.data.author.avatar }}" alt="{{site.data.author.name}}" class="avatar">
+    <nav class="site-nav">
+      {% for nav in site.data.nav.header %}
+        {% assign class = nil %}
+        {% if page.url == nav.url %}
+          {% assign class = 'is--active' %}
+        {% endif %}
+        <a href="{{nav.url}}"{% if class %} class="{{class}}"{% endif%}>{{nav.title}}</a>
+      {% endfor %}
+    </nav>
+  </div>
 </header>
