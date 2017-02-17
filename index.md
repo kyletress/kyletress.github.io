@@ -2,11 +2,9 @@
 layout: page
 ---
 
-{% include masthead.html %}
+**Welcome**. I'm Kyle Tress, an Olympic athlete and writer with a focus on strategy, performance, and leadership. I read and recommend books, write essays, and share what I learn here and in [my newsletter](/newsletter). I take a broad approach to these studies, drawing inspiration from history, philosophy, sport, politics, art, and war.
 
-**Welcome**. I am an Olympic athlete and writer with a focus on strategy, performance, and leadership. I study successful athletes, I share what I learn here on my website, and in my occasional (usually monthly) newsletter. How reading can make us better thinkers and leaders. I study world leaders, elite athletes, successful entrepreneurs, and other world-class performers to discover the keys to their success. Then I distill and share what I learn.
-
-I try to take a broad approach, drawing from history, philosophy, sport, politics, and war.
+I don't use social media. If you need to get in touch (or want to say hello) please email me: [kyle@kyletress.com](mailto:kyle@kyletress.com).
 
 ### Select essays:
 
