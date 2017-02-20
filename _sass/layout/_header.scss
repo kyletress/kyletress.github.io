@@ -1,18 +1,22 @@
 header {
   border-bottom: 1px solid $color-muted--light;
-  //padding: .5rem;
+  padding: .5rem;
   margin-bottom:4rem;
   background: #fafafa;
   font-family: $ui-font;
-  nav {
+  .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 auto;
-    max-width: 650px;
+  }
+  nav {
+    // display: flex;
+    // justify-content: space-between;
+    // align-items: center;
+    //max-width: 650px;
     @media(min-width: $breakpoint) {
-      flex-direction: row;
-      justify-content: space-between;
+      //flex-direction: row;
+      //justify-content: space-between;
     }
     a {
       color: #aaa;
@@ -21,7 +25,7 @@ header {
       font-size: 1.2rem;
       font-weight: $nav-link-font-weight;
       text-decoration: $nav-text-decoration;
-      padding: 1rem;
+      padding: 1.4rem 1rem;
       &.brand {
         padding: 0;
       }

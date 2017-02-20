@@ -4,7 +4,6 @@ permalink: "/posts/"
 layout: page
 ---
 
-HELLO
 <ul class="post-list">
    {% for post in site.posts %}
      <li>
