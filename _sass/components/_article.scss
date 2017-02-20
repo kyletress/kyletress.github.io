@@ -1,0 +1,29 @@
+.post header {
+  text-align: center;
+  padding: 6rem 0;
+  h1, h2, p {
+    margin: 0;
+  }
+
+  @media(min-width: $breakpoint) {
+    text-align: left;
+  }
+}
+
+.post-content p:first-child {
+  margin-top: 0;
+}
+
+
+.post-meta {
+  color: $color-muted;
+  text-transform: uppercase;
+  font-size: $font-size--small;
+}
+
+.subtitle {
+  color: $subtitle-text-color;
+  font-size: $subtitle-font-size;
+  text-transform: $subtitle-text-transform;
+  letter-spacing: $subtitle-letter-spacing;
+}

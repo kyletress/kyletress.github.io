@@ -1,0 +1,38 @@
+// social colors
+@each $provider, $color in $social-colors {
+  .link--#{$provider}:hover {
+    color: $color;
+  }
+}
+
+h1 {
+  font-size: 3.2rem;
+  line-height: 1.25em;
+  font-weight: $font-weight--bold;
+  @media(min-width: $breakpoint) {
+    font-size: 4rem;
+    line-height: 1.125em;
+  }
+}
+
+h2 {
+  font-size: 2.6rem;
+  line-height: 1.15384615em;
+  @media(min-width: $breakpoint) {
+    font-size: 3.2rem;
+    line-height: 1.25em;
+  }
+}
+
+h3 {
+  font-size: 2.2rem;
+  line-height: 1.13636364em;
+  @media(min-width: $breakpoint) {
+    font-size: 2.4rem;
+    line-height: 1.25em;
+  }
+}
+
+.social-links {
+  font-size: 1.1rem;
+}

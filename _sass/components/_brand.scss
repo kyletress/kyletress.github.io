@@ -1,0 +1,18 @@
+.brand {
+  font-size: $brand-font-size;
+  font-weight: $font-weight--bold;
+  text-transform: $brand-text-transform;
+  color: $brand-color;
+  &:hover {
+    color: $brand-color--hover;
+    text-decoration: $brand-text-decoration--hover;
+  }
+}
+
+.logo {
+  span {
+    font-size:1.3rem;
+    font-style: italic;
+    color: $color-muted;
+  }
+}

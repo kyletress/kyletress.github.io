@@ -1,0 +1,14 @@
+.masthead {
+  text-align: center;
+  padding: $masthead-padding;
+  //font-family: $ui-font;
+  font-weight: $masthead-font-weight;
+  p {
+    color: lighten($masthead-text-color, 13%);
+    font-size: $masthead-font-size;
+    text-transform: $masthead-text-transform;
+    span {
+      text-transform: none;
+    }
+  }
+}

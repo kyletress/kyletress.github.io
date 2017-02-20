@@ -1,0 +1,156 @@
+@font-face {
+  font-family: 'Tiempos';
+  src:  url('/fonts/tiempos_regular.woff2') format('woff2');
+  font-size: 400;
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Tiempos';
+  src:  url('/fonts/tiempos_regular_italic.woff2') format('woff2');
+  font-size: 400;
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Tiempos';
+  src:  url('/fonts/tiempos_semibold_italic.woff2') format('woff2');
+  font-size: 400;
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Tiempos';
+  src:  url('/fonts/tiempos_semibold.woff2') format('woff2');
+  font-size: 400;
+  font-weight: bold;
+  font-style: normal;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  font-family: $body-font;
+  font-size: $font-size--normal;
+  line-height: $line-height;
+  color: $text-color;
+  background-color: $background-color;
+  border-top: $body-border;
+  @media(min-width: $breakpoint--large) {
+    font-size: $font-size--large;
+  }
+}
+
+img {
+  border: 0;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+  &:hover {
+    color: $link-color--hover;
+    text-decoration: underline;
+  }
+}
+
+
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm {
+    margin-bottom: $spacing-unit / 2;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  letter-spacing: -.5px;
+}
+
+
+
+figure {
+  margin: 0;
+  > img {
+    display: block;
+  }
+
+  figcaption {
+      font-size: $font-size--small;
+  }
+}
+
+/**
+ * Headings
+ */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: $font-weight--bold;
+}
+
+/**
+ * Blockquotes
+ */
+blockquote {
+    color: $color-muted;
+    border-left: 1px solid $color-secondary;
+    padding-left: $spacing-unit / 2;
+    font-size: 1.4rem;
+    font-style: italic;
+    margin-left: 0;
+
+    > :last-child {
+        margin-bottom: 0;
+    }
+}
+
+time {
+  text-transform: uppercase;
+  color: $color-muted;
+  font-size: $font-size--small;
+}
+
+
+/**
+ * Code formatting
+ */
+pre,
+code {
+    font-size: 15px;
+    border: 1px solid #f2f3f3;
+    border-radius: 3px;
+    background-color: #fafafa;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125)
+}
+
+code {
+    padding: 1px 5px;
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: auto;
+
+    > code {
+        box-shadow: none;
+        border: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}

@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<article class="post container">
+    <h3>{{ page.title }}</h3>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  {% if site.show-share-buttons %}
+    {% include share-buttons.html %}
+  {% endif %}
+
+</article>
