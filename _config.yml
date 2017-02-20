@@ -16,8 +16,6 @@ markdown: kramdown
 kramdown:
   auto_ids: false
 permalink: "/:title"
-<<<<<<< HEAD
-=======
 show-social-links-in-footer: true
 show-share-buttons: true
 site-quote: Mens sana in corpore sano
@@ -26,7 +24,6 @@ disqus-shortname: kyletress
 # Files
 include:
 - _pages
->>>>>>> bob
 exclude:
 - LICENSE
 - README.md
