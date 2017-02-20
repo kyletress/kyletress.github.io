@@ -1,26 +1,19 @@
 ---
 ---
 
-<<<<<<< HEAD
-@import "styles";
-=======
 @import
   "abstracts/variables",
   "abstracts/mixins";
 
 @import
   "base/base",
-  "base/typography",
-  "base/syntax-highlighting";
+  "base/typography";
 
 @import
   "components/image",
   "components/newsletter",
-  "components/button_group",
-  "components/button",
   "components/footnote",
   "components/masthead",
-  "components/hero",
   "components/media",
   "components/article",
   "components/brand";
@@ -30,4 +23,3 @@
   "layout/navigation.scss",
   "layout/footer",
   "layout/layout";
->>>>>>> bob
