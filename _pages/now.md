@@ -11,7 +11,6 @@ layout: page
 - Personal programming and business projects.
 - USOC and USABS Athlete Representative responsibilities.
 - Reading and recommending books.
-- Writing articles for this website.
 
 I am no longer:
 

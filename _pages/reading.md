@@ -4,6 +4,7 @@ permalink: "/reading/"
 layout: page
 ---
 
+This page is a work in progress. In the meantime, you should see [my monthly newsletter](/newsletter) for book recommendations. 
 
 {% for book in site.reading %}
 <div class="media book--media">

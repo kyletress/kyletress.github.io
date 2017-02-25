@@ -1,0 +1,16 @@
+.container {
+  max-width: $max-container-width;
+  margin: 0 auto;
+  width: 90%;
+}
+
+// Sticky Footer styles
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1; // main takes up all remaining space.
+}

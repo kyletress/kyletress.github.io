@@ -2,24 +2,10 @@
 ---
 
 @import
-  "abstracts/variables",
-  "abstracts/mixins";
-
-@import
-  "base/base",
-  "base/typography";
-
-@import
-  "components/image",
-  "components/newsletter",
-  "components/footnote",
-  "components/masthead",
-  "components/media",
-  "components/article",
-  "components/brand";
-
-@import
-  "layout/header",
-  "layout/navigation.scss",
-  "layout/footer",
-  "layout/layout";
+  "variables",
+  "base",
+  "newsletter",
+  "media",
+  "header",
+  "footer",
+  "layout";
