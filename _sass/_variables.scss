@@ -1,16 +1,17 @@
-// Colors
+// Color Palette
 $color-primary: #0071bc;
 $color-secondary: #e31c3d;
+$color-muted: #f1f1f2;
+
+// Body and Type
 $background-color: #fff;
 $text-color: rgba(0, 0, 0, .9);
 $link-color: $color-primary;
 $link-color--hover: darken($link-color, 10%);
-$color-muted: #aeb0b5;
-$color-muted--light: lighten($color-muted, 25%);
 $color-borders: #eee;
 
 // Fonts
-$font-serif: "Tiempos", "Georgia", "Source Serif Pro", Georgia, serif;
+$font-serif: "Tiempos", Georgia, serif;
 $font-sans: -apple-system, BlinkMacSystemFont, "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
 $font-code: "Source Code Pro";
 
@@ -34,16 +35,7 @@ $line-height: 1.8; // optimal is 26 for this width.
 $spacing-unit: 30px;
 $max-container-width: 640px;
 $max-container-width--large: 800px;
-//$body-border: 4px solid $color-secondary;
 $body-border: 4px solid $color-secondary;
-
-// Branding
-$brand-font: $font-sans;
-$brand-font-size: 1.6rem;
-$brand-color: #2a2a2a;
-$brand-text-transform: none;
-$brand-color--hover: darken($brand-color, 15%);
-$brand-text-decoration--hover: none;
 
 // Avatar
 $avatar-border-radius: 50%;
@@ -58,7 +50,7 @@ $masthead-text-transform: none;
 $masthead-padding: 3rem 0;
 
 // Header
-$header-background: #fff;
+$header-background: #fafafa;
 $header-font: $font-sans;
 $header-padding: 3rem 0;
 $header-link-color: #222; // plain header links, outside navs
@@ -91,34 +83,9 @@ $footer-font-size: $font-size--small;
 $footer-font-color: $color-muted;
 $footer-text-transform: uppercase;
 
-// subtitles
-$subtitle-text-color: $color-secondary;
-$subtitle-font-size: $font-size--small;
-$subtitle-text-transform: uppercase;
-$subtitle-letter-spacing: 0;
-
-// footnotes
-$footnote-font-size: 1.2rem;
-$footnote-font-style: normal;
-$footnote-text-color: #999;
-$footnote-font-family: $font-serif;
-
 // Breakpoint
 $breakpoint: 700px;
 $breakpoint--large: 1200px;
 $breakpoint--small: 480px;
 $small: 600px;
 $large: 1200px;
-
-// Social Colors
-$social-colors: (
-  twitter: #55acee,
-  facebook: #3b5998,
-  instagram: #f56040,
-  google: #ea4335,
-  tumblr: #35465c,
-  linkedin: #0077b5,
-  treehouse: #6fbc6d,
-  github: #4183c4,
-  email: #ddd
-);
