@@ -22,6 +22,4 @@ I'm no longer using social media. Here's [what I'm doing now](/now).
 - USA Bobsled/Skeleton Athlete Advisory Committee Chairman.
 - USA Bobsled/Skeleton Board of Directors.
 - Lead Software developer at [Instaviser](http://www.instaviser.com).
-- Founder of Sledsheet.com.
 - [my monthly reading list email](http://www.tinyletter.com/kyletress).
-- Contact [kyle@kyletress.com](mailto:kyle@kyletress.com).
