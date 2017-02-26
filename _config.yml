@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  faqs:
+    title: Faqs
+    output: false 
 email: kyle@kyletress.com
 description: The website of 2014 Olympian Kyle Tress
 url: https://kyletress.github.io

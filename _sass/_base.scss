@@ -72,3 +72,16 @@ a {
   border: 1px solid #ddd;
   padding: 4px;
 }
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-left: 0;
+  blockquote {
+    font-style: italic;
+    color: lighten($text-color, 30%);
+    margin-left: 1rem;
+  }
+}
