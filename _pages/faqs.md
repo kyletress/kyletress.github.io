@@ -4,7 +4,7 @@ permalink: "/faqs/"
 layout: page
 ---
 
-Frequently asked questions about the sport of skeleton. Do you have a question not answered below? [Email me](mailto: kyle@kyletress.com)
+Frequently asked questions about the sport of skeleton.
 
 {% assign questions = site.faqs | group_by: "category" | sort: "name" %}
 

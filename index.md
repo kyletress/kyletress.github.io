@@ -9,7 +9,7 @@ Looking for information about the sport of skeleton? Check out my [frequently as
 
 Here you'll find my thoughts on *strategy*, *performance*, and *leadership*. I write articles and recommend books on these topics, taking inspiration from history, philosophy, politics, sport, and war.
 
-I'm no longer using social media. If you want to say hello please email me at  [kyle@kyletress.com](mailto:kyle@kyletress.com). Here's [what I'm doing now](/now).
+I'm no longer using social media. Here's [what I'm doing now](/now).
 
 **On Medium**
 
