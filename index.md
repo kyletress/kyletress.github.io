@@ -11,6 +11,8 @@ Here you'll find my thoughts on *strategy*, *performance*, and *leadership*. I w
 
 I'm no longer using social media. Here's [what I'm doing now](/now).
 
+**Currently reading:** [The Count of Monte Cristo]() and [What it Takes: The Way to the White House]().  
+
 **On Medium**
 
 - [Why I'm Running for USOC AAC Representative](https://medium.com/@kyletress/fellow-us-bobsled-skeleton-athletes-6f81d5bd9716?source=linkShare-2eefa9966355-1477108991)
