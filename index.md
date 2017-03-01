@@ -11,7 +11,9 @@ Here you'll find my thoughts on *strategy*, *performance*, and *leadership*. I w
 
 I'm no longer using social media. Here's [what I'm doing now](/now).
 
-**Currently reading:** [The Count of Monte Cristo]() and [What it Takes: The Way to the White House]().  
+**Currently reading:** 
+- [The Count of Monte Cristo](http://www.amazon.com/dp/0140449264/?tag=tress-20)
+- [What it Takes: The Way to the White House](http://www.amazon.com/dp/0679746498/?tag=tress-20).  
 
 **On Medium**
 
