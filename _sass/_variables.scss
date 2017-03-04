@@ -14,7 +14,7 @@ $color-primary: #0071bc;
 $color-secondary: #e31c3d;
 
 // Body and Type
-$link-color: white;
+$link-color: $color-primary;
 $link-color--hover: $color-secondary;
 $link-text-decoration: underline;
 $link-text-decoration--hover: underline;

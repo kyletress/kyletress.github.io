@@ -4,16 +4,9 @@ permalink: "/reading/"
 layout: page
 ---
 
-This page is a work in progress. In the meantime, you should see [my monthly newsletter](/newsletter) for book recommendations. 
+**Currently Reading**
 
-{% for book in site.reading %}
-<div class="media book--media">
-  <figure class="media__figure">
-    <img src="{{ book.cover }}" alt="{{book.title}}" width="100">
-  </figure>
-  <div class="media__body">
-    <h4>{{ book.title }}</h4>
-    {{book.excerpt}}
-  </div>
-</div>
-{% endfor %}
+- The Count of Monte Cristo
+- What it Takes: The Way to the White House
+- 33 Strategies of War
+- Michelangelo and the Pope's Ceiling 

@@ -7,9 +7,9 @@ layout: page
 
 Looking for information about the sport of skeleton? Check out my [frequently asked questions](/faqs).
 
-**On Medium**
+**Recent Writing**
 
-- [Why I'm Running for USOC AAC Representative](https://medium.com/@kyletress/fellow-us-bobsled-skeleton-athletes-6f81d5bd9716?source=linkShare-2eefa9966355-1477108991)
+- [Why I'm Running for USOC AAC Representative](/usoc-aac-rep)
 
 **In brief**
 
