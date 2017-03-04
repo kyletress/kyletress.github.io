@@ -1,21 +1,28 @@
-// Color Palette
+// PALETTE
+$cinder: #151523;
+$ebony-clay: #2a2a46;
+$alizarin-crimson: #e31c3d;
+$lochmara: #0071bc;
+
+// THEME COLORS
+$color-background: $cinder;
+$color-text: white;
+$color-text--muted: darken(white, 15%);
+$color-muted: $ebony-clay;
+$color-borders: $ebony-clay;
 $color-primary: #0071bc;
 $color-secondary: #e31c3d;
-$color-muted: #f1f1f2;
-
-$color-blue: #2a2a46;
 
 // Body and Type
-$background-color: #151523;
-$text-color: white;
-$link-color: $color-primary;
-$link-color--hover: darken($link-color, 10%);
-$color-borders: #eee;
+$link-color: white;
+$link-color--hover: $color-secondary;
+$link-text-decoration: underline;
+$link-text-decoration--hover: underline;
 
-// Fonts
-$font-serif: "Tiempos", Georgia, serif;
+// FONTS
+$font-serif: Georgia, serif;
 $font-sans: -apple-system, BlinkMacSystemFont, "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
-$font-code: "Source Code Pro";
+$font-code: monospace;
 
 $font-weight--thin: 100;
 $font-weight--light: 300;
@@ -24,13 +31,12 @@ $font-weight--bold: 700;
 $font-weight--ultra: 900;
 
 $body-font: $font-sans;
-$ui-font: $font-sans;
 $base-line-height: 26;
 $font-size--normal: 1.6em; // sizing is in rems elsewhere (Chrome bug)
-$font-size: 1.5rem;
-$font-size--small: 1.2rem;
-$font-size--xsmall: 1.2rem;
-$font-size--large: 1.5rem;
+$font-size--sm: 1.4rem;
+$font-size--xs: 1.2rem;
+$font-size--lg: 1.7rem;
+$font-size--xl: 2.0rem;
 $line-height: 1.6; // optimal is 26 for this width.
 
 // Layout
@@ -44,12 +50,11 @@ $avatar-border-radius: 50%;
 $avatar-width: 76px;
 $avatar-height: 76px;
 
-
 // Header
-$header-background: #151523;
+$header-background: $cinder;
 $header-font: $font-sans;
 $header-padding: 3rem 0;
-$header-link-color: #222; // plain header links, outside navs
+$header-link-color: white; // plain header links, outside navs
 $header-link-color--hover: darken($header-link-color, 15%);
 $header-border-style: 1px solid; // leave empty string if none ""
 $header-border-color: $color-borders;
@@ -57,7 +62,7 @@ $header-border-sides: bottom;
 $header-width: 800px;
 
 // Main Navigation
-$nav-link-color: $color-blue;
+$nav-link-color: $lochmara;
 $nav-link-color--hover: $color-secondary;
 $nav-link-color--active: $nav-link-color--hover;
 $nav-text-transform: uppercase;
@@ -66,16 +71,17 @@ $nav-letter-spacing: 0;
 $nav-font-size: 1.3rem;
 $nav-text-decoration: none;
 $nav-text-decoration--hover: none;
+$nav-text-decoration--active: none;
 
 // Footer
 $footer-background: #fff;
 $footer-padding: 1.5rem;
-$footer-link-color: $text-color;
+$footer-link-color: $ebony-clay;
 $footer-width: $header-width;
 $footer-border-style: 1px solid;
 $footer-border-color: $header-border-color;
 $footer-border-sides: top;
-$footer-font-size: $font-size--small;
+$footer-font-size: $font-size--sm;
 $footer-text-color: #2a2a46;
 $footer-text-transform: uppercase;
 

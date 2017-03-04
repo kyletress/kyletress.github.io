@@ -1,6 +1,5 @@
 // extract this out into a form component
 .newsletter {
-  padding: 2rem;
   margin: 3rem 0;
   font-size: 1.4rem;
   h3 {
@@ -31,7 +30,7 @@
     display: block;
   }
   .button {
-    background: limegreen;
+    background: $color-primary;
     color: white;
     border: none;
     margin: 0;
@@ -40,7 +39,7 @@
     padding-left: 2rem;
     padding-right: 2rem;
     &:hover {
-      background: darken(limegreen, 10%);
+      background: darken($color-primary, 10%);
     }
   }
 }
