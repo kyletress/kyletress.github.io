@@ -26,7 +26,7 @@ $font-weight--ultra: 900;
 $body-font: $font-sans;
 $ui-font: $font-sans;
 $base-line-height: 26;
-$font-size--normal: 1.8em; // sizing is in rems elsewhere (Chrome bug)
+$font-size--normal: 1.6em; // sizing is in rems elsewhere (Chrome bug)
 $font-size: 1.5rem;
 $font-size--small: 1.2rem;
 $font-size--xsmall: 1.2rem;
@@ -44,12 +44,6 @@ $avatar-border-radius: 50%;
 $avatar-width: 76px;
 $avatar-height: 76px;
 
-// Masthead
-$masthead-text-color: #2a2a2a;
-$masthead-font-size: 1.3rem;
-$masthead-font-weight: $font-weight--medium;
-$masthead-text-transform: none;
-$masthead-padding: 3rem 0;
 
 // Header
 $header-background: #151523;
