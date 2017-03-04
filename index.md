@@ -3,13 +3,9 @@ title: Home
 layout: page
 ---
 
-**Welcome**. I'm Kyle Tress, an Olympic skeleton athlete, writer, and Ruby on Rails developer. When I'm not writing code or sliding headfirst down a mountain of ice at 90 miles per hour, I read good books and share them in [my monthly newsletter](/newsletter).
+**Welcome**. I'm Kyle Tress, an Olympic skeleton athlete, writer, and Ruby on Rails developer. When I'm not writing code or sliding headfirst down a mountain of ice at 90 miles per hour, I read good books and share them in [my monthly newsletter](/newsletter). Here's [what I'm doing now](/now).
 
 Looking for information about the sport of skeleton? Check out my [frequently asked questions](/faqs).
-
-Here you'll find my thoughts on *strategy*, *performance*, and *leadership*. I write articles and recommend books on these topics, taking inspiration from history, philosophy, politics, sport, and war.
-
-I'm no longer using social media. Here's [what I'm doing now](/now).
 
 **On Medium**
 

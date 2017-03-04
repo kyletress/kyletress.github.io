@@ -1,7 +1,5 @@
 // extract this out into a form component
 .newsletter {
-  border: 1px dashed #dedede;
-  background: #fafafa;
   padding: 2rem;
   margin: 3rem 0;
   font-size: 1.4rem;
@@ -19,12 +17,13 @@
   #tlemail {
     flex: 1;
     font-size: 1.6rem;
-    padding: .5rem;
+    padding: 1rem;
     border-top-left-radius: 3px;
     border-bottom-left-radius: 3px;
     border: 1px solid #dedede;
     border-right: none;
     margin: 0;
+    color: #999;
   }
   small {
     text-align:center;
