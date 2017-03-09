@@ -21,7 +21,7 @@ I spent three days in Rome in February. Some of my impressions:
 - Validate your train tickets and ask the conductor for verification. I read a lot about train ticket validation being an issue for foreigners, but I never had a problem. I only had to validate Leonardo Express train tickets to and from the airport.
 - Travel to and from the airport is simple. I opted for the easier but more expensive direct method: the **Leonardo Express** (€15.00). There's also a cheaper local train which makes a few stops enroute to **Termini**.
 - It is possible to explore Rome on the cheap, depending on when you visit. I booked a $150 roundtrip flight from Munich on Lufthansa. I used AirBnB for lodging at approximately $50 per night. I ate in and skipped lunch. My total cost for this trip was less than $500.
-- It's difficult to pick favorites but certainly **St. Peter's** would be near the top. The Pantheon is also a must-see. In terms of artwork I most enjoyed the **equestrian statue of Marcus Aurelius** (the original, housed inside the Capitoline Museum) and the **Laocoön** in the Vatican Museums. It has [a fascinating history]().
+- It's difficult to pick favorites but certainly **St. Peter's** would be near the top. The Pantheon is also a must-see. In terms of artwork I most enjoyed the **equestrian statue of Marcus Aurelius** (the original, housed inside the Capitoline Museum) and the **Laocoön** in the Vatican Museums. It has [a fascinating history](https://en.m.wikipedia.org/wiki/Laocoön_and_His_Sons).
 
 <figure markdown="1">
   ![](/uploads/laocoon.jpg)
@@ -32,6 +32,6 @@ I spent three days in Rome in February. Some of my impressions:
 
 ### Books
 
-Before you go, I recommend reading [SPQR]() by Mary Beard and [Michelangelo and the Pope's Ceiling]() by Ross King. 
+Before you go, I recommend reading [SPQR](http://www.amazon.com/dp/1631492225/?tag=tress-20) by Mary Beard and [Michelangelo and the Pope's Ceiling](http://www.amazon.com/dp/0142003697/?tag=tress-20) by Ross King. 
 
 Rome in three days was rushed, but worth it.
