@@ -5,8 +5,8 @@ $alizarin-crimson: #e31c3d;
 $lochmara: #0071bc;
 
 // THEME COLORS
-$color-background: $cinder;
-$color-text: white;
+$color-background: white;
+$color-text: black;
 $color-text--muted: darken(white, 15%);
 $color-muted: $ebony-clay;
 $color-borders: $ebony-clay;
@@ -21,7 +21,7 @@ $link-text-decoration--hover: underline;
 
 // FONTS
 $font-serif: Georgia, serif;
-$font-sans: -apple-system, BlinkMacSystemFont, "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
+$font-sans: courier, -apple-system, BlinkMacSystemFont, "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
 $font-code: monospace;
 
 $font-weight--thin: 100;
@@ -32,29 +32,29 @@ $font-weight--ultra: 900;
 
 $body-font: $font-sans;
 $base-line-height: 26;
-$font-size--normal: 1.6em; // sizing is in rems elsewhere (Chrome bug)
+$font-size--normal: 1.4em; // sizing is in rems elsewhere (Chrome bug)
 $font-size--sm: 1.4rem;
 $font-size--xs: 1.2rem;
-$font-size--lg: 1.7rem;
+$font-size--lg: 1.4rem;
 $font-size--xl: 2.0rem;
-$line-height: 1.6; // optimal is 26 for this width.
+$line-height: 1.5; // optimal is 26 for this width.
 
 // Layout
 $spacing-unit: 30px;
-$max-container-width: 640px;
+$max-container-width: 700px;
 $max-container-width--large: 800px;
 $body-border: 4px solid $color-secondary;
 
 // Avatar
 $avatar-border-radius: 50%;
-$avatar-width: 76px;
-$avatar-height: 76px;
+$avatar-width: 56px;
+$avatar-height: 56px;
 
 // Header
-$header-background: $cinder;
+$header-background: white;
 $header-font: $font-sans;
-$header-padding: 3rem 0;
-$header-link-color: white; // plain header links, outside navs
+$header-padding: 4rem 0;
+$header-link-color: black; // plain header links, outside navs
 $header-link-color--hover: darken($header-link-color, 15%);
 $header-border-style: 1px solid; // leave empty string if none ""
 $header-border-color: $color-borders;
@@ -75,7 +75,7 @@ $nav-text-decoration--active: none;
 
 // Footer
 $footer-background: #fff;
-$footer-padding: 1.5rem;
+$footer-padding: 1.5rem 0;
 $footer-link-color: $ebony-clay;
 $footer-width: $header-width;
 $footer-border-style: 1px solid;

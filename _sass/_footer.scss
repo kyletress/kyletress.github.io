@@ -1,8 +1,9 @@
 .site-footer {
-  text-align: center;
+  //text-align: center;
   padding: $footer-padding;
-  width: 100%;
+  width: 90%;
   margin: 0 auto;
+  max-width: $max-container-width;
   color: $footer-text-color;
   text-transform: $footer-text-transform;
 

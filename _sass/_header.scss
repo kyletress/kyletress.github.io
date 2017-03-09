@@ -1,32 +1,43 @@
 header {
-  //border-bottom: 1px solid $color-muted;
-  margin-bottom:3rem;
+  margin: 0 auto;
+  width: 90%;
+  max-width: $max-container-width;
   background: $header-background;
   font-family: $header-font;
   padding: $header-padding;
+  span {
+    color: $footer-text-color;
+    text-transform: $footer-text-transform;
+    font-size: 1rem;
+  }
+  strong {
+    text-transform: uppercase;
+  }
   nav {
     display: flex;
     margin: 0 auto;
     align-items: center;
-    width: 90%;
-    max-width: $max-container-width;
+    //width: 90%;
+
+    padding: 1rem 0;
     a {
       color: $nav-link-color;
       font-size: 1.2rem;
-      padding: 1.35rem 1rem;
+      //padding: 1.35rem 1rem;
       text-decoration: $nav-text-decoration;
+      margin-right: 1rem;
       &.brand {
         flex: 1;
         padding: 0;
       }
       &:hover {
-        color: white;
+        color: black;
         text-decoration: $nav-text-decoration--hover;
       }
     }
     .is--active {
       font-weight: 600;
-      color: white;
+      color: black;
       border-bottom: 1px solid $nav-link-color--hover;
       text-decoration: $nav-text-decoration--active;
     }

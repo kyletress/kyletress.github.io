@@ -9,6 +9,7 @@ Looking for information about the sport of skeleton? Check out my [frequently as
 
 **Recent Writing**
 
+- [Impressions of Rome](/rome)
 - [Why I'm Running for USOC AAC Representative](/usoc-aac-rep)
 
 **In brief**

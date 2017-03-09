@@ -40,6 +40,15 @@ a {
   }
 }
 
+figure {
+  margin: 0;
+  figcaption {
+    color: #999;
+    font-size: 1rem;
+    text-align:right;
+  }
+}
+
 .avatar {
   border-radius: $avatar-border-radius;
   height: $avatar-height;
@@ -66,7 +75,10 @@ dd {
   }
   p {
     margin-bottom: 2rem;
-    color: $color-text--muted;
   }
-  border-bottom: 1px solid $color-borders;
+  border-bottom: 1px solid #eee;
+}
+
+ol, ul {
+  padding-left: 3rem;
 }
