@@ -5,6 +5,8 @@ header {
   background: $header-background;
   font-family: $header-font;
   padding: $header-padding;
+  display: flex;
+  align-items: center;
   span {
     color: $footer-text-color;
     text-transform: $footer-text-transform;
@@ -14,12 +16,7 @@ header {
     text-transform: uppercase;
   }
   nav {
-    display: flex;
     margin: 0 auto;
-    align-items: center;
-    //width: 90%;
-
-    padding: 1rem 0;
     a {
       color: $nav-link-color;
       font-size: 1.2rem;

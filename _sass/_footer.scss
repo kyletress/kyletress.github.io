@@ -4,12 +4,18 @@
   width: 90%;
   margin: 0 auto;
   max-width: $max-container-width;
-  color: $footer-text-color;
-  text-transform: $footer-text-transform;
+  color: $color-text;
+
+  a {
+    color: $color-text;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 
   p {
-    text-transform: uppercase;
-    font-size:1rem;
+    font-size:1.2rem;
     margin: 0;
     span {
       text-transform: none;
