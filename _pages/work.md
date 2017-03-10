@@ -4,4 +4,4 @@ permalink: "/work/"
 layout: page
 ---
 
-For my portfolio, please see my [GitHub account](https://www.github.com/kyletress). You can also view one of my production applications at [Sledsheet.com](https://www.sledsheet.com). 
+For code samples please see my [GitHub account](https://www.github.com/kyletress) and contact me for access to the Sledsheet repository. Here's my [CV](/cv). 
