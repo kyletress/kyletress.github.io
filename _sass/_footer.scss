@@ -1,10 +1,13 @@
 .site-footer {
-  //text-align: center;
+  text-align: center;
   padding: $footer-padding;
   width: 90%;
   margin: 0 auto;
   max-width: $max-container-width;
   color: $color-text;
+  @media(min-width:600px) {
+    text-align: left;
+  }
 
   a {
     color: $color-text;

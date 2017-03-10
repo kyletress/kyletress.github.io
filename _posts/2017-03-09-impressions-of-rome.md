@@ -16,7 +16,7 @@ I spent three days in Rome in February. Some of my impressions:
 - You won't have enough time to see it all. You'll have to make concessions, but that's part of visiting Rome. When I was researching what to see, I knew the **Capitoline Museum** was high on my list. I searched for how many hours to allow for a visit and came across an interesting article: A blogger wrote about how the first time he visited the Capitoline Museum he spent 3 hours. The second time, he spent the full day. The third time, he spent the whole week exploring *just this one museum*.
 - Arrange your itinerary by history: Ancient one day, renaissance another, etc. Leave at least one day for **The Vatican and its museums**. This worked well for me.
 - Ignore the unofficial guides around the Colosseum. They are ruthless and well-trained to remove you from your money. There are better (free) guides, unless you want to do the *Colosseum underground* tour.
-- Street hustlers will constantly proposition you. I actually admire their hustle. I was walking around the Coloseeum on the second day - fending off selfie-stick offers left and right - when it started to rain. Before the first drop even touched the ground the selfie-sticks were magically transformed into umbrellas. These guys are pros. Stick your headphones in and ignore them.
+- Street hustlers will constantly proposition you. I actually admire their hustle. I was walking around the Colosseum on the second day - fending off selfie-stick offers left and right - when it started to rain. Before the first drop even touched the ground the selfie-sticks were magically transformed into umbrellas. These guys are pros. Stick your headphones in and ignore them.
 - Lines to enter some sites will be long. I was fortunate to be in Rome during free-entrance Sunday (the first Sunday of each month), so even though it wasn't peak tourist season, the lines were long. Instead of waiting I walked up **Palantine Hill** and discovered a ticket for admission there also grants admission to the **Roman Forum** and the Colosseum. I saved a long wait, toured the Palantine Hill, and was able to return to the Colosseum in the afternoon when the line was shorter.
 - Validate your train tickets and ask the conductor for verification. I read a lot about train ticket validation being an issue for foreigners, but I never had a problem. I only had to validate Leonardo Express train tickets to and from the airport.
 - Travel to and from the airport is simple. I opted for the easier but more expensive direct method: the **Leonardo Express** (€15.00). There's also a cheaper local train which makes a few stops enroute to **Termini**.
@@ -32,6 +32,6 @@ I spent three days in Rome in February. Some of my impressions:
 
 ### Books
 
-Before you go, I recommend reading [SPQR](http://www.amazon.com/dp/1631492225/?tag=tress-20) by Mary Beard and [Michelangelo and the Pope's Ceiling](http://www.amazon.com/dp/0142003697/?tag=tress-20) by Ross King. 
+Before you go, I recommend reading [SPQR](http://www.amazon.com/dp/1631492225/?tag=tress-20) by Mary Beard and [Michelangelo and the Pope's Ceiling](http://www.amazon.com/dp/0142003697/?tag=tress-20) by Ross King.
 
 Rome in three days was rushed, but worth it.
