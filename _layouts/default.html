@@ -1,17 +1,8 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Kyle Tress">
-    <title>Kyle Tress - {{ page.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/styles.css" | prepend: site.baseurl }}">
-  </head>
+  {% include head.html %}
   <body>
-    {% include header.html %}
-    <main>
-      {{content}}
-    </main>
+    {{ content }}
     {% include footer.html %}
   </body>
 </html>

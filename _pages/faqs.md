@@ -17,9 +17,7 @@ Frequently asked questions about the sport of skeleton.
 </ul>
 {% endfor %}
 
-<dl class="faqs">
 {% for faq in site.faqs %}
-  <dt><a name="{{ faq.title | slugify }}" class="anchor"></a>{{faq.title}} <a href="#">&#8593;</a></dt>
-  <dd>{{faq.content}}</dd>
+  <strong><a name="{{ faq.title | slugify }}" class="anchor"></a>{{faq.title}} <a href="#">&#8593;</a></strong>
+  {{faq.content}}
 {% endfor %}
-</dl>

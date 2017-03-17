@@ -8,20 +8,26 @@ html {
 }
 
 body {
-  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0 auto;
+  width: 92%;
+  max-width: $max-container-width;
   font-family: $body-font;
-  font-size: $font-size--sm;
+  font-size: 1.4rem;
   line-height: $line-height;
-  color: $color-text;
-  background-color: $color-background;
-  border-top: $body-border;
 
   @media (min-width: $breakpoint) {
-    font-size: $font-size--normal;
+    font-size: 1.6rem;
   }
-  @media (min-width: $breakpoint--large) {
-    font-size: $font-size--lg;
-  }
+
+}
+
+h1 {font-size:2.4rem;margin:0;}
+
+main {
+  flex: 1; // main takes up all remaining space.
 }
 
 img {
@@ -31,35 +37,22 @@ img {
   vertical-align: middle;
 }
 
-a {
-  color: $link-color;
-  text-decoration: $link-text-decoration;
-  &:hover {
-    color: $link-color--hover;
-    text-decoration: $link-text-decoration--hover;
-  }
-}
-
 figure {
   margin: 0;
   figcaption {
     color: #999;
-    font-size: 1rem;
+    font-size: 1.2rem;
     text-align:right;
   }
 }
 
-.avatar {
-  border-radius: $avatar-border-radius;
-  height: $avatar-height;
-  width: $avatar-width;
-  margin-right: 1rem;
-  margin-bottom: 1rem;
-  padding: 2px;
-  border: 1px solid #ddd;
-  @media(min-width:600px) {
-    margin-bottom: 0;
+header, footer {
+  padding: 3.2rem 0;
+  text-align: center;
+  @media(min-width:$breakpoint) {
+    text-align: left;
   }
+  nav a { margin-right: 1.5rem; }
 }
 
 .book-cover {
@@ -67,25 +60,23 @@ figure {
   padding: 4px;
 }
 
-dt {
-  font-weight: bold;
+.masthead {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: grey;
+  font-size:1.4rem;
+  margin: 0;
+  @media (min-width: $breakpoint) {
+    flex-direction: row;
+  }
+  img { margin-right: 1rem; border-radius:2px;}
 }
 
-dd {
-  margin-left: 0;
-  margin-bottom: 2rem;
-  font-size: $font-size--sm;
-  blockquote {
-    font-style: italic;
-    color: lighten($color-text, 30%);
-    margin-left: 1rem;
+article > header {
+  padding: 0;
+  h2 {
+    margin: 0;
   }
-  p {
-    margin-bottom: 2rem;
-  }
-  border-bottom: 1px solid #eee;
-}
-
-ol, ul {
-  padding-left: 3rem;
+  p {margin: 0;color:grey;}
 }
