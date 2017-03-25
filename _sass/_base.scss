@@ -57,7 +57,9 @@ header, footer {
   @media(min-width:$breakpoint) {
     text-align: left;
   }
-  nav a { margin-right: 1.5rem; }
+  nav a {
+    margin-right: .5rem;
+  }
 }
 
 footer{
