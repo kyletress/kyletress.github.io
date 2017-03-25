@@ -76,7 +76,6 @@ footer{
   display: flex;
   align-items: center;
   flex-direction: column;
-  color: grey;
   font-size:1.4rem;
   margin: 0;
   @media (min-width: $breakpoint) {
@@ -92,3 +91,10 @@ article > header {
   }
   p {margin: 0;color:grey;}
 }
+
+.table {
+  width: 100%;
+  th {text-align: left;}
+}
+
+th.summary {text-align: center;padding:1rem 0;}
