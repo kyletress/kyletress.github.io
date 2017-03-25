@@ -17,15 +17,20 @@ body {
   font-family: $body-font;
   font-size: 1.4rem;
   line-height: $line-height;
+}
 
-  @media (min-width: $breakpoint) {
-    font-size: 1.6rem;
+h1 {font-size:1.8rem;margin:0;}
+h3 {font-weight: 600;}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+    color: darken($link-color, 10%);
   }
 
 }
-
-h1 {font-size:2.4rem;margin:0;}
-h3 {font-weight: 600;}
 
 main {
   flex: 1; // main takes up all remaining space.
@@ -57,7 +62,7 @@ header, footer {
 }
 
 footer{
-  font-size:1.4rem;color:grey;
+  color:grey;
   a{color:grey;}
 }
 
