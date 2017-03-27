@@ -1,9 +1,7 @@
 <header class="header">
-  <h1>Kyle Tress</h1>
   <nav>
     {% for nav in site.data.nav.header %}
-      {% assign class = 'is--active' %}
-      <a href="{{nav.url}}"{% if class %} class="{{class}}"{% endif%}>{{nav.title}}</a>
+      <a href="{{nav.url}}"{% if nav.url == page.url %}class="is--active"{% endif%}>{{nav.title}}</a>
     {% endfor %}
   </nav>
 </header>
