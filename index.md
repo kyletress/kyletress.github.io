@@ -12,5 +12,5 @@ title: Home
 
 **Recent:**
 
-- [Impressions of Rome](/rome)
-- [Why I'm Running for USOC AAC Representative](/usoc-aac-rep)
+- [Impressions of Rome](/writing/rome)
+- [Why I'm Running for USOC AAC Representative](/writing/usoc-aac-rep)

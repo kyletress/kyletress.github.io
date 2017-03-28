@@ -1,8 +1,7 @@
 ---
 title: Impressions of Rome
-permalink: "/rome"
+permalink: /writing/rome/
 ---
-
 
 <figure markdown="1" style="text-align:center;">
   ![](/uploads/rome.jpg)
