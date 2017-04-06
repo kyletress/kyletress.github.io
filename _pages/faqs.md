@@ -18,6 +18,6 @@ Frequently asked questions about the sport of skeleton.
 {% endfor %}
 
 {% for faq in site.faqs %}
-  <strong><a name="{{ faq.title | slugify }}" class="anchor"></a>{{faq.title}} <a href="#">&#8593;</a></strong>
+  <strong class="faq-title"><a name="{{ faq.title | slugify }}" class="anchor"></a>{{faq.title}} <a href="#">&#8593;</a></strong>
   {{faq.content}}
 {% endfor %}

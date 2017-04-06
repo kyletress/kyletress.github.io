@@ -3,9 +3,6 @@ title: Why I'm running for USOC AAC Representative
 date: 2016-10-19 00:00:00 Z
 ---
 
-{% assign current = page.url | downcase | split: '/' %}
-{{ current[1] }}
-
 Fellow US Bobsled/Skeleton athletes,
 
 Voting has started for our USOC AAC position, and I’d like to ask for your vote. I want to share with you my vision for the next 4 years if you elect me your representative. Before I do, I want to acknowledge Curt Tomasevicz for the work he put into representing us these past 8 years. Our federation is stronger thanks to him.

@@ -14,12 +14,13 @@ body {
   min-height: 100vh;
   margin: 0;
   //max-width: $max-container-width;
-  font-family: $body-font;
-  font-size: 1.4rem;
+  font-family: Georgia, $body-font;
+  font-size: 1.5rem;
   line-height: $line-height;
 }
 
 h1 {font-size:1.8rem;margin:0;}
+h1, h2, h3, h4 {font-family: -apple-system;}
 
 a {
   color: $link-color;
@@ -58,6 +59,7 @@ figure {
 }
 
 header, footer {
+  font-family: $body-font;
   text-align: center;
   @media(min-width:$breakpoint) {
     text-align: left;
@@ -121,6 +123,7 @@ footer{
   align-items: center;
   flex-direction: column;
   font-size:1.4rem;
+  font-family: $body-font;
   margin: 0;
   margin-bottom: 2rem;
   @media (min-width: $breakpoint) {
@@ -129,12 +132,20 @@ footer{
   img { margin-right: 1rem; border-radius:2px;}
 }
 
+.faq-title {
+  font-family: $body-font;
+}
+
 article > header {
   padding: 0 0 3.2rem 0;
   h2 {
     margin: 0;
   }
   p {margin: 0;color:grey;}
+}
+
+footer {
+  font-size: 1.4rem;
 }
 
 .table {
