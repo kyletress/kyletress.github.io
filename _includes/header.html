@@ -1,7 +1,0 @@
-<header class="header">
-  <nav>
-    {% for nav in site.data.nav.header %}
-      <a href="{{nav.url}}"{% if nav.url == page.url %}class="is--active"{% endif%}>{{nav.title}}</a>
-    {% endfor %}
-  </nav>
-</header>

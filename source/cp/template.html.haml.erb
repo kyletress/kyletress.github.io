@@ -1,0 +1,12 @@
+---
+title: =current_page.data.title
+---
+
+- content_for(:title, kyle.titleize)
+
+%h2 #{kyle.titleize}
+
+- data.books.each do |book|
+  - book[1].marginalia.select{ |item| item.tags.include?(kyle.titleize.downcase)}.each do |m|
+    %blockquote= m.quote
+    %cite= book[1].title

@@ -1,0 +1,16 @@
+---
+title: Skeleton faqs
+---
+
+- data.faqs.each do |f|
+  %h4 #{f.category}
+  %ul
+    - f.faqs.each do |faq|
+      %li
+        = link_to faq.q, "##{faq.q.parameterize}"
+
+- data.faqs.each do |f|
+  - f.faqs.each do |faq|
+    = content_tag :h4, id: faq.q.parameterize do
+      = faq.q
+    = faq.a

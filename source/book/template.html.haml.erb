@@ -1,0 +1,13 @@
+---
+---
+- content_for(:title, book.title.titleize)
+
+%h3 #{book.title}
+by
+= book.author
+
+- book.marginalia.each do |m|
+  %blockquote #{m.quote}
+  %small
+    - m.tags.each do |t|
+      = link_to t, "/cp/#{t.parameterize}"

@@ -1,0 +1,17 @@
+---
+title: Commonplace Book
+---
+
+- tag_cloud = []
+
+- data.books.each do |book|
+  - book[1].marginalia.each do |m|
+    - m.tags.each do |tag|
+      - tag_cloud << tag.titleize
+
+- sorted = tag_cloud.uniq.sort.group_by{|t| t[0]}
+- sorted.each do |alpha, items|
+  %h4= alpha
+  = items.collect{ |item| link_to(item, "/cp/#{item.parameterize}")}.to_sentence
+  -# items.each do |item|
+    -# = link_to item, "/cp/#{item.parameterize}"

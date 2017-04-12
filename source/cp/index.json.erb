@@ -1,0 +1,12 @@
+
+
+<%
+  map = {books:{}}
+  data.books.each do |book|
+    map[:books][book[1].title] = {
+      title: book[1].title,
+      author: book[1].author
+    }
+  end
+%>
+<%= map.to_json %>

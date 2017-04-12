@@ -1,0 +1,21 @@
+header:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Recommended Reading
+    url: /reading/
+  - title: Cp
+    url: /cp
+
+footer:
+  - title: '@kyletress'
+    url: 'https://www.twitter.com/kyletress'
+  - title: Newsletter
+    url: /newsletter
+  - title: Now
+    url: /now
+  - title: Contact
+    url: /contact
+  - title: Credits
+    url: /credits
