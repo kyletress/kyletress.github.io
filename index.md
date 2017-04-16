@@ -12,5 +12,6 @@ title: Home
 
 **Recent:**
 
+- [On Leadership](/writing/leadership)
 - [Impressions of Rome](/writing/rome)
 - [Why I'm Running for USOC AAC Representative](/writing/usoc-aac-rep)
