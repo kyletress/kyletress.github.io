@@ -21,7 +21,7 @@ Sound good?
 </label>
 </p>
 
-<p><strong id="myEmail" style="display:none;">kyle@kyletress.com</strong></p>
+<p><strong id="myEmail" style="display:none;">hello@kyletress.com</strong></p>
 
 <script>
   function showEmail() {
