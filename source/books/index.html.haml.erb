@@ -1,4 +1,4 @@
 %h2 Books
 - data.books.each do |book|
-  %h3 #{book[1].title}
+  %h4= link_to "#{book[1].title}", "/books/#{slug(book)}"
   %p #{book[1].author}

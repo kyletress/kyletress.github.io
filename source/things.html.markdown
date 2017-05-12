@@ -30,10 +30,21 @@ My favorite places to get news are:
 - The Economist (digital subscription)
 - Face the Nation (Sunday mornings on CBS)
 
-As part of my interest in [deep work]() I am trying to limit my exposure to news. Outside these main sources, I occasionally find interesting things on Twitter and Reddit. 
+As part of my interest in [deep work]() I am trying to limit my exposure to news. Outside these main sources, I occasionally find interesting things on Twitter and Reddit.
 
-### Software and Services
+### Services
 
-- [Moment]()
-- [Slack]()
-- []
+- [Netflix]()
+- [NFL Game Pass]()
+- [GitHub]()
+
+
+### Apps
+I'm hard on apps because most of them, well, *suck*. I'm a hobbyist iOS developer so I appreciate how hard and time consuming it is to make a really great app. These are the few that consistently deliver a great and useful experience.
+
+- [Day One](): Though I don't use it much anymore I still love its simplicity, mission, and design.
+- [Slack](): I love Slack. If you work on a team, use it.
+- [Ulyssess]()
+- [Scrivener]()
+- [1 Second Everyday]()
+- [Minecraft](): I barely play Minecraft. I can't even remember the last time I opened it for more than 15 minutes. But I still love the concept, and I can't bear getting rid of this game. It's like a giant sandbox in which you can build anything.  

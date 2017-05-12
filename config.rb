@@ -5,6 +5,12 @@ activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
 
+activate :blog do |blog|
+  blog.name = "writing"
+  blog.prefix = "writing"
+  blog.permalink = "{title}.html"
+end
+
 # Layouts
 # https://middlemanapp.com/basics/layouts/
 
@@ -12,6 +18,8 @@ end
 page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
+page "/books.json", :layout => false # Where I have my template
+
 
 configure :development do
   # activate :livereload
@@ -23,12 +31,12 @@ activate :directory_indexes
 # page '/path/to/file.html', layout: 'other_layout'
 
 data.books.each do |book|
-  proxy "/book/#{book.first}/index.html", "/book/template.html", locals: { book: book[1] }, ignore: true
+  proxy "/books/#{book.first}/index.html", "/books/template.html", locals: { book: book[1] }, ignore: true
 end
 
 tag_pages = []
 @app.data.books.each do |book|
-  book[1].marginalia.each do |m|
+  book[1].try(:marginalia).try(:each) do |m|
     m.tags.each do |tag|
       tag_pages << tag.parameterize
     end
@@ -53,11 +61,21 @@ helpers do
   def page_title
     yield_content(:title) || current_page.data.title
   end
+
+  def markdown(text)
+    Tilt['markdown'].new { text }.render(scope=self)
+  end
+
+  def slug(book)
+    if book[1].slug.present?
+      return book[1].slug
+    else
+      return book[1].title.parameterize
+    end
+  end
 end
 
-def markdown(content)
-   Tilt['markdown'].new { content }.render
-end
+
 
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings

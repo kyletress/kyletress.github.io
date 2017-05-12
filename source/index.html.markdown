@@ -2,16 +2,6 @@
 title: Home
 ---
 
-**In Brief:**
+# Hi, I'm **Kyle Tress**
 
-- 2014 Olympian in skeleton [[faqs](/faqs)]
-- United States Olympic Committee Athlete Representative.
-- USA Bobsled/Skeleton Athlete Advisory Committee Chairman.
-- USA Bobsled/Skeleton Board of Directors.
-- Lead Software developer at [Instaviser](http://www.instaviser.com).
-
-**Recent:**
-
-- [On Leadership](/writing/leadership)
-- [Impressions of Rome](/writing/rome)
-- [Why I'm Running for USOC AAC Representative](/writing/usoc-aac-rep)
+I'm an Olympic athlete in the sport of skeleton and a Ruby on Rails developer. I work at [Instaviser](), and I'm studying data science and machine learning in preparation for life after sport. Once a month I recommend a few of my favorite books in my [reading list email](/newsletter).

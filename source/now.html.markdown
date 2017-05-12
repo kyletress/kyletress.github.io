@@ -2,7 +2,7 @@
 title: What I'm Doing Now
 ---
 
-### What I'm doing now
+## What I'm doing now
 
 - **Training for the 2018 Winter Olympic Games**.
 - Writing a book (more on this soon)

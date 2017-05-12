@@ -13,4 +13,5 @@ title: Skeleton faqs
   - f.faqs.each do |faq|
     = content_tag :h4, id: faq.q.parameterize do
       = faq.q
+      = link_to "&#8593;", "#"
     = faq.a

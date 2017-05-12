@@ -1,11 +1,12 @@
 ---
 title: Commonplace Book
+layout: cp
 ---
 
 - tag_cloud = []
 
 - data.books.each do |book|
-  - book[1].marginalia.each do |m|
+  - book[1].try(:marginalia).try(:each) do |m|
     - m.tags.each do |tag|
       - tag_cloud << tag.titleize
 

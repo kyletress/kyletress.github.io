@@ -3,6 +3,7 @@ $line-height: 1.7;
 $max-container-width: 600px;
 $breakpoint: 700px;
 $brand: #7851a9;
+//$brand: #08c;
 
 html {
   box-sizing: border-box;
@@ -141,6 +142,7 @@ footer{
   font-family: $body-font;
   margin: 0;
   margin-bottom: 2rem;
+  padding: 1.5rem 0;
   @media (min-width: $breakpoint) {
     flex-direction: row;
   }

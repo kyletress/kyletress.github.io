@@ -1,42 +1,166 @@
 - category: The Basics
   faqs:
     - q: Skeleton? Are you crazy?
-      a: Most common question brah.
+      a: >
+        <p>This is usually the first question I'm asked by people who have no interest in competing. No, I am definitely not crazy. Skeleton does seem to attract some eccentric people, probably because it's incorrectly perceived as being an easy path to the Olympics. Those people don't last long. Those who remain are among the most interesting people I know.</p>
+        <p>I understand the question though. Skeleton looks crazy, and to be fair there are some scary moments. But it isn't as bad as it looks as long as everyone follows the rules and pays attention. I'm more concerned with things outside my control than those under my control.</p>
     - q: How did you get started?
       a: I found skeleton by accident. In 2002 during the Salt Lake City Olympics, I clicked a link on the Yahoo! homepage that said 'Third Generation Olympian Wins Gold in Skeleton'. I had no idea what skeleton was, but something about that headline piqued my interest. After reading the article I registered for a summer training camp, followed by a skeleton school that winter in Lake Placid. After my very first trip down the track I decided to commit to making the Olympic Team. That process took me 12 years, which seems to be about average in the United States.
     - q: How do I get started?
       a: This is probably the most common question I get, so I wrote a full post about it. In short, you should contact your National Governing Body, which in the US is The United States Bobsled and Skeleton Federation. You'll probably sign up for a combine test, and if you do well you will be invited to Lake Placid for a skeleton school. If you enjoy the sport and the coaches like what they see, you'll enter our development pipeline and be on your way.
-    - q: I want to be an Olympian. What do I need to do?
-      a: Congratulations! Making the decision is the easy part. Now you have to work insanely hard for the next several years while sacrificing everything, freezing your ass off, and racking up a bunch of debt. Maybe you’ll make the Olympic team a few years down the road. Qualifying for the Olympics is hard. There are no skeleton wunderkinds waiting to be discovered. It’s extremely unlikely you will make the Olympic team four years after starting. It takes years of experience to develop the skill to compete at a high level on every track in the world. Don’t get discouraged. Show up, commit, and work hard. Good things will happen if you stick it out.
     - q: Will I get hurt?
-      a: |
-        Injuries are a part of every sport, but skeleton injuries tend to be less gruesome than people think. We get some cuts and bruises, ice burn, and occasional lower leg injuries from sprinting. Serious injuries like fractures or breaks are rare, but they do occur. Concussions happen, and as a community we need to be more aware of CTE and the risk it poses. There is a noticeable decline in my cognitive abilities from October to March that’s not coincidental. I’ll be happy to put that side effect of skeleton behind me.
+      a: >
+        <p>Injuries are a part of every sport, but skeleton injuries tend to be less gruesome than people think. We get some cuts and bruises, ice burn, and occasional lower leg injuries from sprinting. Serious injuries like fractures or breaks are rare, but they do occur. Concussions happen, and as a community we need to be more aware of CTE and the risk it poses. There is a noticeable decline in my cognitive abilities from October to March that’s not coincidental. I’ll be happy to put that side effect of skeleton behind me.</p>
+        <p>As I’ve grown older, I’ve become increasingly aware of the lasting damage skeleton has inflicted upon me. 15+ years of “car crashes without the car” has taken a toll on my body.</p>
+    - q: How should I prepare for Skeleton School?
+      a: There is no preparation necessary for Skeleton School. You don't need to learn how to drive beforehand -- you can't. You can only learn that aspect of the sport through experience, which comes with taking runs down the track. Skeleton School is mostly an opportunity to see if you really enjoy the sport. It looks fun on TV, but there have been many people who thought the same thing only to arrive in Lake Placid, take a run, and leave that same day never to return. Just show up, listen to the coaches, and see if you like it.
+    - q: I want to be an Olympic skeleton athlete. What do I need to do?
+      a: >
+        <p>Congratulations! Making the decision is the easy part. Now you have to work insanely hard for the next several years while sacrificing everything, freezing your ass off, and racking up a bunch of debt. <em>Maybe</em> you'll make the Olympic team a few years down the road.</p>
+        <p>Qualifying for the Olympics is hard. There are no skeleton wunderkinds waiting to be discovered. It's extremely unlikely a person will start sliding and make the Olympic team four years later. It takes years of experience to develop the skill to compete at a high level on every track in the world.</p>
+        <p>Don't get discouraged. Show up, commit, and work hard. Good things will happen if you stick it out.</p>
+    - q: Is skeleton easy?
+      a: >
+        <p>No. Skeleton is extremely hard. It challenges you mentally and physically. It requires strength and power, skill and experience. It's a technical sport that requires feeling and awareness. The best skeleton athletes in the world make it look easy, as though they are just lying on the sled and letting it do the work. In reality they are making hundreds of decisions and subtle adjustments while hurtling headfirst down a mountain at 90mph.</p>
+        <p>I don't hear this question too often these days. More people are familiar with skeleton and have a deeper appreciation for what it takes. This wasn't always true. There was an article in Sports Illustrated a few years ago by Rick Reilly. Rick took a few cheap shots, and in playful retaliation we invited him to Lake Placid to "walk the walk" and give skeleton a try. Not the easy tourist version, but the real thing, straight from the top.</p>
+        <p>We never heard back. Rick, the offer stands. Bring lots of pads.</p>
+    - q: What makes a great skeleton athlete?
+      a: >
+        <p>Four things make a great skeleton athlete:</p>
+        <ol>
+          <li>A fast start</li>
+          <li>Good equipment</li>
+          <li>Mental toughness</li>
+          <li>Experience</li>
+        </ol>
+        <p>You need all four of these things to compete at a high level. I stress to new athletes that experience is often the missing piece of the puzzle. Skeleton requires years of hard work and dedication to master.</p>
+    - q: What's the best body type for skeleton?
+      a: >
+        <p>There are many different body types in skeleton, from tall and lean to short and stocky. There's really nothing more sport specific than speed and strength. You'll need both to succeed in skeleton, regardless of your body type.</p>
+        <p>If you can carry some additional body weight without sacrificing speed, you might have an advantage over lighter athletes. But most of the top racers seem to be lighter these days.</p>
 
-        As I’ve grown older, I’ve become increasingly aware of the lasting damage skeleton has inflicted upon me. 15+ years of “car crashes without the car” has taken a toll on my body.
+    - q: Will I get hurt?
+      a: >
+        <p>Injuries are a part of every sport, but skeleton injuries tend to be less gruesome than people think. We get some cuts and bruises, ice burn, and occasional lower leg injuries from sprinting. Serious injuries like fractures or breaks are rare, but they do occur. Concussions happen, and as a community we need to be more aware of CTE and the risk it poses. There is a noticeable decline in my cognitive abilities from October to March that's not coincidental. I'll be happy to put that side effect of skeleton behind me.</p>
+        <p>As I've grown older, I've become increasingly aware of the lasting damage skeleton has inflicted upon me. 15+ years of "car crashes without the car" has taken a toll on my body.</p>
 
 - category: The Olympics
   faqs:
-    - q: Was it awesome?
-      a: Yes
+    - q: Did you like your ugly Opening Ceremonies sweater?
+      a: I thought my Opening Ceremonies gear was great, thank you very much.
     - q: Did you do well?
-      a: No.
+      a: No. I finished below my expectations and was disappointed in my performance.
+    - q: What was your favorite part of the Olympic Games?
+      a: Walking into Opening Ceremonies with Matt Antoine and John Daly, and seeing my mom, dad, brother, and girlfriend waiting for me at the finish line after my final run.
+    - q: What were the Olympics like?
+      a: >
+        <p>The Olympics were an amazing experience. It was my first time competing, so I had nothing to compare them to. I heard from more experienced Olympians that Sochi didn't really have the atmosphere of other Olympics, but I was impressed.</p>
+        <p>Yes it was warm. No I wasn't worried about security. Transportation was good and the crowds showed up.</p>
+        <p>Opening Ceremonies was my favorite part of the experience, because it lived up to the hype. Walking into the Fischt Stadium is something I will never forget.</p>
+    - q: Will you be back for the 2018 Olympics?
+      a: I intend to be back and better at the 2018 Olympics in Korea.
 
 - category: Sliding
   faqs:
     - q: Have you ever crashed?
-      a: I've never crashed to the point of losing my sled, but I've taken some big, painful hits. The worst have been in Konigssee and Lake Placid.
+      a: I've never crashed to the point of losing my sled, but I've had some close calls. The worst have been in Konigssee and Lake Placid.
+    - q: How has skeleton changed your life?
+      a: >
+        <p>In more ways than I could mention. Everything fell into place when I started skeleton. It has pushed me in ways I never expected. It taught me to appreciate hard work and excellence, because those are the real rewards. It allowed me to travel the world. It introduced me to my girlfriend. It gave me one of the greatest moments in my life at the Olympics and enough memories and friendships to last a lifetime.</p>
+        <p>In a more practical sense it gave me a greater appreciation and patience for flying.</p>
+    - q: How long before I make the National Team?
+      a: The National Team consists of the top 5 or 6 men and women in the United States. It used to be larger, but has been narrowed down in recent years. It may take several seasons to make the National Team, but that doesn't mean you won't be racing in events. The development team travels throughout North America and Europe as well, and occasionally bumps up to higher circuits throughout the season. The development circuits are a great place to learn the sport and the tracks so you will be ready to compete when you make the team.
+    - q: How many runs have you taken in your career?
+      a: >
+        <p>I have averaged 175 runs per season over the past 15 years for an estimated total of <em>2,625 runs</em>. That's roughly the distance from New York to San Francisco, which at 60mph average speed I would have covered in 44 hours.</p>
+        <p>Lake Placid makes up the bulk, with Park City in second followed by Igls, Austria in a distant 3rd.</p>
+    - q: How much longer will you compete?
+      a: I am retiring after the 2018 Winter Olympic Games.
+    - q: What is one thing skeleton has taught you?
+      a: If you set high enough goals and work hard at achieving them, it becomes really hard to differentiate between failure and success.
+    - q: What's your best World Cup finish?
+      a: It's a tie, 5th in Lake Placid (2013) and St. Moritz (2014).
+    - q: What scares you?
+      a: >
+        <p>The only thing that truly scares me is the possibility of something being in the track while I'm sliding, like tools, animals, or people (all three have happened). We don't do a good enough job of protecting against this kind of mistake. As recently as January 2017, a track worker was in the track in Winterberg as a bobsled raced past. It missed him by inches.<p>
+        <ul>
+          <li>The track worker should have been fired. It's drastic, but you don't gamble with lives.</li>
+          <li>The track should have been heavily fined.</li>
+          <li>An independent safety commission should have been called.</li>
+        </ul>
+        <p>As far as I know, <em>nothing</em> happened. This is inexcusable but not surprising.</p>
+    - q: What's it like going 90 miles per hour, headfirst?
+      a: >
+        <p>I imagine it's different for every athlete, but for me it's peaceful. It's a minute of pure focus for my otherwise scattered brain. For 60 blissful seconds I have absolutely nothing else in the world to worry about.</p>
+        <p>It's also exhilarating and addicting, but if you're reading this you probably already knew that.</p>
+    - q: What is the fastest you've ever gone?
+      a: Nearly 90mph in Whistler, BC Canada.
+    - q: What is your proudest accomplishment in skeleton?
+      a: >
+        <p>Competing in the Olympic Games is the obvious choice. I'm also proud of being named the 2005 Randy Price Memorial Award Winner. I'm honored to be a three-time winner of the Athlete's Choice Award. I'm humbled the athletes have chosen me to be their representative to the United States Olympic Committee. But no one will ever say it better than Olympic Champion Curt Thomasevic:</p>
+        <blockquote>My proudest accomplishment in bobsled isn’t two Olympic medals. It is knowing that after 10 years, no one can ever question my commitment, my honor, or my character and intentions. I did my best to make myself and my teammates better every day. I had an experience that no one can ever take away. And I don’t need an Olympic medal to remind me of that.</blockquote>
 
 - category: Training
   faqs:
     - q: How do you train in the winter?
-      a: The winter is focused almost entirely on sliding and equipment prep, but we do make time for sprinting and lifting. We travel with a squat rack, weights, and a bench. We make use of local running tracks where we can find them. We lug 10lb bags of protein through airport security. Sliding usually lasts a few hours. We often spend extra time watching athletes from other nations and walking the track, and we have a nightly meeting and video review session. Equipment preparation takes another hour or so. When you factor in time for sports medicine and recovery, the days are pretty full.
+      a: >
+        <p>The winter is focused almost entirely on sliding and equipment prep, but we do make time for sprinting and lifting. We travel with a squat rack, weights, and a bench. We make use of local running tracks where we can find them. We lug 10lb bags of protein through airport security.</p>
+        <p>Sliding usually lasts a few hours. We often spend extra time watching athletes from other nations and walking the track, and we have a nightly meeting and video review session. Equipment preparation takes another hour or so. When you factor in time for sports medicine and recovery, the days are pretty full.</p>
+    - q: What does your training program look like?
+      a: >
+        <p>Now that I'm older, I train smarter. Instead of 6+ hours a day on the track and in the gym, I do a brief warmup, some speed work, and an hour-long lifting session 3 days per week. The rest of the time should be spent in recovery, but I'm lazy in that regard.</p>
+        <p>I also pay more attention to my nutrition.</p>
+    - q: What can you squat/bench/clean etc?
+      a: "The numbers don't really matter, but: Clean: 140kg. 3RM Squat: 180kg. My bench press sucks."
+    - q: What is the combine?
+      a: >
+        <p>The combine is a standardized test to measure speed, power, and strength of bobsled and skeleton athletes. There are three tiers. If you are a brand new skeleton athlete (tier 1), you will be asked to take three 45m sprints through timing eyes. From the timing data, the coaches will get 15, 30, flying 30, and 45 meter sprint times. Then you will be asked to do an underhand shot toss and a standing broad jump. Your score will be calculated according to a points table.</p>
+        <p>Most current athletes (Tier 2) also complete a weight room portion, including a 3RM back squat and a 1RM clean.</p>
+        <p>Tier 3 athletes are those who have competed in an Olympic Games or World Championships in the past two years. Tier 3 athletes don't take a formal combine, but are instead monitored through their strength and conditioning coaches.</p>
+    - q: What kind of training should I be doing?
+      a: You should be lifting heavy weights and sprinting. Find a good coach. If you're still in school, join the track team.
+    - q: Can I call myself an Olympic hopeful?
+      a: >
+        <p>Sure, you can call yourself anything you like. However keep in mind that some people have raised thousands of dollars in sponsorship by falsely claiming to be an Olympic hopeful. That angers many of us who are dedicating our lives to this.</p>
+        <p>No matter what, please don't go around telling people you <em>almost</em> qualified for the Olympics or how you <em>just missed the Sochi Games</em>, because <strong>you didn't</strong>. You are taking advantage of the sport and the community by doing so. It's disingenuous. I've personally seen or heard this claim made by people who:</p>
+        <ul>
+          <li>have never taken a skeleton run</li>
+          <li>quit the sport the year <em>before</em> the Olympics</li>
+          <li>finished several places behind in U.S. National rank, let alone international rank.</li>
+        </ul>
+        <p>Don't be that person.</p>
 
 - category: Equipment
   faqs:
     - q: Which runners should I use?
       a: There's no one right answer. It will take testing and experience. Don't be afraid to try things that scare you a little bit. Write everything down. You'll build confidence in your equipment and eventually learn to make the right choice 90% of the time. I recommend every skeleton athlete read through <a href="http://www.davenportsleds.ca">Ryan Davenport's website</a> for a thorough introduction to runners and how specific cuts affect control.
+    - q: When should I buy my first sled?
+      a: >
+        <p>Wait at least one full season before purchasing equipment. Most people ignore this advice.</p>
+        <p>The reason I recommend you wait is because you won't have any clue what you're doing your first year. You'll probably have 2-3 months on one track, and you might take 10-15 runs per week. This time should be dedicated to increasing awareness, perfecting your form, getting a feel for the track, and soaking up as much knowledge as you can from the coaches. Messing around with equipment to try to go faster isn't a priority. Plus, any sled you buy will likely be too sensitive for your abilities. The same goes with runners.</p>
+    - q: Which runners should I use?
+      a: >
+        There's no one right answer. It will take testing and experience. Don't be afraid to try things that scare you a little bit. Write everything down. You'll build confidence in your equipment and eventually learn to make the right choice 90% of the time. I recommend every skeleton athlete read through <a href="http://davenportsleds.ca">Ryan Davenport's website</a> for a thorough introduction to runners and how specific cuts affect control.
+    - q: Who makes the best skeleton equipment?
+      a: Equipment is largely personal preference so you'll have to experiment. I have raced on sleds from Don Hass, Ryan Davenport, Andi Walser, Willi Schneider, and Protostar Engineering. To date, the sled I was most comfortable on and on which I had my best results was the Schneider.
+    - q: Who makes your sled and runners?
+      a: I compete on a Willi Schneider sled with Schneider runners.
 
 - category: Tracks
   faqs:
     - q: Have you competed on every track?
       a: No. Of those tracks still in use, I haven't slid on Sigulda, Lillehammer, Paramanovo, Oberhof, or Nagano.
+    - q: How expensive is it to build a track?
+      a: Modern combined bobsled/skeleton/luge facilities are expensive, costing millions, sometimes hundreds of millions, to build. The Whistler Sliding Centre had a price tag of $105MM CAD, and rumor has it the Sanki Sliding Centre in Sochi cost substantially more. I'd love to see more natural tracks like the one in St. Moritz, Switzerland, but the knowledge and experience to build them is highly specialized.
+    - q: Which track is your favorite?
+      a: >
+        <p>It's a tie between Lake Placid, NY (my home track) and St. Moritz, Switzerland. I probably have close to 2000 runs on Lake Placid, and it's the track on which I learned to slide.</p>
+        <p>St. Moritz is the only remaining natural track in the world. There's something magical about sliding 1800 meters through the woods on a hand-carved track. It's my best track in Europe, and is tied for my best ever WC performance (5th).</p>
+    - q: Which track is your least favorite?
+      a: Every track is fun and unique in its own way.
+    - q: Which countries have skeleton tracks?
+      a: USA, Canada, Germany, Austria, Italy, France, Norway, Japan, Russia, Switzerland, Latvia, and Korea.
+    - q: Which track is the most difficult?
+      a: >
+        <p>Difficulty is subjective. There are many athletes who find Lake Placid challenging, but because I learned how to slide there and have nearly 2000 runs on the track, I wouldn't call it difficult.</p>
+        <p>Konigssee has always been my most difficult track, but each track has its own challenges.</p>

@@ -1,0 +1,6 @@
+<%= data.books.map{|book| {
+  title: book[1].title,
+  author: book[1].author,
+  tags: book[1].tags,
+  marginalia: book[1].marginalia
+}}.to_json %>
