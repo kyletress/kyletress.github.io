@@ -6,25 +6,18 @@ layout: page
 
 ## How to contact me
 
-Hey! First, a confession: **I'm intentionally hard to reach**. I don't have a general email address and I don't use social media. The best way to reach me is in person. I do occasionally receive interesting opportunities via email, so if you'd like to interview me, or you have an interesting offer, opportunity, or introduction, please use the contact information below. I'll respond to those proposals which are a good fit for my schedule and interests.
+I'm intentionally harder to reach than most people. I don't have a general purpose email address and I don't use social media. I try to maximize the time I have outside my main commitments: training for the Olympics, working at a startup, writing a book, and my athlete rep duties. The best way to reliably reach me is in person, but here are some other ways you can get in touch.
 
-**2 simple rules:**  
+### Interesting 
+I occasionally receive interesting opportunities via email, which I love. Just send a note to [interesting@kyletress.com](mailto:interesting@kyletress.com) and I'll reply to those which are a good fit for my schedule and interests. 
 
-1. Requests for skeleton-related interviews should be directed to the offices of [USA Bobsled/Skeleton](https://www.usabs.com).
-2. If you're asking advice on skeleton, first check my [frequently asked questions](/faqs). 90% of the questions I get are answered there.
+### Interviews 
+All skeleton-related interviews should be booked through Kristen Gowdy at USA Bobsled/Skeleton.
 
-Sound good?
+### Skeleton advice and coaching
+For advice on sliding, please see my frequently asked questions, and send a message to [skeleton@kyletress.com](mailto:skeleton@kyletress.com) if your question isn't answered there. 
 
-<p>
-<label>
-  <input type="checkbox" onclick="showEmail()"> Yep, I agree to these simple rules
-</label>
-</p>
+At present, it's unlikely I'll coach after retirement. 
 
-<p><strong id="myEmail" style="display:none;">hello@kyletress.com</strong></p>
-
-<script>
-  function showEmail() {
-    document.getElementById("myEmail").style.display = 'inline';
-  }
-</script>
+### Employment 
+I'm open to full-time employment opportunities assuming they are remote (at least through March 2018). I will consider part-time and contract work, but not equity offers. Send a note to [hello@kyletress.com](mailto:hello@kyletress.com).  
