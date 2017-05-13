@@ -1,17 +1,25 @@
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
+Time.zone = "Arizona"
+
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
-
-# Layouts
-# https://middlemanapp.com/basics/layouts/
 
 # Per-page layout changes
 page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
+
+activate :blog do |blog|
+  blog.name = "blog"
+  blog.prefix = "blog"
+  blog.permalink = "{title}.html"
+  blog.summary_separator = /(READMORE)/
+end
+
+activate :directory_indexes # must come after blog
 
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'

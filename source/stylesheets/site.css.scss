@@ -1,24 +1,76 @@
-body {
-  background-color: #fbc547;
-  color: #333;
-  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
-    "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans",
-    "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu",
-    "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
-  padding: 18vh 1rem;
-  text-align: center;
+$brand: #e31c3d;
+
+html {
+  font-size: 62.5%;
 }
 
-a {
-  color: rgba(#000, 0.7);
+body {
+  border-top: 2px solid $brand;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 1.6rem;
+  color: rgba(0,0,0,.9);
+  line-height: 1.6;
+  margin: 0;
+}
 
-  &:focus,
-  &:hover {
-    color: rgba(#000, 0.6);
+.container {
+  padding: 4rem;
+  max-width: 64rem;
+}
+
+.brand {
+  font-size: 1.8rem;
+  text-decoration: none;
+}
+
+time {
+  color: rgba(0,0,0,.4);
+  font-size: 1.2rem;
+  display: block;
+}
+
+footer {
+  color: rgba(0,0,0,.4);
+  font-size: 1.4rem;
+  padding: 4rem 0;
+  p {
+    margin: 0;
+  }
+  a {
+    color: rgba(0,0,0,.4);
   }
 }
 
-.middleman-logo {
-  margin-bottom: 1rem;
-  width: 10rem;
+header {
+  //border-bottom: 1px solid #f1f1f2;
+  padding: 2rem 4rem;
+
+  nav {
+    margin: 0 auto;
+
+    @media(min-width: 600px) {
+  	  flex-direction: row;
+  	  justify-content: space-between;
+    }
+
+    a {
+    	color: #aaa;
+    	text-transform: none;
+    	font-size: 1.2rem;
+    	font-weight: normal;
+    	text-decoration: none;
+    	padding: 1.3rem 1rem;
+
+    	&:hover {
+    	  color: black;
+    	  text-decoration: none;
+    	}
+    }
+
+    .is--active {
+  	  font-weight: 600;
+  	  color: black;
+  	  //border-bottom: 1px solid #e31c3d;
+    }
+  }
 }
