@@ -6,7 +6,7 @@ I'm **Kyle Tress**. I'm an Olympic athlete in the sport of skeleton. When I'm no
 
 I'm currently studying machine learning and data science. I also like to read and I recommend my favorite books in [my monthly reading list email](/newsletter).
 
-I have decided to become [nonline](http://jasonrehmus.com/social/2017/02/23/nonline-means-no-longer-online/) until March 2018 as I train and prepare for the Olympic Games.
+I am [nonline](http://jasonrehmus.com/social/2017/02/23/nonline-means-no-longer-online/) at least through February 2018 as I train for the Olympic Games.
 
 **In Brief:**
 
