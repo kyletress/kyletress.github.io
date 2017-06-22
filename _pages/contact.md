@@ -14,4 +14,4 @@ I occasionally receive interesting opportunities via email, which I love. Just s
 All skeleton-related interviews should be booked through Kristen Gowdy at USA Bobsled/Skeleton.
 
 ### Skeleton advice and coaching
-For advice on sliding, please see my frequently asked questions, and send a message to [skeleton@kyletress.com](mailto:skeleton@kyletress.com) if your question isn't answered there.
+For advice on sliding, please see my [frequently asked questions](/faqs), and send a message to [skeleton@kyletress.com](mailto:skeleton@kyletress.com) if your question isn't answered there.
