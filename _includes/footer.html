@@ -1,3 +1,6 @@
 <footer>
-  &copy; Kyle Tress {{ site.time | date: '%Y' }} &bull; <a href="/newsletter">Newsletter</a> &bull; <a href="/contact">Contact</a>
+  &copy; Kyle Tress {{ site.time | date: '%Y' }} &bull; <a <nav>
+  {% for nav in site.data.nav.footer %}
+    <a href="{{nav.url}}"{% if nav.url == page.url %}class="is--active"{% endif%}>{{nav.title}}</a> {% if forloop.last == false %}&bull;{% endif %}
+  {% endfor %}
 </footer>

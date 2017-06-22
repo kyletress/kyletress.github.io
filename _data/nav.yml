@@ -3,3 +3,10 @@ header:
     url: /
   - title: Newsletter
     url: /newsletter/
+  - title: Bookshelf
+    url: /bookshelf/
+footer:
+  - title: Contact
+    url: /contact/
+  - title: Now
+    url: /now/

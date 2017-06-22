@@ -1,7 +1,7 @@
-<header class="header">
+<header>
   <nav>
     {% for nav in site.data.nav.header %}
-      <a href="{{nav.url}}"{% if nav.url == page.url %}class="is--active"{% endif%}>{{nav.title}}</a>
+      <a href="{{nav.url}}"{% if nav.url == page.url %}class="is--active"{% endif%}>{{nav.title}}</a> {% if forloop.last == false %}&bull;{% endif %}
     {% endfor %}
   </nav>
 </header>
