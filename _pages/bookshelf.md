@@ -52,7 +52,7 @@ If you like this list you should check out my [monthly reading list email](/news
 - [Deep Work](http://www.amazon.com/dp/1455586692/?tag=tress-20): Rules for Focused Success in a Distracted World
 - [Meditations](http://www.amazon.com/dp/B01FOD7CRG/?tag=tress-20): A New Translation
 - [On The Shortness of Life](http://www.amazon.com/dp/0143036327/?tag=tress-20)
-- [Letters on Ethics](http://www.amazon.com/dp/022626517X/?tag=tress-20)
+- [Letters on Ethics](http://www.amazon.com/dp/022626517X/?tag=tress-20): To Lucilius (The Complete Works of Lucius Annaeus Seneca)
 - [Ego is the Enemy](http://www.amazon.com/dp/1591847818/?tag=tress-20)
 - [The Obstacle is the Way](http://www.amazon.com/dp/1591846358/?tag=tress-20): The Timeless Art of Turning Trials into Triumph
 - [The 48 Laws of Power](http://www.amazon.com/dp/0140280197/?tag=tress-20)
@@ -87,8 +87,8 @@ If you like this list you should check out my [monthly reading list email](/news
 - [Harry Potter and the Half Blood Prince](http://www.amazon.com/dp/0439785960/?tag=tress-20)
 - [Harry Potter and the Deathly Hallows](http://www.amazon.com/dp/0545139708/?tag=tress-20)
 - [Harry Potter and the Cursed Child](http://www.amazon.com/dp/1338099132/?tag=tress-20)
-- [Marcus Aurelius ](http://www.amazon.com/dp/0306819163/?tag=tress-20)
-- [Surely You're Joking Mr. Feynman!](http://www.amazon.com/dp/0393316041/?tag=tress-20)(Adventures of a Curious Character)
+- [Marcus Aurelius ](http://www.amazon.com/dp/0306819163/?tag=tress-20): A Life
+- [Surely You're Joking Mr. Feynman!](http://www.amazon.com/dp/0393316041/?tag=tress-20) (Adventures of a Curious Character)
 - [The Inner Citadel](http://www.amazon.com/dp/B012HUFJCY/?tag=tress-20): The Meditations of Marcus Aurelius
 - [Being Nixon](http://www.amazon.com/dp/0812985419/?tag=tress-20): A Man Divided
 - [Reagan](http://www.amazon.com/dp/0307951146/?tag=tress-20): The Life
