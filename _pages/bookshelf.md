@@ -28,43 +28,42 @@ It's a work in progress, partially complete and in no particular order. Some day
 - [Debt](http://www.amazon.com/dp/1612194192/?tag=tress-20): The First 5000 Years
 - [The Ascent of Money](http://www.amazon.com/dp/0143116177/?tag=tress-20): A Financial History of the World
 - [On Tyranny](http://www.amazon.com/dp/0804190119/?tag=tress-20): Twenty Lessons from the Twentieth Century
-- Washington: A Life
-- Team of Rivals
-- Aliens: The world's leading scientists on the search for extraterrestrial life
-- So Good They Can't Ignore You
-- Strategy: A History
-- The Power Broker
-- The Path to Power
-- Means of Ascent
-- The Prince
-- How to be a Stoic
-- The Confessions of Youn Nero
-- The American Spirit
-- The South China Sea
-- What It Takes: The Way to the White House
-- The Count of Monte Cristo
-- The Right Stuff
-- Winter is Coming
-- Irresistable
-- The Art of Invisibility 
-- Deep Work
-- Meditations
-- On The Shortness of Life
-- Letters
-- Ego is the Enemy
-- The Obstacle is the Way
-- The 48 Laws of Power
-- Mastery
-- The Art of Seduction
-- The Gene
-- Sapiens
-- Homo Deus
-- Seveneves
-- Program or Be Programmed
-- Rules for Radicals
-- Steve Jobs
-- Benjamin Franklin
-- The Social Animal
-- The Road to Character
-- Dreams from my Father
--  
+- [Washington](http://www.amazon.com/dp/0143119966/?tag=tress-20): A Life
+- [Rubicon](http://www.amazon.com/dp/1400078970/?tag=tress-20)
+- [Aliens](http://www.amazon.com/dp/1250109639/?tag=tress-20): The world's leading scientists on the search for extraterrestrial life
+- [So Good They Can't Ignore You](http://www.amazon.com/dp/1455509124/?tag=tress-20)
+- [Strategy: A History](http://www.amazon.com/dp/0190229233/?tag=tress-20)
+- [The Power Broker](http://www.amazon.com/dp/0394720245/?tag=tress-20)
+- [The Path to Power](http://www.amazon.com/dp/0679729453/?tag=tress-20): The Years of Lyndon Johnson
+- [Means of Ascent](http://www.amazon.com/dp/067973371X/?tag=tress-20): The Years of Lyndon Johnson
+- [The Prince](http://www.amazon.com/dp/0143105868/?tag=tress-20)
+- [How to be a Stoic](http://www.amazon.com/dp/0465097952/?tag=tress-20)
+- [The Confessions of Young Nero](http://www.amazon.com/dp/0451473388/?tag=tress-20)
+- [The American Spirit](http://www.amazon.com/dp/1501174215/?tag=tress-20)
+- [The South China Sea](http://www.amazon.com/dp/0300186835/?tag=tress-20)
+- [What It Takes](http://www.amazon.com/dp/0679746498/?tag=tress-20): The Way to the White House
+- [The Count of Monte Cristo](http://www.amazon.com/dp/0140449264/?tag=tress-20)
+- [The Right Stuff](http://www.amazon.com/dp/0312427565/?tag=tress-20)
+- [Winter is Coming](http://www.amazon.com/dp/1610397193/?tag=tress-20)
+- [Irresistable](http://www.amazon.com/dp/1594206643/?tag=tress-20)
+- [The Art of Invisibility ](http://www.amazon.com/dp/0316380504/?tag=tress-20)
+- [Deep Work](http://www.amazon.com/dp/1455586692/?tag=tress-20)
+- [Meditations](http://www.amazon.com/dp/B01FOD7CRG/?tag=tress-20): A New Translation
+- [On The Shortness of Life](http://www.amazon.com/dp/0143036327/?tag=tress-20)
+- [Letters on Ethics](http://www.amazon.com/dp/022626517X/?tag=tress-20)
+- [Ego is the Enemy](http://www.amazon.com/dp/1591847818/?tag=tress-20)
+- [The Obstacle is the Way](http://www.amazon.com/dp/1591846358/?tag=tress-20): The Timeless Art of Turning Trials into Triumph
+- [The 48 Laws of Power](http://www.amazon.com/dp/0140280197/?tag=tress-20)
+- [Mastery](http://www.amazon.com/dp/014312417X/?tag=tress-20)
+- [The Art of Seduction](http://www.amazon.com/dp/1861977697/?tag=tress-20)
+- [The Gene](http://www.amazon.com/dp/147673352X/?tag=tress-20)
+- [Sapiens](http://www.amazon.com/dp/0062316095/?tag=tress-20)
+- [Homo Deus](http://www.amazon.com/dp/0062464310/?tag=tress-20)
+- [Seveneves](http://www.amazon.com/dp/0062334514/?tag=tress-20)
+- [Program or Be Programmed](http://www.amazon.com/dp/159376426X/?tag=tress-20)
+- [Rules for Radicals](http://www.amazon.com/dp/0679721134/?tag=tress-20)
+- [Steve Jobs](http://www.amazon.com/dp/1501127624/?tag=tress-20)
+- [Benjamin Franklin](http://www.amazon.com/dp/074325807X/?tag=tress-20): An American Life
+- [The Social Animal](http://www.amazon.com/dp/0812979370/?tag=tress-20)
+- [The Road to Character](http://www.amazon.com/dp/0812983416/?tag=tress-20)
+- [Dreams from my Father](http://www.amazon.com/dp/1400082773/?tag=tress-20)
