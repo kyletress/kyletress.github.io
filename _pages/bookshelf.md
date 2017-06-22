@@ -21,7 +21,7 @@ Below I'm compiling a complete catalogue of the physical books I own. I've wante
 
 It's a work in progress, partially complete and in no particular order. Some day I'll add my reading notes to each entry.  
 
-If you like this list you should check out my [monthly reading list email](/newsletter). 
+If you like this list you should check out my [monthly reading list email](/newsletter).
 
 - [The Death of Expertise](http://www.amazon.com/dp/0190469412/?tag=tress-20): The Campaign Against Established Knowledge and Why it Matters
 - [Be Like The Fox](http://www.amazon.com/dp/0393609723/?tag=tress-20): Machiavelli In His World
@@ -75,7 +75,7 @@ If you like this list you should check out my [monthly reading list email](/news
 - [Washington's Crossing](http://www.amazon.com/dp/019518159X/?tag=tress-20)
 - [His Excellency](http://www.amazon.com/dp/1400032539/?tag=tress-20): George Washington
 - [A Powerful Mind](http://www.amazon.com/dp/1612347258/?tag=tress-20)
-- [Philosophy for Life and Other Dangerous Situations](http://www.amazon.com/dp/1608682293/?tag=tress-20)
+- [Philosophy for Life and Other Dangerous Situations](http://www.amazon.com/dp/1608682293/?tag=tress-20): Ancient Philosophy for Modern Problems
 - [Michelangelo and the Pope's Ceiling](http://www.amazon.com/dp/0142003697/?tag=tress-20)
 - [Armada](http://www.amazon.com/dp/0804137277/?tag=tress-20)
 - [Ready Player One](http://www.amazon.com/dp/0307887448/?tag=tress-20)
@@ -88,13 +88,13 @@ If you like this list you should check out my [monthly reading list email](/news
 - [Harry Potter and the Deathly Hallows](http://www.amazon.com/dp/0545139708/?tag=tress-20)
 - [Harry Potter and the Cursed Child](http://www.amazon.com/dp/1338099132/?tag=tress-20)
 - [Marcus Aurelius ](http://www.amazon.com/dp/0306819163/?tag=tress-20)
-- [Surely You're Joking Mr. Feynman](http://www.amazon.com/dp/0393316041/?tag=tress-20)
-- [The Inner Citadel](http://www.amazon.com/dp/B012HUFJCY/?tag=tress-20)
-- [Being Nixon](http://www.amazon.com/dp/0812985419/?tag=tress-20)
+- [Surely You're Joking Mr. Feynman!](http://www.amazon.com/dp/0393316041/?tag=tress-20)(Adventures of a Curious Character)
+- [The Inner Citadel](http://www.amazon.com/dp/B012HUFJCY/?tag=tress-20): The Meditations of Marcus Aurelius
+- [Being Nixon](http://www.amazon.com/dp/0812985419/?tag=tress-20): A Man Divided
 - [Reagan](http://www.amazon.com/dp/0307951146/?tag=tress-20): The Life
-- [The Last Lion](http://www.amazon.com/dp/0385313489/?tag=tress-20)
-- [The Last Lion](http://www.amazon.com/dp/0385313314/?tag=tress-20)
-- [The Last Lion](http://www.amazon.com/dp/0345548639/?tag=tress-20)
+- [The Last Lion](http://www.amazon.com/dp/0385313489/?tag=tress-20): Winston Spencer Churchill: Visions of Glory, 1874-1932
+- [The Last Lion](http://www.amazon.com/dp/0385313314/?tag=tress-20): Winston Spencer Churchill: Alone, 1932-1940
+- [The Last Lion](http://www.amazon.com/dp/0345548639/?tag=tress-20): Winston Spencer Churchill: Defender of the Realm, 1940-1965
 - [How to Live](http://www.amazon.com/dp/1590514831/?tag=tress-20): Or A Life of Montaigne in One Question and Twenty Attempts at an Answer
 - [Where the Sidewalk Ends](http://www.amazon.com/dp/0060572345/?tag=tress-20)
 - [Mindware](http://www.amazon.com/dp/0374536244/?tag=tress-20): Tools for Smart Thinking
