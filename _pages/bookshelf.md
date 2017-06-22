@@ -21,6 +21,8 @@ Below I'm compiling a complete catalogue of the physical books I own. I've wante
 
 It's a work in progress, partially complete and in no particular order. Some day I'll add my reading notes to each entry.  
 
+If you like this list you should check out my [monthly reading list email](/newsletter). 
+
 - [The Death of Expertise](http://www.amazon.com/dp/0190469412/?tag=tress-20): The Campaign Against Established Knowledge and Why it Matters
 - [Be Like The Fox](http://www.amazon.com/dp/0393609723/?tag=tress-20): Machiavelli In His World
 - [The History of the Peloponnesian War](http://www.amazon.com/dp/0140440399/?tag=tress-20)
