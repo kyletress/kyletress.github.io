@@ -6,17 +6,25 @@ I'm **Kyle Tress**. I'm an Olympic athlete in the sport of skeleton. When I'm no
 
 I'm currently studying machine learning and data science. I also like to read and I recommend my favorite books in [my monthly reading list email](/newsletter).
 
-**In Brief:**
+### In Brief
 
 - 2014 Olympian in skeleton [[faqs](/faqs)]
 - United States Olympic Committee Athlete Representative.
 - USA Bobsled/Skeleton Athlete Advisory Committee Chairman.
 - USA Bobsled/Skeleton Board of Directors.
-- Lead Rails developer at [Instaviser](http://www.instaviser.com).
+- Lead Rails developer at Instaviser.
 
-**Recent:**
+### Recent
 
 - [Remembering Steve Holcomb](/writing/remembering-steve)
 - [On Leadership](/writing/leadership)
 - [Impressions of Rome](/writing/rome)
 - [Why I'm Running for USOC AAC Representative](/writing/usoc-aac-rep)
+
+### Photos
+
+<a href="/uploads/kyletress-full.jpg"><img src="/uploads/kyletress-thumb.jpg" width="100" height="100"></a>
+<a href="/uploads/obama-tress-full.jpg"><img src="/uploads/obama-tress-thumb.jpg" width="100" height="100"></a>
+<a href="/uploads/tress-usoc-full.jpg"><img src="/uploads/tress-usoc-thumb.jpg" width="100" height="100"></a>
+<a href="/uploads/tress-helmet-full.jpg"><img src="/uploads/tress-helmet-thumb.jpg" width="100" height="100"></a>
+<a href="/uploads/tress-sled-full.jpg"><img src="/uploads/tress-sled-thumb.jpg" width="100" height="100"></a>
