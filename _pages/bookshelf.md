@@ -29,7 +29,7 @@ If you like this list you should check out my [monthly reading list email](/news
 - [How Adam Smith Can Change your Life](http://www.amazon.com/dp/1591847958/?tag=tress-20): An Unexpected Guide to Human Nature and Happiness
 - [Debt](http://www.amazon.com/dp/1612194192/?tag=tress-20): The First 5000 Years
 - [The Ascent of Money](http://www.amazon.com/dp/0143116177/?tag=tress-20): A Financial History of the World
-- [On Tyranny](http://www.amazon.com/dp/0804190119/?tag=tress-20): Twenty Lessons from the Twentieth Century
+- [On Tyranny](http://www.amazon.com/dp/0804190119/?tag=tress-20): Twenty Lessons from the Twentieth Century <small>[notes](/books/on-tyranny)</small>
 - [Washington](http://www.amazon.com/dp/0143119966/?tag=tress-20): A Life
 - [Rubicon](http://www.amazon.com/dp/1400078970/?tag=tress-20)
 - [Aliens](http://www.amazon.com/dp/1250109639/?tag=tress-20): The world's leading scientists on the search for extraterrestrial life
