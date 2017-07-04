@@ -23,7 +23,7 @@ It's a work in progress, partially complete and in no particular order. Some day
 
 If you like this list you should check out my [monthly reading list email](/newsletter).
 
-- [The Death of Expertise](http://www.amazon.com/dp/0190469412/?tag=tress-20): The Campaign Against Established Knowledge and Why it Matters
+- [The Death of Expertise](http://www.amazon.com/dp/0190469412/?tag=tress-20): The Campaign Against Established Knowledge and Why it Matters <small>[notes](/books/the-death-of-expertise)</small>
 - [Be Like The Fox](http://www.amazon.com/dp/0393609723/?tag=tress-20): Machiavelli In His World
 - [The History of the Peloponnesian War](http://www.amazon.com/dp/0140440399/?tag=tress-20)
 - [How Adam Smith Can Change your Life](http://www.amazon.com/dp/1591847958/?tag=tress-20): An Unexpected Guide to Human Nature and Happiness

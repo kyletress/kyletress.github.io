@@ -17,6 +17,8 @@ main {
 
 blockquote {
   font-style: italic;
+  margin-left: 0;
+  color: rgba(0,0,0,.50);
 }
 
 header, footer {
@@ -25,4 +27,8 @@ header, footer {
     color: black;
     font-weight: 600;
   }
+}
+
+h2 {
+  line-height: 24px;
 }
