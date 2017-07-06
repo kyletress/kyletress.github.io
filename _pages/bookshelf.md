@@ -43,13 +43,13 @@ If you like this list you should check out my [monthly reading list email](/news
 - **[The Confessions of Young Nero](http://www.amazon.com/dp/0451473388/?tag=tress-20)**
 - [The American Spirit](http://www.amazon.com/dp/1501174215/?tag=tress-20): Who We Are and What We Stand For
 - [The South China Sea](http://www.amazon.com/dp/0300186835/?tag=tress-20): The Struggle for Power in Asia
-- [What It Takes](http://www.amazon.com/dp/0679746498/?tag=tress-20): The Way to the White House
+- **[What It Takes](http://www.amazon.com/dp/0679746498/?tag=tress-20)**: The Way to the White House
 - **[The Count of Monte Cristo](http://www.amazon.com/dp/0140449264/?tag=tress-20)**
 - [The Right Stuff](http://www.amazon.com/dp/0312427565/?tag=tress-20)
 - [Winter is Coming](http://www.amazon.com/dp/1610397193/?tag=tress-20): Why Vladimir Putin and the Enemies of the Free World Must Be Stopped
 - [Irresistable](http://www.amazon.com/dp/1594206643/?tag=tress-20): The Rise of Addictive Technology and the Business of Keeping Us Hooked
 - [The Art of Invisibility ](http://www.amazon.com/dp/0316380504/?tag=tress-20): The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data
-- [Deep Work](http://www.amazon.com/dp/1455586692/?tag=tress-20): Rules for Focused Success in a Distracted World
+- **[Deep Work](http://www.amazon.com/dp/1455586692/?tag=tress-20)**: Rules for Focused Success in a Distracted World
 - [Meditations](http://www.amazon.com/dp/B01FOD7CRG/?tag=tress-20): A New Translation
 - **[On The Shortness of Life](http://www.amazon.com/dp/0143036327/?tag=tress-20)**
 - [Letters on Ethics](http://www.amazon.com/dp/022626517X/?tag=tress-20): To Lucilius (The Complete Works of Lucius Annaeus Seneca)
@@ -59,8 +59,8 @@ If you like this list you should check out my [monthly reading list email](/news
 - [Mastery](http://www.amazon.com/dp/014312417X/?tag=tress-20)
 - [The Art of Seduction](http://www.amazon.com/dp/1861977697/?tag=tress-20)
 - [The Gene](http://www.amazon.com/dp/147673352X/?tag=tress-20): An Intimate History
-- [Sapiens](http://www.amazon.com/dp/0062316095/?tag=tress-20): A Brief History of Humankind
-- [Homo Deus](http://www.amazon.com/dp/0062464310/?tag=tress-20): A Brief History of Tomorrow
+- **[Sapiens](http://www.amazon.com/dp/0062316095/?tag=tress-20)**: A Brief History of Humankind
+- **[Homo Deus](http://www.amazon.com/dp/0062464310/?tag=tress-20)**: A Brief History of Tomorrow
 - [Seveneves](http://www.amazon.com/dp/0062334514/?tag=tress-20)
 - [Program or Be Programmed](http://www.amazon.com/dp/159376426X/?tag=tress-20): Ten Commands for a Digital Age
 - [Rules for Radicals](http://www.amazon.com/dp/0679721134/?tag=tress-20): A Practical Primer for Realistic Radicals
@@ -88,7 +88,7 @@ If you like this list you should check out my [monthly reading list email](/news
 - [Harry Potter and the Deathly Hallows](http://www.amazon.com/dp/0545139708/?tag=tress-20)
 - [Harry Potter and the Cursed Child](http://www.amazon.com/dp/1338099132/?tag=tress-20)
 - [Marcus Aurelius ](http://www.amazon.com/dp/0306819163/?tag=tress-20): A Life
-- [Surely You're Joking Mr. Feynman!](http://www.amazon.com/dp/0393316041/?tag=tress-20) (Adventures of a Curious Character)
+- **[Surely You're Joking Mr. Feynman!](http://www.amazon.com/dp/0393316041/?tag=tress-20)** (Adventures of a Curious Character)
 - [The Inner Citadel](http://www.amazon.com/dp/B012HUFJCY/?tag=tress-20): The Meditations of Marcus Aurelius
 - [Being Nixon](http://www.amazon.com/dp/0812985419/?tag=tress-20): A Man Divided
 - [Reagan](http://www.amazon.com/dp/0307951146/?tag=tress-20): The Life
