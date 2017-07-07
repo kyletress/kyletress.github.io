@@ -16,10 +16,10 @@ I'm currently studying machine learning and data science. I also like to read an
 
 ### Recent
 
-- [Remembering Steve Holcomb](/writing/remembering-steve)
-- [On Leadership](/writing/leadership)
-- [Impressions of Rome](/writing/rome)
-- [Why I'm Running for USOC AAC Representative](/writing/usoc-aac-rep)
+- **[Remembering Steve Holcomb](/writing/remembering-steve)**
+- **[On Leadership](/writing/leadership)**
+- **[Impressions of Rome](/writing/rome)**
+- **[Why I'm Running for USOC AAC Representative](/writing/usoc-aac-rep)**
 
 ### Photos
 
