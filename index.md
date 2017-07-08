@@ -16,10 +16,10 @@ Since you're here, you should **[subscribe to my weekly email](/newsletter)** --
 
 ### Recent
 
-- [Remembering Steve Holcomb](/writing/remembering-steve)
-- [On Leadership](/writing/leadership)
-- [Impressions of Rome](/writing/rome)
-- [Why I'm Running for USOC AAC Representative](/writing/usoc-aac-rep)
+- **[Remembering Steve Holcomb](/writing/remembering-steve)**
+- **[On Leadership](/writing/leadership)**
+- **[Impressions of Rome](/writing/rome)**
+- **[Why I'm Running for USOC AAC Representative](/writing/usoc-aac-rep)**
 
 ### Photos
 
