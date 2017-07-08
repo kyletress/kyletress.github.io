@@ -2,9 +2,9 @@
 title: Home
 ---
 
-I'm **Kyle Tress**. I'm an Olympic athlete in the sport of skeleton. When I'm not racing headfirst down a mountain of ice at 90 miles per hour, I'm a Ruby on Rails developer at [Instaviser](http://www.instaviser.com) and an advocate for the ethical design and mindful use of technology.
+I'm **Kyle Tress**. I'm an Olympic athlete in the sport of skeleton. When I'm not racing headfirst down a mountain of ice at 90 miles per hour, I'm a Ruby on Rails developer at [Instaviser](http://www.instaviser.com), and a web tester at [The Wirecutter](https://www.thewirecutter.com).
 
-I'm currently studying machine learning and data science. I also like to read and I recommend my favorite books in [my monthly reading list email](/newsletter).
+Since you're here, you should **[subscribe to my weekly email](/newsletter)** -- especially if you like book recommendations, thoughts on performance, and eclectic links from around the web.
 
 ### In Brief
 
