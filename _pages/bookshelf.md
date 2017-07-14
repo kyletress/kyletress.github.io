@@ -23,6 +23,7 @@ It's a work in progress, partially complete and in no particular order. Some day
 
 If you like this list you should check out my [monthly reading list email](/newsletter). 
 
+- **[Hillbilly Elegy](http://www.amazon.com/dp/0062300547/?tag=tress-20)**: A Memoir of a Family and Culture
 - [The Death of Expertise](http://www.amazon.com/dp/0190469412/?tag=tress-20): The Campaign Against Established Knowledge and Why it Matters
 - [Be Like The Fox](http://www.amazon.com/dp/0393609723/?tag=tress-20): Machiavelli In His World
 - [The History of the Peloponnesian War](http://www.amazon.com/dp/0140440399/?tag=tress-20)
