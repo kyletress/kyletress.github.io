@@ -6,8 +6,8 @@ layout: page
 
 # Newsletter
 
-Once a month I send a simple email to friends recommending a few excellent books. It goes out to about 50 people -- no frills, no nonsense. I jump around between genres a bit but the general theme of the newsletter is *performance reading*: books that make us better thinkers, leaders, and performers.
+My weekly email newsletter is my *primary means of communication* on the web. I don't use social media, I'm bad at email, and I disabled voicemail on my phone -- but I *do* reply to every email I get from subscribers.   
 
-I'd be happy to have you as a subscriber, and you can unsubscribe any time you like.
+I talk about the books I love, share a few favorite links and articles from around the web, and occasionally include a private essay. I'd love to have you as a subscriber, and of course you can unsubscribe at any time.
 
 {% include newsletter.html %}

@@ -3,7 +3,7 @@ body {
   flex-direction: column;
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 13px;
-  line-height: 18px;
+  line-height: 1.5;
   margin: 0 auto;
   width: 94%;
   max-width: 560px;
@@ -17,6 +17,8 @@ main {
 
 blockquote {
   font-style: italic;
+  margin-left: 0;
+  color: rgba(0,0,0,.50);
 }
 
 header, footer {
@@ -25,4 +27,8 @@ header, footer {
     color: black;
     font-weight: 600;
   }
+}
+
+h2 {
+  line-height: 24px;
 }
