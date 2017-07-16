@@ -24,7 +24,6 @@ It's a work in progress, partially complete and in no particular order. Some day
 If you like this list you should check out my [monthly reading list email](/newsletter).
 
 - **[Hillbilly Elegy](http://www.amazon.com/dp/0062300547/?tag=tress-20)**: A Memoir of a Family and Culture
-- [The Death of Expertise](http://www.amazon.com/dp/0190469412/?tag=tress-20): The Campaign Against Established Knowledge and Why it Matters
 - **[The Death of Expertise](http://www.amazon.com/dp/0190469412/?tag=tress-20)**: The Campaign Against Established Knowledge and Why it Matters <small>[notes](/books/the-death-of-expertise)</small>
 - [Be Like The Fox](http://www.amazon.com/dp/0393609723/?tag=tress-20): Machiavelli In His World
 - **[The History of the Peloponnesian War](http://www.amazon.com/dp/0140440399/?tag=tress-20)**
@@ -51,7 +50,7 @@ If you like this list you should check out my [monthly reading list email](/news
 - [Winter is Coming](http://www.amazon.com/dp/1610397193/?tag=tress-20): Why Vladimir Putin and the Enemies of the Free World Must Be Stopped
 - [Irresistable](http://www.amazon.com/dp/1594206643/?tag=tress-20): The Rise of Addictive Technology and the Business of Keeping Us Hooked
 - [The Art of Invisibility ](http://www.amazon.com/dp/0316380504/?tag=tress-20): The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data
-- **[Deep Work](http://www.amazon.com/dp/1455586692/?tag=tress-20)**: Rules for Focused Success in a Distracted World
+- **[Deep Work](http://www.amazon.com/dp/1455586692/?tag=tress-20)**: Rules for Focused Success in a Distracted World <small>[notes](/books/deep-work)</small>
 - [Meditations](http://www.amazon.com/dp/B01FOD7CRG/?tag=tress-20): A New Translation
 - **[On The Shortness of Life](http://www.amazon.com/dp/0143036327/?tag=tress-20)**
 - [Letters on Ethics](http://www.amazon.com/dp/022626517X/?tag=tress-20): To Lucilius (The Complete Works of Lucius Annaeus Seneca)
