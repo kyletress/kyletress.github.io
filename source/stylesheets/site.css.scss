@@ -1,8 +1,8 @@
 $body-font: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
 $line-height: 1.7;
-$max-container-width: 600px;
+$max-container-width: 580px;
 $breakpoint: 700px;
-$brand: #7851a9;
+$brand: #0071bc;
 //$brand: #08c;
 
 html {
@@ -22,12 +22,9 @@ body {
   margin: 0;
   //max-width: $max-container-width;
   font-family: $body-font;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   line-height: $line-height;
 }
-
-h1 {font-size:1.8rem;margin:0;}
-h1, h2, h3, h4 {font-family: -apple-system;}
 
 a {
   color: $brand;
@@ -68,6 +65,7 @@ figure {
 blockquote {
   font-style: italic;
   color: grey;
+  margin-left: 1rem;
 }
 
 header, footer {
@@ -97,7 +95,7 @@ header, footer {
     }
 
     a {
-    	color: #aaa;
+    	color: #000;
     	text-transform: none;
     	font-size: 1.2rem;
     	font-weight: normal;
@@ -113,14 +111,12 @@ header, footer {
     .active {
   	  font-weight: 600;
   	  color: black;
-  	  border-bottom: 2px solid $brand;
     }
   }
 }
 
 footer{
-  color:grey;
-  a{color:grey;}
+  a{color:black;}
   max-width: $max-container-width;
   margin: 0 auto;
   padding:2rem 0;
@@ -138,13 +134,15 @@ footer{
   display: flex;
   align-items: center;
   flex-direction: column;
-  font-size:1.4rem;
+  // font-size:1.4rem;
   font-family: $body-font;
   margin: 0;
   margin-bottom: 2rem;
   padding: 1.5rem 0;
+  text-align: center;
   @media (min-width: $breakpoint) {
     flex-direction: row;
+    text-align: left;
   }
   img { margin-right: 1rem; border-radius:50%;}
 }
@@ -159,10 +157,6 @@ article > header {
     margin: 0;
   }
   p {margin: 0;color:grey;}
-}
-
-footer {
-  font-size: 1.4rem;
 }
 
 .table {
