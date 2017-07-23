@@ -82,8 +82,12 @@ header, footer {
 .header {
   border-bottom: 1px solid #f1f1f2;
   padding: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   background-color: #fafafa;
+
+  @media (min-width: $breakpoint) {
+    margin-bottom: 2rem;
+  }
 
   nav {
     max-width: $max-container-width;

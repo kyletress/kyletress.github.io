@@ -4,13 +4,11 @@ title: What I'm Doing Now
 
 ## What I'm doing now
 
-- **Training for the 2018 Winter Olympic Games**.
-- Writing a book (more on this soon)
-- Looking for a full-time remote Rails position.  
-- Working for [Instaviser](http://www.instaviser.com).
+- Training for the 2018 Winter Olympic Games.
+- Working for [Instaviser](http://www.instaviser.com) and [The Wirecutter](https://www.wirecutter.com)
 - Personal programming projects.
-- USOC and USABS Athlete Representative responsibilities.
-- Reading and recommending books.
+- Athlete representative responsibilities.
+- Studying for an important test.
 
 I am no longer:
 

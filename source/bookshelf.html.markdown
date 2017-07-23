@@ -6,26 +6,19 @@ title: Bookshelf
 li {
   margin-bottom: .5rem;
 }
-small a {
-  color: rgba(0,0,0,.65) !important;
-}
 </style>
 
 # Bookshelf
-Below I'm compiling a catalogue of the physical books I own. I've wanted such a list for a long time, because it's convenient but also because I like reading other people's lists and discovering new books.
-
-It's a work in progress, partially complete and in no particular order. Some day I'll add my reading notes to each entry. Some of my favorite books are in bold.
-
-If you like this list you should check out my [monthly reading list email](/newsletter).
+These are some of my favorite books. I especially like the titles in bold. If you like this, you should subscribe to my [monthly email](/newsletter).
 
 - **[Hillbilly Elegy](http://www.amazon.com/dp/0062300547/?tag=tress-20)**: A Memoir of a Family and Culture
-- **[The Death of Expertise](http://www.amazon.com/dp/0190469412/?tag=tress-20)**: The Campaign Against Established Knowledge and Why it Matters <small>[notes](/books/the-death-of-expertise)</small>
+- **[The Death of Expertise](http://www.amazon.com/dp/0190469412/?tag=tress-20)**: The Campaign Against Established Knowledge and Why it Matters
 - [Be Like The Fox](http://www.amazon.com/dp/0393609723/?tag=tress-20): Machiavelli In His World
 - **[The History of the Peloponnesian War](http://www.amazon.com/dp/0140440399/?tag=tress-20)**
-- [How Adam Smith Can Change your Life](http://www.amazon.com/dp/1591847958/?tag=tress-20): An Unexpected Guide to Human Nature and Happiness
+- **[How Adam Smith Can Change your Life](http://www.amazon.com/dp/1591847958/?tag=tress-20)**: An Unexpected Guide to Human Nature and Happiness
 - [Debt](http://www.amazon.com/dp/1612194192/?tag=tress-20): The First 5000 Years
 - [The Ascent of Money](http://www.amazon.com/dp/0143116177/?tag=tress-20): A Financial History of the World
-- [On Tyranny](http://www.amazon.com/dp/0804190119/?tag=tress-20): Twenty Lessons from the Twentieth Century <small>[notes](/books/on-tyranny)</small>
+- [On Tyranny](http://www.amazon.com/dp/0804190119/?tag=tress-20): Twenty Lessons from the Twentieth Century
 - [Washington](http://www.amazon.com/dp/0143119966/?tag=tress-20): A Life
 - [Rubicon](http://www.amazon.com/dp/1400078970/?tag=tress-20)
 - [Aliens](http://www.amazon.com/dp/1250109639/?tag=tress-20): The world's leading scientists on the search for extraterrestrial life
@@ -45,7 +38,7 @@ If you like this list you should check out my [monthly reading list email](/news
 - [Winter is Coming](http://www.amazon.com/dp/1610397193/?tag=tress-20): Why Vladimir Putin and the Enemies of the Free World Must Be Stopped
 - [Irresistable](http://www.amazon.com/dp/1594206643/?tag=tress-20): The Rise of Addictive Technology and the Business of Keeping Us Hooked
 - [The Art of Invisibility ](http://www.amazon.com/dp/0316380504/?tag=tress-20): The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data
-- **[Deep Work](http://www.amazon.com/dp/1455586692/?tag=tress-20)**: Rules for Focused Success in a Distracted World <small>[notes](/books/deep-work)</small>
+- **[Deep Work](http://www.amazon.com/dp/1455586692/?tag=tress-20)**: Rules for Focused Success in a Distracted World
 - [Meditations](http://www.amazon.com/dp/B01FOD7CRG/?tag=tress-20): A New Translation
 - **[On The Shortness of Life](http://www.amazon.com/dp/0143036327/?tag=tress-20)**
 - [Letters on Ethics](http://www.amazon.com/dp/022626517X/?tag=tress-20): To Lucilius (The Complete Works of Lucius Annaeus Seneca)
@@ -70,7 +63,7 @@ If you like this list you should check out my [monthly reading list email](/news
 - [John Adams](http://www.amazon.com/dp/0743223136/?tag=tress-20)
 - [Washington's Crossing](http://www.amazon.com/dp/019518159X/?tag=tress-20)
 - [His Excellency](http://www.amazon.com/dp/1400032539/?tag=tress-20): George Washington
-- [A Powerful Mind](http://www.amazon.com/dp/1612347258/?tag=tress-20)
+- [A Powerful Mind](http://www.amazon.com/dp/1612347258/?tag=tress-20): The Self-Education of George Washington
 - [Philosophy for Life and Other Dangerous Situations](http://www.amazon.com/dp/1608682293/?tag=tress-20): Ancient Philosophy for Modern Problems
 - [Michelangelo and the Pope's Ceiling](http://www.amazon.com/dp/0142003697/?tag=tress-20)
 - [Armada](http://www.amazon.com/dp/0804137277/?tag=tress-20)

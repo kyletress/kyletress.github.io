@@ -1,8 +1,16 @@
 ---
-title: Reading Newsletter
+title: A monthly email
 ---
 
-I'm building a newsletter around one thing and one thing only: **reading and recommending the best books**. These aren't always bestsellers, or what's new this week. I seek out the best books across many disciplines like philosophy, history, biography, memoir, and yes, fiction.
+In lieu of social media, I write a monthly [tinyletter](https://www.tinyletter.com) for friends and fans. I despise the current *build an audience/personal branding* groupthink. I just want to share a few updates with a small group. You're welcome to subscribe (or unsubscribe) at any time.
+
+I usually write about:
+
+- Books and reading recommendations
+- Training and performance
+- Skeleton (and racing in general)
+- Occasional tech-stuff (rarely)
+- Life events and updates.
 
 <!-- Begin MailChimp Signup Form -->
 

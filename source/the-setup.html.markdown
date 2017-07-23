@@ -2,19 +2,17 @@
 title: The Setup
 ---
 
-I'm Kyle Tress, an Olympic skeleton athlete and Rails developer. I race headfirst down a mountain of ice at 90 miles per hour.
+I'm Kyle Tress, an Olympic skeleton athlete in the sport of skeleton. When I'm not racing headfirst down a mountain of ice at 90 miles per hour, I'm a Ruby on Rails developer at [InstaViser](http://www.instaviser.com) and a web tester at [The Wirecutter](https://www.wirecutter.com).
 
 ## What hardware are you using?
 
-I'm an Apple fan. My work machine is a base model 12" MacBook which I use for web and mobile development. Otherwise the iPad Air 2 is my primary device. I generally prefer iOS to OS X.
+I'm a lifelong Apple fan. The iPad Air 2 is my primary device, but I use a base model 12" MacBook for my web and mobile development work. I generally prefer iOS to macOS.
 
-My iPhone is an extension of my brain and I never leave home without it. I use it to capture ideas, browse the web, listen to podcasts, and shoot 1 second videos. It's my primary camera. I am [protective of my attention]() so I turn off notifications and permanently enable Do Not Disturb mode.
+I rarely leave home without my iPhone, but I'm trying to change that relationship. I am [protective of my attention]() so I disabled voicemail, turned off all notifications, and permanently enabled Do Not Disturb. I do use it to listen to podcasts and shoot 1 second videos. It's my primary camera.
 
-I have an Apple Watch which I love. I delegate critical notifcations to the watch, and I use it as a sleep tracker and silent alarm. It's a great training and travel partner. Using Apple Pay is frictionless and I'm excited for the day when it completely replaces my wallet.
+I have an Apple Watch which I love. I delegate critical notifications to the watch, and I use it as a sleep tracker and silent alarm. It's a great training and travel partner. Using Apple Pay is frictionless and I'm excited for the day when it completely replaces my wallet.
 
-Reading is my favorite hobby. I have a [Kindle Voyage](http://www.amazon.com/kindle), but it doesn't get much use anymore as I prefer physical books. I don't have cable but I love Netflix and HBO Go on my AppleTV.     
-
-I'm on the road 6 months per year. I love airplanes almost as much as I love Apple, but I couldn't survive a long flight without a pair of noise canceling headphones. At the moment, I use both Beats Solo 2s and AirPods, but neither are ideal for an airplane cabin. I'm considering Bose QuietComforts.
+I love to read. I have a [Kindle Voyage](http://www.amazon.com/kindle), but it doesn't get much use unless I'm traveling. I'm on the road 6 months per year. I love airplanes almost as much as I love Apple, but I couldn't survive a long flight without a pair of noise canceling headphones. At the moment, I use both Beats Solo 2s and AirPods, but neither are ideal for an airplane cabin. I'm considering Bose QuietComforts.
 
 While traveling, essentials get packed in my Scottevest Revolution jacket, and the rest goes in my Tom Bihn aeronaut and GORUCK Bullet. I throw in an AeroPress, Hario Grinder, and an electric travel kettle and I'm all set to make great coffee wherever my sled takes me.
 
