@@ -1,5 +1,5 @@
 ---
-title: A monthly email
+title: A monthly email from Kyle Tress
 ---
 
 In lieu of social media, I write a monthly [tinyletter](https://www.tinyletter.com) for friends and fans. I despise the current *build an audience/personal branding* groupthink. I just want to share a few updates with a small group. You're welcome to subscribe (or unsubscribe) at any time.
