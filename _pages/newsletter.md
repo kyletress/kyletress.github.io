@@ -4,7 +4,7 @@ permalink: "/newsletter/"
 layout: page
 ---
 
-In lieu of social media, I write a monthly [tinyletter](https://www.tinyletter.com) for friends and fans. I despise the current *build an audience/personal branding* groupthink. I just want to share a few updates with a small group. You're welcome to subscribe (or unsubscribe) at any time.
+In lieu of social media, I write a monthly [tinyletter](https://www.tinyletter.com/kyletress) for friends and fans. I despise the current *build an audience/personal branding* groupthink. I just want to share a few updates with a small group. You're welcome to subscribe (or unsubscribe) at any time.
 
 I usually write about:
 
