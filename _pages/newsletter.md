@@ -1,13 +1,18 @@
 ---
-title: Newsletter
+title: A monthly email from Kyle Tress
 permalink: "/newsletter/"
 layout: page
 ---
 
-# Newsletter
+In lieu of social media, I write a monthly [tinyletter](https://www.tinyletter.com) for friends and fans. I despise the current *build an audience/personal branding* groupthink. I just want to share a few updates with a small group. You're welcome to subscribe (or unsubscribe) at any time.
 
-My weekly email newsletter is my *primary means of communication* on the web. I don't use social media, I'm bad at email, and I disabled voicemail on my phone -- but I *do* reply to every email I get from subscribers.   
+I usually write about:
 
-I talk about the books I love, share a few favorite links and articles from around the web, and occasionally include a private essay. I'd love to have you as a subscriber, and of course you can unsubscribe at any time.
+- Books and reading recommendations
+- Training and performance
+- Skeleton (and racing in general)
+- Occasional tech-stuff (rarely)
+- Life events and updates.
 
-{% include newsletter.html %}
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/kyletress" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/kyletress', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+         
