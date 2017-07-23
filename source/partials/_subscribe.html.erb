@@ -1,0 +1,5 @@
+<% form_tag 'https://tinyletter.com/kyletress', class: 'newsletter-form', target: '_blank' do %>
+  <%= label_tag :email %>
+  <%= text_field_tag :email, placeholder: 'Email address' %>
+  <%= submit_tag "Sign Up" %>
+<% end %>
