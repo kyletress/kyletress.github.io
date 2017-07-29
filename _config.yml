@@ -16,9 +16,6 @@ collections:
     title: Books
     output: true
     permalink: /books/:title
-  microblog:
-    output: true
-    permalink: /microblog/:year/:month/:day/
 email: kyle@kyletress.com
 description: The website of 2014 Olympian Kyle Tress
 url: https://kyletress.github.io
@@ -55,9 +52,3 @@ defaults:
       type: "books"
     values:
       layout: "page"
-  -
-    scope:
-      path: ""
-      type: "microblog"
-    values:
-      layout: "microblog-post"

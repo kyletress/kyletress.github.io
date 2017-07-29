@@ -5,8 +5,6 @@ header:
     url: /newsletter/
   - title: Bookshelf
     url: /bookshelf/
-  - title: Microblog
-    url: /microblog/
 footer:
   - title: Contact
     url: /contact/

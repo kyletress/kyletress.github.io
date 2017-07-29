@@ -15,10 +15,6 @@ main {
   flex: 1;
 }
 
-a {
-  color: #286dc0;
-}
-
 blockquote {
   font-style: italic;
   margin-left: 0;
@@ -35,42 +31,4 @@ header, footer {
 
 h2 {
   line-height: 24px;
-}
-
-// -------------------------------
-// MICROBLOG
-// -------------------------------
-
-.microblog-posts {
-  margin-top:2rem;
-}
-.microblog-post:not(:last-of-type) {
-  border-bottom: 1px solid #eee;
-  padding-bottom: 1rem;
-  margin-bottom: 1rem;
-  p:last-of-type {
-    margin: 0;
-  }
-  img {
-    margin: 1rem 0;
-    max-width: 450px;
-  }
-}
-
-.microblog-post--single {
-  img {
-    margin: 1rem auto;
-    max-width: 560px;
-  }
-}
-
-.microblog-post__footer {
-  color: lighten(#555, 20%);
-  font-size: .9rem;
-  //padding-top: .5rem;
-  a {
-    color: inherit;
-    font-weight: 400;
-    text-decoration: none;
-  }
 }
