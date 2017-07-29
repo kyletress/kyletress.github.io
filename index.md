@@ -12,8 +12,8 @@ Since you're here, you should **[subscribe to my weekly email](/newsletter)** --
 - United States Olympic Committee Athlete Representative.
 - USA Bobsled/Skeleton Athlete Advisory Committee Chairman.
 - USA Bobsled/Skeleton Board of Directors.
-- Lead Rails developer at Instaviser.
-
+- See my [1 Second Everyday videos](/1se).
+  
 ### Recent
 
 - **[Remembering Steve Holcomb](/writing/remembering-steve)**
