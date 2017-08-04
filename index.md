@@ -4,7 +4,7 @@ title: Home
 
 I'm **Kyle Tress**. I'm an Olympic athlete in the sport of skeleton. When I'm not racing headfirst down a mountain of ice at 90 miles per hour, I'm a Ruby on Rails developer at [Instaviser](http://www.instaviser.com), and a web tester at [The Wirecutter](https://www.thewirecutter.com).
 
-Since you're here, you should **[subscribe to my weekly email](/newsletter)** -- especially if you like book recommendations, thoughts on performance, and eclectic links from around the web.
+Since you're here, you should **[subscribe to my monthly email](/newsletter)** -- especially if you like book recommendations, thoughts on performance, and eclectic links from around the web.
 
 ### In Brief
 
