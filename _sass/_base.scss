@@ -32,3 +32,17 @@ header, footer {
 h2 {
   line-height: 24px;
 }
+
+.alert {
+  text-align:center;
+  margin-top: 1rem;
+  padding: 15px;
+  background: #dff0d8;
+  color: #3c763d;
+  p {
+    margin: 0;
+  }
+  a {
+    color: #3c763d;
+  }
+}
