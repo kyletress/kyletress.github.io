@@ -2,10 +2,12 @@
 <html lang="en">
   {% include head.html %}
   <body>
+    {% comment %}
     {% include header.html %}
     <main class="container">
       {{ content }}
     </main>
     {% include footer.html %}
+    {% endcomment %}
   </body>
 </html>
